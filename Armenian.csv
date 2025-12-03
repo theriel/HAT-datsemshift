@@ -1,0 +1,340 @@
+﻿ID,Shift_ID,Type,Realization,Status,Direction,Source_Concept,Source_Concept_ID,Target_Concept,Target_Concept_ID,Source_Language,Source_Language_ID,Target_Language,Target_Language_ID,Source_Meaning,Target_Meaning,Source_Word,Target_Word
+32,shift5951,Derivation,4,ACCEPTED,→,how many?,1680,several,4001,Armenian,176,Armenian,176,how many?,several,kʿani (քանի),mi kʿani (մի քանի)
+95,shift4373,Polysemy,7,ACCEPTED,—,letter (character),199,letter (text),200,Classical Armenian,293,Classical Armenian,293,letter (character),"letter, epistle; writing, document, something written",gir (գիր),gir (գիր)
+96,shift4373,Polysemy,8,ACCEPTED,—,letter (character),199,letter (text),200,Classical Armenian,293,Classical Armenian,293,letter (character),"letter, epistle",taṙ (տառ),taṙ (տառ)
+151,shift1400,Polysemy,2,ACCEPTED,—,to break (tr.),2370,to ache,2214,Armenian,176,Armenian,176,to break (intr.),to feel pain in joints,kotratvel (կոտրատվել),kotratvel (կոտրատվել)
+189,shift5426,Polysemy,1,NEW,→,crown (n.),1149,comb (of a bird),1041,Classical Armenian,293,Classical Armenian,293,crown (n.),crest of a cock,tʿag (թագ),tʿag (թագ)
+267,shift1959,Polysemy,5,ACCEPTED,→,soldier,4154,jack (playing card),1171,Armenian,176,Armenian,176,soldier,jack (playing card),zinuor (զինվոր),zinuor (զինվոր)
+333,shift0975,Polysemy,6,ACCEPTED,?,to fall down,2605,to die,2517,Armenian,176,Armenian,176,to fall,"to be killed, to die",ənknel,ənknel
+364,shift8027,Derivation,2,ACCEPTED,→,house,1678,live-in son-in-law,233,Armenian,176,Armenian,176,house,live-in son-in-law,tun (տուն),tnpʿesa (տնփեսա)
+382,shift1402,Polysemy,2,ACCEPTED,—,blind,3624,blunt,3637,Armenian,176,Armenian,176,blind,stupid,kuyr,kuyr
+698,shift5439,Polysemy,1,NEW,→,ear,3792,shoehorn,4043,Armenian,176,Armenian,176,ear,(figuratively) shoehorn,akanǰ (ականջ),akanǰ (ականջ)
+742,shift6329,Polysemy,5,ACCEPTED,←,fame,1224,name,1820,Classical Armenian,293,Classical Armenian,293,"renown, glory, reputation, honor, title",name,anun (անուն),anun (անուն)
+840,shift8546,Polysemy,1,NEW,—,to bite one&#39;s finger,2349,to be surprised,2305,Western Armenian,1251,Western Armenian,1251,to bite one's finger,to be surprised,matə kcel (մատը կծել),matə kcel (մատը կծել)
+910,shift5682,Derivation,1,NEW,→,to separate,3127,diaphragm,4430,Classical Armenian,293,Classical Armenian,293,to separate,diaphragm,stocem (ստոծեմ),stocani (ստոծանի)
+1270,shift0944,Polysemy,1,ACCEPTED,?,button (on a dress),3738,push button,499,Armenian,176,Armenian,176,button,button,kočak,kočak
+1302,shift0354,Polysemy,3,ACCEPTED,?,to strew,3233,to pour,2993,Armenian,176,Armenian,176,to scatter,to pour,lynel,lynel
+1304,shift0354,Polysemy,5,ACCEPTED,—,to strew,3233,to pour,2993,Armenian,176,Armenian,176,to pour,to flow,tʿapʿel (թափել),tʿapʿel (թափել)
+1328,shift8120,Motivation,2,ACCEPTED,→,sea,3970,guinea pig (Cavia porcellus),860,Armenian,176,Armenian,176,sea,guinea pig (Cavia porcellus),cov (ծով),covaxozuk (ծովախոզուկ)
+1416,shift0851,Polysemy,8,ACCEPTED,—,heavy (of weight),1594,pregnant,456,Armenian,176,Armenian,176,heavy,pregnant (lit. Heavy),сanr,сanr
+1443,shift5516,Derivation,2,NEW,→,"grain, seed",823,rook,1494,Armenian,176,Armenian,176,seed (n.),rook,sermn (սերմն),sermnagṙav (սերմնագռավ)
+1470,shift7408,Polysemy,2,NEW,—,"spine, backbone",4205,back (body part),3485,Classical Armenian,293,Classical Armenian,293,spine,back (body part),ołn (ողն),ołn (ողն)
+1492,shift0888,Derivation,11,ACCEPTED,—,back (body part),3485,"mountain ridge, edge",731,Armenian,176,Armenian,176,spinal bone,mountain range,вогн,вогунк
+1596,shift4247,Derivation,4,ACCEPTED,→,pear,328,potato,445,Armenian,176,Armenian,176,pear,(dated) potato (lit. the pear of Catholicos Yeprem),tanj (տանձ),Kat’ołikos Ep’remi tanjy (Կաթողիկոս Եփրեմի տանձը)
+1949,shift4068,Polysemy,2,ACCEPTED,→,"albumen, white of an egg",1966,protein,485,Armenian,176,Armenian,176,"albumen, white of an egg",protein,spitakucʿ (սպիտակուց),spitakucʿ (սպիտակուց)
+2143,shift2873,Polysemy,4,ACCEPTED,—,low (location),263,low (size),264,Armenian,176,Armenian,176,low (location),low (size),storin (ստորին),storin (ստորին)
+2234,shift1387,Derivation,1,ACCEPTED,?,nettle (Urtica),1849,small tortoise-shell (Aglais urticae),4125,Armenian,176,Armenian,176,nettle,hives,ełinǰ,ełnǰat(h)it(h)eř
+2286,shift6369,Derivation,1,NEW,→,grey,846,badger (Meles),3501,Armenian,176,Armenian,176,grey,badger (Meles),gorš (գորշ),goršuk (գորշուկ)
+2296,shift1415,Derivation,2,NEW,?,long (size),246,long-fibred flax (Linum usitatissimum),250,Armenian,176,Armenian,176,long,fibre flax,ervar,ervaravuš
+2433,shift0700,Polysemy,3,ACCEPTED,→,paper,297,playing cards,407,Classical Armenian,293,Classical Armenian,293,paper,(post-Classical) playing card,tʿułtʿ (թուղթ),tʿułtʿ (թուղթ)
+2537,shift4939,Derivation,6,ACCEPTED,→,evening,3871,"party, soiree",309,Armenian,176,Armenian,176,evening,"party, soiree",ereko (երեկո),erekuytʿ (երեկույթ)
+2710,shift5007,Derivation,4,ACCEPTED,→,garden,766,kindergarten,1712,Armenian,176,Armenian,176,garden,kindergarten,partez (պարտեզ),mankapartez (մանկապարտեզ)
+2747,shift8033,Polysemy,1,NEW,→,to work,3380,"to try, to attempt",3318,Armenian,176,Armenian,176,to work,"to try, to attempt",ašxatel (աշխատել),ašxatel (աշխատել)
+2838,shift0463,Polysemy,3,ACCEPTED,—,eye,3890,bud (on a twig),3712,Armenian,176,Armenian,176,eyes,kidney,aǰk(h),aǰk(h)
+2842,shift0463,Derivation,7,ACCEPTED,—,eye,3890,bud (on a twig),3712,Armenian,176,Armenian,176,eye,bud,akn,aknuř
+2952,shift0057,Polysemy,16,ACCEPTED,—,boy,3666,servant,3997,Armenian,176,Armenian,176,boy,servant,tła,tła
+3185,shift1138,Polysemy,5,ACCEPTED,→,to bridle,2376,to subjugate,3239,Armenian,176,Armenian,176,to bridle,to bridle,sanj dnel,sanj dnel
+3259,shift0007,Polysemy,17,ACCEPTED,—,"to turn, rotate (intr.)",3327,to become,2312,Armenian,176,Armenian,176,to turn (back),"to turn into, to become",dařnal,dařnal
+3359,shift3695,Polysemy,2,NEW,—,hare (Lepus),1562,chanterelle,942,Armenian,176,Armenian,176,hare (Lepus),"chanterelle, Cantharellus cibarius",napastak (նապաստակ),napastaki akanǰ (նապաստակի ականջ)
+3433,shift0112,Derivation,3,NEW,—,oar,4511,"shoulder-blade, scapula",4055,Armenian,176,Armenian,176,oar,"shoulder-blade, scapula",tʿi (թի),tʿiak (թիակ)
+3679,shift5817,Derivation,1,ACCEPTED,→,friend,1380,"afterbirth, placenta",1953,Classical Armenian,293,Classical Armenian,293,friend,"afterbirth, placenta",ənker (ընկեր),ənkerkʿ (ընկերք)
+3706,shift2015,Polysemy,8,ACCEPTED,?,hot,1673,angry,1997,Armenian,176,Armenian,176,hot,hot-tempered,tak(h),srsp(h)al
+3798,shift4457,Polysemy,1,ACCEPTED,→,inscription,1785,side of a coin,4072,Armenian,176,Armenian,176,letter (symbol in an alphabet),reverse side of a coin,gir (գիր),gir (գիր)
+3871,shift5893,Polysemy,3,ACCEPTED,→,milk,657,Milky Way,659,Classical Armenian,293,Classical Armenian,293,milk,Milky Way,katʿn (կաթն),Cir Katʿin (Ծիր Կաթին)
+4006,shift1183,Polysemy,3,ACCEPTED,→,to dissolve in liquid (tr.),2535,to solve (a problem),3188,Armenian,176,Armenian,176,to dissolve,to decide,lucel,lucel
+4028,shift1350,Polysemy,9,ACCEPTED,?,to go away,2700,to die,2517,Armenian,176,Armenian,176,to go,to die,gnel,gnel
+4486,shift6115,Polysemy,2,ACCEPTED,—,greedy,844,stingy,4272,Armenian,176,Armenian,176,greedy,stingy,agah (ագահ),agah (ագահ)
+4587,shift5810,Derivation,1,NEW,→,chestnut,955,prostate,482,Armenian,176,Armenian,176,chestnut,prostate,šaganak (շագանակ),šaganakagełj (շագանակագեղձ)
+4643,shift3610,Derivation,8,ACCEPTED,→,to forget,2653,forget-me-not (flower),1352,Armenian,176,Armenian,176,to forget,forget-me-not (flower),moṙanal (մոռանալ),anmoṙuk (անմոռուկ)
+4881,shift7912,Polysemy,1,NEW,→,curtain,1165,sail (n.),3920,Classical Armenian,293,Classical Armenian,293,curtain,sail (n.),aṙagast (առագաստ),aṙagast (առագաստ)
+4898,shift1064,Polysemy,16,NEW,—,rooster,1497,cock (of a gun),1023,Armenian,176,Armenian,176,rooster,cock (of a gun),xoroz (խորոզ),xoroz (խորոզ)
+4962,shift0364,Polysemy,5,NEW,→,back (body part),3485,support (n.),4342,Armenian,176,Armenian,176,back (body part),"(figuratively) support, help",kṙnak (կռնակ),kṙnak (կռնակ)
+5020,shift1603,Polysemy,2,ACCEPTED,→,Romani,1492,to ask (for),2238,Armenian,176,Armenian,176,"a member of the Bosha, an Armenian Gypsy",beggar,boša (բոշա),boša (բոշա)
+5058,shift0873,Polysemy,5,ACCEPTED,?,"hard, solid",1558,"severe, harsh",4003,Armenian,176,Armenian,176,hard,"severe, cruel; rude",karcr,karcr
+5308,shift5812,Polysemy,1,NEW,→,fish,1300,lightning,215,Armenian,176,Armenian,176,fish,(dialectal) a lightning flashing far on the horizon,juk (ձուկ),juk (ձուկ)
+5403,shift1070,Derivation,2,ACCEPTED,?,cat,905,catkin,912,Armenian,176,Armenian,176,cat (female),aglet,katu,katvik
+5573,shift8106,Motivation,4,ACCEPTED,→,pig (Sus scrofa),369,guinea pig (Cavia porcellus),860,Armenian,176,Armenian,176,diminutive of xoz (խոզ) 'pig',guinea pig (Cavia porcellus),xozuk (խոզուկ),covaxozuk (ծովախոզուկ)
+5714,shift4864,Polysemy,7,ACCEPTED,→,heart,1588,hearts (in cards),1589,Armenian,176,Armenian,176,heart,hearts (in cards),sirt (սիրտ),sirt (սիրտ)
+5757,shift1960,Polysemy,5,ACCEPTED,→,soldier,4154,pawn (in chess),320,Armenian,176,Armenian,176,soldier,pawn (in chess),zinvor (զինվոր),zinvor (զինվոր)
+5972,shift7572,Polysemy,2,ACCEPTED,→,sister,4091,nurse (junior medical staff),1897,Armenian,176,Armenian,176,sister,nurse (junior medical staff),kʿuyr (քույր),kʿuyr (քույր)
+6028,shift6975,Polysemy,2,ACCEPTED,—,cradle,1126,swing (hanging seat),4368,Armenian,176,Armenian,176,cradle,swing (hanging seat),čoč (ճոճ),čoč (ճոճ)
+6051,shift1412,Polysemy,1,NEW,?,"to smear, anoint",3176,"to disgrace, dishonor",2532,Armenian,176,Armenian,176,to spread,"to disgrace, to dishonour",k(h)sel,k(h)sel
+6145,shift7527,Derivation,13,ACCEPTED,→,thousand,2181,myriapod,757,Armenian,176,Armenian,176,thousand,myriapod,hazar (հազար),hazarotnuk (հազարոտնուկ)
+6158,shift4528,Polysemy,4,NEW,—,bud (of a flower),3711,nipple (part of the breast),1868,Armenian,176,Armenian,176,bud (of a flower),nipple (part of the breast),ptuk (պտուկ),ptuk (պտուկ)
+6171,shift5831,Polysemy,1,NEW,→,to separate,3127,to switch off,3264,Armenian,176,Armenian,176,"to separate, to part; to detach; to disconnect; to disunite","to turn off, to shut down, to disable (to put a device, system or mechanism out of operation)",anǰatel (անջատել),anǰatel (անջատել)
+6227,shift0242,Polysemy,22,ACCEPTED,—,"to grasp, seize",2717,to understand,3331,Armenian,176,Armenian,176,to take,"to understand (word, expression)",ařnel,ařnel
+6864,shift0487,Polysemy,6,ACCEPTED,?,mouth,735,eater,3805,Armenian,176,Armenian,176,mouth,eater,beran,beran
+7030,shift4718,Polysemy,7,ACCEPTED,→,root (of a plant),1499,root (arithmetic),1498,Armenian,176,Armenian,176,root (of a plant),root (arithmetic),armat (արմատ),armat (արմատ)
+7110,shift7407,Polysemy,1,NEW,—,"spine, backbone",4205,spindle,4203,Armenian,176,Armenian,176,(colloquial) spine,spindle,ilik (իլիկ),ilik (իլիկ)
+7234,shift6519,Derivation,8,ACCEPTED,→,horse,1661,hippopotamus,1630,Classical Armenian,293,Classical Armenian,293,horse (Equus caballus),hippopotamus,ji (ձի),getaji (գետաձի)
+7337,shift1383,Polysemy,1,NEW,→,market,593,noise,1872,Armenian,176,Armenian,176,market,"noise, tumult",bazar (բեզեր),bazar (բեզեր)
+7408,shift1980,Derivation,3,ACCEPTED,→,"ship, vessel",4039,to sail,3107,Armenian,176,Armenian,176,boat,to go by boat,nav,navel
+7630,shift5809,Derivation,1,NEW,→,tail,2113,"coccyx, tailbone",1022,Armenian,176,Armenian,176,tail,"coccyx, tailbone",počʿ (պոչ),počʿuk (պոչուկ)
+7714,shift8271,Polysemy,6,ACCEPTED,→,liver,236,"dear, darling",4397,Armenian,176,Armenian,176,"(early Modern Armenian, XVII c.) liver","dear, darling",ǰigyar (ջիգյար),ǰigyar (ջիգյար)
+7930,shift0762,Polysemy,5,ACCEPTED,?,to taste (tr.),3283,to feel (an emotion),2613,Armenian,176,Armenian,176,"to eat, to taste",to experience,əmbošxnel,əmbošxnel
+8070,shift5821,Polysemy,1,NEW,→,mill (n.),660,molar (tooth),692,Classical Armenian,293,Classical Armenian,293,mill (n.),molar (tooth),"ałōri (աղօրի), aławri (աղաւրի)","ałōri (աղօրի), aławri (աղաւրի)"
+8071,shift5821,Polysemy,2,NEW,→,mill (n.),660,molar (tooth),692,Armenian,176,Armenian,176,mill (n.),molar (tooth),ałorikʿ (աղորիք),ałorikʿ (աղորիք)
+8581,shift2778,Polysemy,7,ACCEPTED,→,hand/arm,1550,"power, authority",450,Armenian,176,Armenian,176,"arm, forearm","(figuratively) power, might",bazuk (բազուկ),bazuk (բազուկ)
+8731,shift3745,Polysemy,29,NEW,←,eyelid,3899,eyelash,3898,Armenian,176,Armenian,176,(collectively) eyelids,(archaic) eyelash (single); (collectively) eyelashes,artewanunkʿ (արտեւանունք),artewanunkʿ (արտեւանունք)
+8972,shift0973,Polysemy,6,ACCEPTED,?,to stand up,3216,"to revolt, rebel",3085,Armenian,176,Armenian,176,"to rise, to go up",to rebel,elnel,elnel
+9074,shift0958,Polysemy,2,ACCEPTED,—,mouse,733,muscle,747,Classical Armenian,293,Classical Armenian,293,mouse,muscle,mukn,mukn
+9088,shift1309,Polysemy,1,ACCEPTED,?,monarch,696,queen (bee),1903,Armenian,176,Armenian,176,queen,queen bee,t(h)aguhi,t(h)aguhi
+9135,shift8493,Derivation,2,NEW,→,circle,983,Milky Way,659,Armenian,176,Armenian,176,circle,Milky Way,cir (ծիր),Cir Katʿin (Ծիր Կաթին)
+9179,shift1388,Derivation,1,ACCEPTED,?,nettle (Urtica),1849,nettle-rash,1850,Armenian,176,Armenian,176,nettle,hives,ełinǰ,ełnǰatend
+9293,shift5819,Polysemy,5,ACCEPTED,→,"human, person",1683,person (grammar),357,Armenian,176,Armenian,176,face,person (grammar),demkʿ (դեմք),demkʿ (դեմք)
+9332,shift1405,Polysemy,13,ACCEPTED,—,to practice witchcraft,2994,"to charm, to delight",2421,Armenian,176,Armenian,176,"to put a spell, to bewitch","to charm, to captivate",hmayel (հմայել),hmayel (հմայել)
+9338,shift1405,Polysemy,19,ACCEPTED,→,to practice witchcraft,2994,"to charm, to delight",2421,Armenian,176,Armenian,176,to conjure,"to charm, to delight",kaxardel (կախարդել),kaxardel (կախարդել)
+9580,shift3262,Polysemy,6,ACCEPTED,→,star,4247,celebrity,922,Armenian,176,Armenian,176,star,celebrity,astġ աստղ,astġ աստղ
+9710,shift0865,Polysemy,9,ACCEPTED,?,blunt,3637,stupid,4312,Armenian,176,Armenian,176,blunt,"stupid, dim",but(h),but(h)
+9759,shift5556,Derivation,10,ACCEPTED,→,squirrel (Sciurus),4237,common chipmunk,1051,Armenian,176,Armenian,176,squirrel (Sciurus),common chipmunk,skyuṙ (սկյուռ),šertaskyuṙ (շերտասկյուռ)
+9822,shift2154,Motivation,23,NEW,→,apple,2018,potato,445,Western Armenian,1251,Western Armenian,1251,apple,potato,xnjor (խնձոր),getnaxnjor (գետնախնձոր)
+9916,shift2627,Derivation,5,ACCEPTED,→,door,4466,on the outside,4541,Classical Armenian,293,Classical Armenian,293,door,outside,durkʿ,durs
+9977,shift2637,Polysemy,3,ACCEPTED,→,smoke,4130,house,1678,Armenian,176,Armenian,176,smoke,"(figurative) household, family, hearth, home",cux (ծուխ),cux (ծուխ)
+9983,shift5940,Polysemy,2,ACCEPTED,→,dog,4458,cock (of a gun),1023,Armenian,176,Armenian,176,little dog,cock (of a gun),šnik (շնիկ),šnik (շնիկ)
+10003,shift0477,Polysemy,10,ACCEPTED,—,mouth,735,mouth (of a river),736,Armenian,176,Armenian,176,mouth,river mouth,beran (բերան),beran (բերան)
+10048,shift1396,Polysemy,1,ACCEPTED,→,flower,1323,smallpox,4126,Armenian,176,Armenian,176,flower,smallpox,całik (ծաղիկ),całik (ծաղիկ)
+10537,shift1152,Semantic evolution,6,ACCEPTED,→,mortal,713,"human, person",1683,Armenian,176,Armenian,176,mortal,person,մարդ,մարդ
+10570,shift7454,Derivation,3,ACCEPTED,→,white,62,"white of an eye, sclera",65,Armenian,176,Armenian,176,white,white of an eye,spitak (սպիտակ),spitakucʿ (սպիտակուց)
+10814,shift1382,Polysemy,4,ACCEPTED,—,"edge, border",3810,"country, land",1109,Armenian,176,Armenian,176,"edge, end","land, country",apʿ (ափ),apʿ (ափ)
+10836,shift7858,Derivation,7,ACCEPTED,→,pig (Sus scrofa),369,capybara,893,Armenian,176,Armenian,176,dim. from xoz (խոզ) 'pig',capybara,xozuk (խոզուկ),ǰraxozuk (ջրախոզուկ)
+10931,shift5618,Polysemy,1,ACCEPTED,→,navel,1833,keystone,1706,Classical Armenian,293,Classical Armenian,293,navel,keystone,port (պորտ),port (պորտ)
+10972,shift2987,Derivation,2,ACCEPTED,→,mother,720,continent,1088,Armenian,176,Armenian,176,mother,continent,mayr (մայր),mayrcʿamakʿ (մայրցամաք)
+11020,shift0147,Polysemy,12,ACCEPTED,→,egg,3813,testicle,2161,Armenian,176,Armenian,176,egg,testicle,ju (ձու),ju (ձու)
+11218,shift1397,Polysemy,2,ACCEPTED,—,to tie,3302,to stop doing smth.,3227,Armenian,176,Armenian,176,to tie (up),to stop activities,կապել (kapel),կապել (kapel)
+11470,shift0752,Polysemy,1,ACCEPTED,?,to carry,2401,to endure,2578,Armenian,176,Armenian,176,to carry,"to suffer, to undergo",krel,krel
+11477,shift0752,Polysemy,8,ACCEPTED,?,to carry,2401,to endure,2578,Armenian,176,Armenian,176,to carry,"to stand, to bear",tanel,tanel
+11594,shift1343,Polysemy,4,ACCEPTED,—,wing,92,fin,1281,Armenian,176,Armenian,176,wing,fin,t‘ev (թեվ),t‘ev (թեվ)
+11733,shift6133,Derivation,9,ACCEPTED,→,rain,1420,umbrella,504,Armenian,176,Armenian,176,rain,umbrella,anjrew (անձրեւ),anjrewanocʿ (անձրեւանոց)
+11854,shift5615,Polysemy,2,ACCEPTED,→,"to destroy, annihilate",2514,fighter plane,1277,Armenian,176,Armenian,176,to annihilate,fighter plane,korcaničʿ (կործանիչ),korcaničʿ (կործանիչ)
+11860,shift1410,Derivation,1,NEW,?,dog,4458,poisonous,424,Armenian,176,Armenian,176,dog,dogberry,šun,šnaxaǰoǰ
+11969,shift0421,Polysemy,6,NEW,→,&lt;vessel&gt;,3742,pelvis,339,Armenian,176,Armenian,176,basin,pelvis,konkʿ (կոնք),konkʿ (կոնք)
+12157,shift1391,Polysemy,8,ACCEPTED,—,to sing,3157,to glorify,2695,Armenian,176,Armenian,176,to sing,"to sing, to praise",ergel,ergel
+12375,shift3999,Polysemy,6,ACCEPTED,→,basket,3525,beehive,3558,Armenian,176,Armenian,176,basket,beehive made with sticks and twigs,kʿtʿocʿ (քթոց),kʿtʿocʿ (քթոց)
+12507,shift1078,Polysemy,2,ACCEPTED,→,lean,178,fatless,1245,Armenian,176,Armenian,176,lean,lean (meat),nihar,nihar
+12607,shift6193,Polysemy,1,ACCEPTED,→,to ring (tr.),3088,to make a telephone call,2882,Armenian,176,Armenian,176,to ring,to make a telephone call,zangel (զանգել),zangel (զանգել)
+12635,shift5181,Polysemy,1,ACCEPTED,→,"step, pace",4257,move (board games),737,Armenian,176,Armenian,176,"step, pace",move (chess),kʿayl (քայլ),kʿayl (քայլ)
+12675,shift1168,Polysemy,6,ACCEPTED,?,to speak,3193,"to order, command",2953,Armenian,176,Armenian,176,to speak,"to order, to assign",asel,asel
+12695,shift5808,Polysemy,1,ACCEPTED,→,neck,1837,isthmus,1809,Armenian,176,Armenian,176,neck,(rare) isthmus,viz (վիզ),viz (վիզ)
+12697,shift5808,Polysemy,3,ACCEPTED,→,neck,1837,isthmus,1809,Armenian,176,Armenian,176,neck,isthmus,paranocʿ (պարանոց),paranocʿ (պարանոց)
+12858,shift4419,Polysemy,1,ACCEPTED,→,flower,1323,best part of something,3584,Classical Armenian,293,Classical Armenian,293,flower,"(fig.) choice, best",całik (ծաղիկ),całik (ծաղիկ)
+12873,shift6302,Polysemy,6,NEW,→,anvil (of a blacksmith),2010,"incus, anvil bone",1764,Armenian,176,Armenian,176,anvil (of a blacksmith),anvil bone,sal (սալ),sal (սալ)
+13013,shift5567,Polysemy,15,ACCEPTED,→,"wild, untamed",82,"rude, impolite",1517,Classical Armenian,293,Classical Armenian,293,wild predatory beast,"(figuratively) brutal, beastly man",gazan (գազան),gazan (գազան)
+13049,shift7157,Polysemy,2,ACCEPTED,→,"step, pace",4257,"act, deed",1938,Armenian,176,Armenian,176,"step, pace","act, deed",քայլ (kʿayl),քայլ (kʿayl)
+13058,shift6225,Polysemy,2,NEW,→,to break (intr.),2368,"to be stubborn, obstinate",2303,Armenian,176,Armenian,176,to break (intr.),"to be stubborn, refuse to agree to smth. without good reason",kotratvel (կոտրատվել),kotratvel (կոտրատվել)
+13079,shift0524,Polysemy,3,ACCEPTED,?,chest (body part),954,mountain slope,732,Armenian,176,Armenian,176,chest,slope (hill),ландж,ландж
+13098,shift4913,Polysemy,1,NEW,→,girl,786,queen (playing card),1904,Armenian,176,Armenian,176,girl,queen (playing card),ałǰik (աղջիկ),ałǰik (աղջիկ)
+13110,shift6581,Polysemy,2,ACCEPTED,→,sour,4175,acid,1934,Armenian,176,Armenian,176,sour,acid,tʿtʿu (թթու),tʿtʿu (թթու)
+13171,shift3810,Polysemy,1,ACCEPTED,→,horse,1661,knight (chess),1722,Armenian,176,Armenian,176,horse (Equus caballus),knight (chess),ji (ձի),ji (ձի)
+13195,shift5804,Polysemy,1,ACCEPTED,→,organ (anatomy),4561,institution,1792,Armenian,176,Armenian,176,organ (anatomy),"agency, authority",ōrgan (օրգան),ōrgan (օրգան)
+13401,shift2183,Polysemy,23,ACCEPTED,→,"to follow, go after smb.",2649,to act according to,2218,Armenian,176,Armenian,176,to follow,to act according to,hetevel (հետեւել),hetevel (հետեւել)
+13484,shift8031,Polysemy,2,ACCEPTED,→,to work,3380,to function,2662,Armenian,176,Armenian,176,to work,to function,ašxatel (աշխատել),ašxatel (աշխատել)
+13682,shift1406,Derivation,1,ACCEPTED,?,wind,88,anemone (Anemone),1993,Armenian,176,Armenian,176,"storm, hurricane",anemone,hołm,hołmacałik
+13757,shift5813,Polysemy,1,NEW,→,rib,1473,side (n.),4071,Armenian,176,Armenian,176,rib,side (n.),koł (կող),koł (կող)
+13764,shift7504,Derivation,4,ACCEPTED,→,water,16,chickenpox,956,Armenian,176,Armenian,176,water,chickenpox,ǰur (ջուր),ǰrcałik (ջրծաղիկ)
+13893,shift6741,Polysemy,11,ACCEPTED,—,man (male),574,male (animal),571,Classical Armenian,293,Classical Armenian,293,male,male (animal),orj (որձ),orj (որձ)
+13938,shift0736,Polysemy,4,ACCEPTED,?,heavy (of weight),1594,expensive,3885,Armenian,176,Armenian,176,heavy,expensive,canr,canr
+13988,shift3494,Polysemy,9,ACCEPTED,→,&lt;young animal&gt;,2072,child (son or daughter),958,Armenian,176,Armenian,176,"the young of any animal, baby animal, especially the young of a bird","(figuratively, endearing) human baby",jag (ձագ),jag (ձագ)
+14047,shift4596,Derivation,6,ACCEPTED,→,lentil,194,lens,192,Armenian,176,Armenian,176,lentil,lens,osp (ոսպ),ospnyak (ոսպնյակ)
+14294,shift1389,Polysemy,4,ACCEPTED,→,to boil (intr.),2361,to be angry,2255,Armenian,176,Armenian,176,to boil,to worry,eř gal,eř gal
+14403,shift0563,Polysemy,4,ACCEPTED,—,man (male),574,"human, person",1683,Armenian,176,Armenian,176,man,person,mard (մարդ),mard (մարդ)
+14499,shift3304,Derivation,9,ACCEPTED,→,bell,3568,bellflower (Campanula),3570,Armenian,176,Armenian,176,bell,bellflower (Campanula),zang (զանգ),zangak (զանգակ)
+14597,shift0465,Polysemy,4,ACCEPTED,?,eye,3890,"spring, fountain",4226,Armenian,176,Armenian,176,eye,"well, source",акн,акн
+14628,shift3859,Polysemy,6,ACCEPTED,→,fire,1286,to shoot,3149,Armenian,176,Armenian,176,fire,shooting (of weapons),krak (կրակ),krak (կրակ)
+14782,shift4020,Polysemy,2,ACCEPTED,→,child (son or daughter),958,bee swarm,3556,Armenian,176,Armenian,176,"the young of any animal, baby animal, especially the young of a bird (figuratively, endearing) human baby",swarm of bees that leaves the hive to form a new family,jag (ձագ),jag (ձագ)
+14795,shift0491,Derivation,4,ACCEPTED,→,nose,1879,nostril,1880,Armenian,176,Armenian,176,nose,nostril,kʿitʿ (քիթ),kʿtʿancʿkʿ (քթանցք)
+14796,shift0491,Polysemy,5,ACCEPTED,→,nose,1879,nostril,1880,Armenian,176,Armenian,176,nose,nostril,kʿitʿ (քիթ),kʿtʿacak (քթածակ)
+14797,shift0491,Derivation,6,ACCEPTED,→,nose,1879,nostril,1880,Classical Armenian,293,Classical Armenian,293,nose,nostril,ṙungn (ռունգն),ṙngunkʿ (ռնգունք)
+14864,shift4449,Polysemy,5,ACCEPTED,→,monarch,696,king (a playing card),1713,Armenian,176,Armenian,176,king,king (a playing card),tʿagavor (թագավոր),tʿagavor (թագավոր)
+14927,shift1918,Derivation,8,NEW,→,"spade, shovel",4182,"shoulder-blade, scapula",4055,Armenian,176,Armenian,176,wooden shovel,"shoulder-blade, scapula",tʿi (թի),tʿiak (թիակ)
+14941,shift5436,Polysemy,1,NEW,—,carrot,898,parsnip,305,Armenian,176,Armenian,176,carrot,parsnip,stepłin (ստեպղին),stepłin (ստեպղին)
+14951,shift4890,Polysemy,2,NEW,→,noble,1870,free,1371,Classical Armenian,293,Classical Armenian,293,noble,"free, independent; freed, affranchised, redeemed, quit, ransomed",azat (ազատ),azat (ազատ)
+14978,shift1147,Polysemy,4,ACCEPTED,—,fox (Vulpes vulpes),1360,cunning person,1157,Armenian,176,Armenian,176,fox,cunning dog (cunning person),ałves,ałves
+15188,shift6368,Derivation,9,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Classical Armenian,293,Classical Armenian,293,dog,otter (Lutra lutra),šun (շուն),šnǰri (շնջրի)
+15199,shift5240,Polysemy,1,ACCEPTED,→,dew,4424,tears,2139,Armenian,176,Armenian,176,dew,"(literary, figuratively) tear, teardrop",cʿoł (ցող),cʿoł (ցող)
+15251,shift6295,Polysemy,1,NEW,→,"table, desk",2107,molar (tooth),692,Classical Armenian,293,Classical Armenian,293,table; desk,molar (tooth),sełan (սեղան),sełan (սեղան)
+15307,shift4145,Polysemy,1,NEW,→,hump (of a person or camel),1687,peak of mountain,326,Armenian,176,Armenian,176,hump (of a person or camel),peak of mountain,sapat (սապատ),sapat (սապատ)
+15340,shift8149,Derivation,6,ACCEPTED,→,worm,123,scale insect,3950,Armenian,176,Armenian,176,worm,scale insects,ord (որդ),ordanner (որդաններ)
+15377,shift7067,Derivation,2,NEW,→,grandmother,827,midwife,656,Armenian,176,Armenian,176,grandmother,(dialectal) midwife,tat (տատ),"tatmayr, tatmer (տատմայր, տատմեր)"
+15483,shift7537,Derivation,2,ACCEPTED,→,to sleep,3169,dormouse,4469,Armenian,176,Armenian,176,"sleep, slumber",dormouse,kʿun (քուն),kʿnamuk (քնամուկ)
+15788,shift4537,Derivation,102,ACCEPTED,→,middle,652,middle finger,653,Armenian,176,Armenian,176,middle,middle finger,meǰteł (մեջտեղ),miǰnamat (միջնամատ)
+15956,shift3933,Polysemy,4,ACCEPTED,→,&lt;horned animal&gt;,1538,beautiful girl,3546,Armenian,176,Armenian,176,female deer,beautiful girl,ełnik (եղնիկ),ełnik (եղնիկ)
+16010,shift1985,Polysemy,51,NEW,→,silver,4081,money,700,Classical Armenian,293,Classical Armenian,293,silver,money,arcatʿ (արծաթ),arcatʿ (արծաթ)
+16145,shift8484,Polysemy,2,ACCEPTED,→,inkwell,1780,squid,4235,Armenian,176,Armenian,176,"(erly Modern Arnemian, XVII c. Venice) inkwell",squid,kaġamar (կաղամար),kaġamar (կաղամար)
+16156,shift1167,Polysemy,6,ACCEPTED,?,to tremble,3315,to fear,2610,Armenian,176,Armenian,176,to tremble,to be afraid,srsp(h)al,srsp(h)al
+16454,shift0366,Polysemy,4,ACCEPTED,—,heavy (of weight),1594,difficult,4433,Armenian,176,Armenian,176,heavy in weight,difficult,canr (ծանր),canr (ծանր)
+16718,shift6153,Derivation,2,NEW,→,apple,2018,pineapple,383,Armenian,176,Armenian,176,apple,(formal) pineapple,xnjor (խնձոր),arkʿayaxnjor (արքայախնձոր)
+16738,shift5613,Polysemy,9,ACCEPTED,→,left,183,left (political),184,Armenian,176,Armenian,176,left,left (political),jax (ձախ),jax (ձախ)
+16755,shift4327,Polysemy,2,ACCEPTED,→,house,1678,verse,3759,Classical Armenian,293,Classical Armenian,293,house,"couplet, strophe, stanza, verse",tun (տուն),tun (տուն)
+16769,shift0452,Polysemy,2,ACCEPTED,→,eye,3890,"cavity, hollow",920,Armenian,176,Armenian,176,eyes,"a small hole, niche in a wall, drawer, cave (cheese)",aǰk(h),aǰk(h)
+16793,shift1408,Polysemy,1,NEW,—,foam,1331,cream (of milk),1132,Armenian,176,Armenian,176,foam,cream,ser (սեր),ser (սեր)
+16801,shift5428,Polysemy,1,NEW,→,three times,2183,very,3761,Classical Armenian,293,Classical Armenian,293,"three times, thrice","(figuratively, Hellenizing School) very, much",ericʿs (երիցս),ericʿs (երիցս)
+16805,shift0926,Polysemy,3,ACCEPTED,—,barley,3516,sty (on the eye),4313,Armenian,176,Armenian,176,barley,sty,gari,gari
+16920,shift1035,Polysemy,4,ACCEPTED,?,healthy,1585,intact,1796,Armenian,176,Armenian,176,healthy,whole,sał,sał
+16921,shift1035,Polysemy,5,ACCEPTED,?,healthy,1585,intact,1796,Armenian,176,Armenian,176,healthy,"whole, entire",ołǰ,ołǰ
+16958,shift7068,Polysemy,1,NEW,—,nurse,1896,midwife,656,Classical Armenian,293,Classical Armenian,293,nurse,midwife,dayeak (դայեակ),dayeak (դայեակ)
+16988,shift1323,Polysemy,6,ACCEPTED,—,dark (adj.),4382,"gloomy, depressed",796,Armenian,176,Armenian,176,dark,gloomy,mut(h),mut(h)
+17121,shift5985,Polysemy,3,ACCEPTED,→,"grain, seed",823,descendant,4417,Classical Armenian,293,Classical Armenian,293,"grain, seed","(figuratively) progeny, race, descendants",sermn (սերմն),sermn (սերմն)
+17161,shift1538,Polysemy,3,ACCEPTED,→,crow,1147,spades (in cards),4183,Armenian,176,Armenian,176,"crow, raven",spades (in cards),agṙav (ագռավ),agṙav (ագռավ)
+17303,shift5236,Polysemy,3,ACCEPTED,→,brother,3700,member of religious organisation,634,Classical Armenian,293,Classical Armenian,293,brother,"friar, monk",ełbayr (եղբայր),ełbayr (եղբայր)
+17352,shift1399,Polysemy,9,ACCEPTED,—,dirty,4440,bad (ethically),3494,Armenian,176,Armenian,176,"dirty, solied","mean, base, vile",kałtat,kałtat
+17369,shift5679,Polysemy,5,ACCEPTED,→,mine (underground tunnel),669,mine (explosive device),668,Armenian,176,Armenian,176,tunnel (trench concealing an assailant's approach to a fortified place),mine (explosive device),akan (ական),akan (ական)
+17436,shift0976,Derivation,5,ACCEPTED,→,thread,2182,wire (n.),96,Armenian,176,Armenian,176,"rope, cord, string",wire (n.),lar (լար),metaġalar (մետաղալար)
+17474,shift5775,Polysemy,18,ACCEPTED,→,bow (weapon),3659,"bow, fiddlestick",3660,Armenian,176,Armenian,176,bow (weapon),"bow, fiddlestick",ałeł (աղեղ),ałeł (աղեղ)
+17717,shift0160,Polysemy,10,ACCEPTED,→,salad,3927,lettuce,201,Armenian,176,Armenian,176,salad,common lettuce,salatʿ (սալաթ),salatʿ (սալաթ)
+17874,shift5457,Polysemy,3,NEW,→,prophet,479,mantis,582,Armenian,176,Armenian,176,"soothsayer, oracle",mantis,harcʿuk (հարցուկ),harcʿuk (հարցուկ)
+17976,shift0392,Polysemy,18,ACCEPTED,—,beautiful,3545,good,814,Western Armenian,1251,Western Armenian,1251,beautiful,good,ałvor (աղվոր),ałvor (աղվոր)
+18054,shift5818,Derivation,1,ACCEPTED,→,"to strike, hit",3234,artery,2036,Armenian,176,Armenian,176,"to beat, hit",artery,zarkel (զարկել),zarkerak (զարկերակ)
+18123,shift7107,Polysemy,1,NEW,→,pillow,376,base (geometry),3521,Classical Armenian,293,Classical Armenian,293,"pillow (that is put under the head); cushion for sitting, considered a sign of dignity",base of a triangle,barj (բարձ),barj (բարձ)
+18173,shift2045,Polysemy,4,NEW,→,messenger,642,angel,1994,Classical Armenian,293,Classical Armenian,293,messenger,angel,hreštak (հրեշտակ),hreštak (հրեշտակ)
+18413,shift4418,Polysemy,1,NEW,→,flower,1323,beautiful,3545,Classical Armenian,293,Classical Armenian,293,flower,"(figuratively) beauty, youth, bloom",całik (ծաղիկ),całik (ծաղիկ)
+18718,shift0471,Polysemy,2,ACCEPTED,?,eye,3890,look (n.),252,Armenian,176,Armenian,176,eyes,"glance, look",aǰk(h),aǰk(h)
+18747,shift5427,Polysemy,1,NEW,→,crown (n.),1149,queen (bee),1903,Classical Armenian,293,Classical Armenian,293,crown (n.),queen (bee),tʿag (թագ),tʿag (թագ)
+18756,shift1384,Derivation,2,ACCEPTED,→,to break (tr.),2370,buckthorn (Frangula),3709,Armenian,176,Armenian,176,(dated) to break,buckthorn,bekel (բեկել),bekteni (բեկտենի)
+18806,shift2714,Polysemy,38,ACCEPTED,→,liver,236,location of emotions,239,Armenian,176,Armenian,176,"(early Modern Armenian, XVII c.) liver",(metaphorically) heart,ǰigyar (ջիգյար),ǰigyar (ջիգյար)
+18857,shift1385,Polysemy,1,ACCEPTED,→,"to go, walk",2715,"to fall (of rain, snow)",2603,Armenian,176,Armenian,176,to to go (towards the speaker),"to rain, to snow",gal (գալ),gal (գալ)
+18868,shift0646,Polysemy,1,ACCEPTED,?,to play (intr.),2981,dance (n.),4377,Armenian,176,Armenian,176,"game (children, sport)",dance,xał,xał
+19074,shift0939,Polysemy,2,ACCEPTED,?,"fearful, dreadful",1247,big,3588,Armenian,176,Armenian,176,scary,huge,ahřeli,ahřeli
+19162,shift0346,Polysemy,9,ACCEPTED,—,dream (during sleep),4479,daydream (n.),4393,Armenian,176,Armenian,176,dream,daydream,eraz (երազ),eraz (երազ)
+19174,shift0346,Polysemy,21,ACCEPTED,—,dream (during sleep),4479,daydream (n.),4393,Armenian,176,Armenian,176,dream (during sleep),daydream (n.),anurǰ (անուրջ),anurǰ (անուրջ)
+19239,shift1411,Derivation,2,ACCEPTED,—,low (location),263,meek,626,Armenian,176,Armenian,176,low,"obedient, humble",c(h)ac,c(h)acglux
+19250,shift0933,Polysemy,7,ACCEPTED,—,man (male),574,husband,1694,Armenian,176,Armenian,176,man,husband,mard (մարդ),mard (մարդ)
+19506,shift1935,Polysemy,4,ACCEPTED,→,brick (n.),3686,diamonds (in cards),4429,Armenian,176,Armenian,176,brick (n.),diamonds (in cards),aguṙ (ագուռ),aguṙ (ագուռ)
+19507,shift1935,Polysemy,5,ACCEPTED,→,brick (n.),3686,diamonds (in cards),4429,Armenian,176,Armenian,176,(colloquial) brick (n.),(colloquial) diamonds (in cards),kʿyarpʿinǰ (քյարփինջ),kʿyarpʿinǰ (քյարփինջ)
+19510,shift5438,Polysemy,1,NEW,→,celery,923,parsley,304,Armenian,176,Armenian,176,celery,parsley,karos (կարոս),karos (կարոս)
+19744,shift5413,Polysemy,6,ACCEPTED,→,tongue (body part),3400,clapper of a bell,989,Armenian,176,Armenian,176,tongue (body part),clapper of a bell,lezu (լեզու),lezu (լեզու)
+19757,shift0620,Polysemy,4,ACCEPTED,—,dandruff,4379,bran,3670,Armenian,176,Armenian,176,dandruff,bran,tʿepʿ (թեփ),tʿepʿ (թեփ)
+19776,shift1063,Polysemy,5,ACCEPTED,?,dark (adj.),4382,ignorant,1738,Armenian,176,Armenian,176,dark,ignorant,xavar,xavar
+19950,shift4330,Derivation,8,ACCEPTED,→,white,62,bed-clothes,3551,Armenian,176,Armenian,176,white,bed-clothes,spitak (սպիտակ),spitakełen (սպիտակեղեն)
+20047,shift1407,Derivation,2,ACCEPTED,—,hawk (Accipiter),1569,hawkweed (Hieracium),1570,Armenian,176,Armenian,176,hawk,hawkweed,ճուռակ (čuřak),ճուռակախոտ (čuřakaxot)
+20168,shift0515,Polysemy,7,ACCEPTED,→,head,1578,peak of mountain,326,Armenian,176,Armenian,176,head,"mountain top, peak",glux (գլոիխ),glux (գլոիխ)
+20202,shift0699,Polysemy,17,NEW,←,paper,297,letter (text),200,Classical Armenian,293,Classical Armenian,293,paper,letter (text),tʿułtʿ (թուղթ),tʿułtʿ (թուղթ)
+20291,shift6598,Polysemy,3,ACCEPTED,→,limit,217,definition,4409,Classical Armenian,293,Classical Armenian,293,"bound, term, circumscription; bounds, limits, confines, frontier, borders",definition,sahman (սահման),sahman (սահման)
+20391,shift5029,Derivation,6,ACCEPTED,→,father,1242,motherland,724,Classical Armenian,293,Classical Armenian,293,father,"native country, native land, country, birthplace, home",hayr (հայր),hayrenikʿ (հայրենիք)
+20394,shift5029,Derivation,9,NEW,→,father,1242,motherland,724,Armenian,176,Armenian,176,father,motherland,hayr (հայր),hayrenikʿ (հայրենիք)
+20574,shift1530,Derivation,3,ACCEPTED,→,&lt;plant (biol.)&gt;,277,brown,3703,Armenian,176,Armenian,176,cinnamon (tree and spice),brown,դարչին (darčʿin),darčʿnaguyn (դարչնագույն)
+20575,shift1530,Derivation,4,ACCEPTED,→,&lt;plant (biol.)&gt;,277,brown,3703,Armenian,176,Armenian,176,chestnut,"chestnut-coloured, nut-brown",šaganak (շագանակ),šaganakaguyn (շագանակագույն)
+20616,shift0337,Polysemy,11,NEW,—,"to strike, hit",3234,to astonish,2241,Western Armenian,1251,Western Armenian,1251,to be struck,"to be astonished, to be stupefied",apšel (ապշել),apšel (ապշել)
+20851,shift0034,Polysemy,119,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Armenian,176,Armenian,176,to hear / to listen,to obey,lsel (լսել),lsel (լսել)
+20994,shift0966,Polysemy,9,ACCEPTED,?,woman,109,wife,73,Armenian,176,Armenian,176,woman,wife,kin,kin
+21137,shift6662,Polysemy,5,ACCEPTED,→,sea,3970,"many, much",584,Armenian,176,Armenian,176,sea,"a large quantity, a sea (of)",cov (ծով),cov (ծով)
+21169,shift4125,Polysemy,5,ACCEPTED,—,to stand up,3216,to stop doing smth.,3227,Armenian,176,Armenian,176,"to stand, to stand up","to give up, stop doing",kangnel (կանգնել),kangnel (կանգնել)
+21485,shift1390,Polysemy,2,ACCEPTED,?,to boil (intr.),2361,"to ferment, yeast",2623,Armenian,176,Armenian,176,to boil,to ferment (beer),ep(h) gal,ep(h) gal
+21486,shift1390,Polysemy,3,ACCEPTED,?,to boil (intr.),2361,"to ferment, yeast",2623,Armenian,176,Armenian,176,to boil,to wander,eřal,eřal
+21525,shift5815,Polysemy,1,ACCEPTED,→,rainbow,1421,iris (anatomy),1805,Armenian,176,Armenian,176,rainbow,iris (anatomy),ciacan (ծիածան),ciacan (ծիածան)
+21590,shift1102,Polysemy,4,ACCEPTED,?,soft (adj.),4151,tender (adj.),2146,Armenian,176,Armenian,176,soft,meek,kakił,kakił
+21662,shift0638,Polysemy,2,ACCEPTED,—,empty,3835,"vain, in vain",3746,Armenian,176,Armenian,176,empty,useless,p‘uǰ  (փուջ),p‘uǰ  (փուջ)
+21668,shift0638,Polysemy,8,ACCEPTED,—,empty,3835,"vain, in vain",3746,Armenian,176,Armenian,176,empty,vain,datark (դատարկ),datark (դատարկ)
+21693,shift1301,Polysemy,4,ACCEPTED,?,open (adj.),4548,"light, bright, clear",212,Armenian,176,Armenian,176,open,"bright, light",bay,bay
+21700,shift0482,Polysemy,3,ACCEPTED,?,mouth,735,"opening, hole",4551,Armenian,176,Armenian,176,"chaps, jaws","crater, mouth",klap(h),klap(h)
+21702,shift0482,Polysemy,5,ACCEPTED,?,mouth,735,"opening, hole",4551,Armenian,176,Armenian,176,chaps,crater,erax,erax
+21708,shift0482,Polysemy,11,ACCEPTED,?,mouth,735,"opening, hole",4551,Armenian,176,Armenian,176,mouth,"neck, mouth",beran,beran
+21920,shift1392,Polysemy,5,ACCEPTED,?,face,1214,page,283,Armenian,176,Armenian,176,face,page,eres,eres
+21971,shift5672,Polysemy,2,ACCEPTED,→,cell (of honeycomb),926,cell (in biology),924,Armenian,176,Armenian,176,cell (of honeycomb),cell (in biology),bǰiǰ (բջիջ),bǰiǰ (բջիջ)
+22110,shift1005,Polysemy,6,ACCEPTED,—,head,1578,boss,3651,Armenian,176,Armenian,176,head,"leader, chief",glux (գլուխ),glux (գլուխ)
+22352,shift6224,Polysemy,2,NEW,→,to break (intr.),2368,to behave affectedly,2334,Armenian,176,Armenian,176,to break (intr.),to behave affectedly,kotratvel (կոտրատվել),kotratvel (կոտրատվել)
+22541,shift1044,Polysemy,1,ACCEPTED,—,side (n.),4071,"country, land",1109,Armenian,176,Armenian,176,side,"place, land",kołm (կողմ),kołm (կողմ)
+22759,shift1539,Polysemy,3,ACCEPTED,→,cross (n.),1142,clubs (in cards),1015,Armenian,176,Armenian,176,cross (n.),clubs (in cards),xačʿ (խաչ),xačʿ (խաչ)
+22782,shift2629,Derivation,2,ACCEPTED,→,field,1271,on the outside,4541,Classical Armenian,293,Classical Armenian,293,field,outside,art,artakʿs
+23033,shift0856,Polysemy,248,NEW,→,moon,708,month,706,Classical Armenian,293,Classical Armenian,293,moon,month,lusin (լուսին),lusin (լուսին)
+23223,shift5062,Polysemy,1,NEW,→,corpse,1103,"ugly, unpleasant",502,Armenian,176,Armenian,176,corpse,"(colloquial, dialectal) ugly",geš (գեշ),geš (գեշ)
+23269,shift1395,Derivation,1,ACCEPTED,→,cross (n.),1142,crossbill (Loxia),1143,Armenian,176,Armenian,176,cross,crossbill,խաչ (xačʿ),խաչկտուց (xačʿktucʿ)
+23301,shift5481,Polysemy,1,NEW,→,moon,708,horseshoe,1668,Classical Armenian,293,Classical Armenian,293,moon,horseshoe,lusin (լուսին),lusin (լուսին)
+23321,shift1149,Derivation,6,ACCEPTED,?,red,1444,&lt;disease&gt;,4373,Armenian,176,Armenian,176,red,measles,karmir,karmiruk
+23394,shift6367,Derivation,1,NEW,→,sable,3906,otter (Lutra lutra),4569,Armenian,176,Armenian,176,sable,otter (Lutra lutra),samuyr (սամույր),ǰrasamuyr (ջրասամույր)
+23412,shift7869,Derivation,1,NEW,→,tongue (body part),3400,icicle,1732,Armenian,176,Armenian,176,tongue (body part),icicle,lezu (լեզու),saṙcʿalezvak (սառցալեզվակ)
+23508,shift4398,Derivation,1,ACCEPTED,→,wolf,107,pike (fish),373,Armenian,176,Armenian,176,wolf (Canis lupus),pike (fish),gayl (գայլ),gaylajuk (գայլաձուկ)
+23517,shift0901,Polysemy,2,ACCEPTED,?,light (of weight),211,simple,4082,Armenian,176,Armenian,176,light,"simple, common",t(h)et(h)ev,t(h)et(h)ev
+23554,shift5806,Derivation,3,ACCEPTED,→,net (n.),1848,retina,1466,Armenian,176,Armenian,176,"net, toils, network",(rare) retina,cʿancʿ (ցանց),cʿancʿeni (ցանցենի)
+23600,shift8073,Derivation,4,ACCEPTED,→,to burn (intr.),2384,fuel,1395,Armenian,176,Armenian,176,"to set on fire, to burn",fuel,vaṙel (վառել),vaṙelikʿ (վառելիք)
+23694,shift1171,Polysemy,83,NEW,→,heart,1588,location of emotions,239,Classical Armenian,293,Classical Armenian,293,heart,"heart, soul, mind, intellect, memory, intelligence; courage, spirit",sirt (սիրտ),sirt (սիրտ)
+23695,shift1171,Polysemy,84,NEW,—,heart,1588,location of emotions,239,Armenian,176,Armenian,176,heart,"heart (symbolic center of one's being, emotions, and sensibilities)",sirt (սիրտ),sirt (սիրտ)
+23814,shift2721,Polysemy,3,ACCEPTED,→,shadow,4010,"protection, patronage",483,Classical Armenian,293,Classical Armenian,293,shadow,(figuratively) protection,šukʿ (շուք),šukʿ (շուք)
+23888,shift1381,Polysemy,1,ACCEPTED,—,coast,1019,"edge, border",3810,Armenian,176,Armenian,176,"bank, shore, coast","edge, end",apʿ (ափ),apʿ (ափ)
+23889,shift1381,Polysemy,2,SUSPENDED,—,coast,1019,"edge, border",3810,Armenian,176,Armenian,176,"bank, shore","edge, end, termination",eǰr (եջր),eǰr (եջր)
+23894,shift1381,Polysemy,7,NEW,—,coast,1019,"edge, border",3810,Classical Armenian,293,Classical Armenian,293,"shore, bank, coast (of a water body)","(e.g. of a gorge, pit, well, city, grave, etc.)",apʿn (ափն),apʿn (ափն)
+23954,shift4686,Derivation,8,ACCEPTED,→,blind,3624,caecum (blind gut),871,Armenian,176,Armenian,176,blind,caecum (blind gut),kuyr (կույր),kuyr aġikʿ (կույր աղիք)
+24315,shift3588,Polysemy,15,NEW,→,"present, gift",457,talent,2118,Classical Armenian,293,Classical Armenian,293,"present, gift",talent,jir (ձիր),jir (ձիր)
+24359,shift5576,Polysemy,2,ACCEPTED,→,glutton,798,wolverine,108,Armenian,176,Armenian,176,(rare) gluttonous,wolverine,kułx (կուղխ),kułx (կուղխ)
+24363,shift5576,Derivation,6,ACCEPTED,→,glutton,798,wolverine,108,Armenian,176,Armenian,176,glutton,wolverine,šataker (շատակեր),šatakerik (շատակերիկ)
+24463,shift1403,Polysemy,1,ACCEPTED,—,"to follow, go after smb.",2649,"to watch, look after",3358,Armenian,176,Armenian,176,to follow,"to watch after, to keep an eye on",hetevel (հետեւել),hetevel (հետեւել)
+24577,shift5614,Polysemy,8,ACCEPTED,→,right (vs. left),1481,right (political),1480,Armenian,176,Armenian,176,right (vs. left),right (political),aǰ (աջ),aǰ (աջ)
+24710,shift8032,Polysemy,1,NEW,→,to work,3380,"to gain, to earn",2663,Armenian,176,Armenian,176,to work,to earn,ašxatel (աշխատել),ašxatel (աշխատել)
+24887,shift4331,Polysemy,11,ACCEPTED,→,mouse,733,computer mouse,1076,Armenian,176,Armenian,176,diminutive of muk (մուկ) 'mouse',mouse (computer),mknik (մկնիկ),mknik (մկնիկ)
+25376,shift0959,Polysemy,5,NEW,→,fish,1300,muscle,747,Armenian,176,Armenian,176,fish,calf muscle (triceps surae),juk (ձուկ),juk (ձուկ)
+25409,shift3158,Derivation,9,ACCEPTED,→,white,62,underwear,516,Armenian,176,Armenian,176,white,underwear,spitak (սպիտակ),spitakełen (սպիտակեղեն)
+25427,shift5805,Derivation,3,ACCEPTED,→,to sleep,3169,temple (region of skull),2142,Classical Armenian,293,Classical Armenian,293,sleep (n.),temple (region of skull),kʿun (քուն),kʿunkʿ (քունք)
+25505,shift0758,Polysemy,4,ACCEPTED,?,to fill (tr.),2626,to carry out,2402,Armenian,176,Armenian,176,to fill,to finish,glxel,glxel
+25649,shift1307,Derivation,1,ACCEPTED,?,blind,3624,mole (Talpa),694,Armenian,176,Armenian,176,blind,mole,kuyr,kuramuk
+25858,shift0725,Polysemy,2,NEW,→,shoulder,4053,hill,1626,Classical Armenian,293,Classical Armenian,293,shoulder,(figuratively) hill,us (ուս),us (ուս)
+26052,shift4391,Polysemy,11,ACCEPTED,→,crane (Grus),1129,lifting machine,208,Armenian,176,Armenian,176,crane (Grus),lifting machine,kṙunk (կռունկ),kṙunk (կռունկ)
+26156,shift1401,Polysemy,1,ACCEPTED,—,to lose (an object),2866,to be defeated,2265,Armenian,176,Armenian,176,to lose,to lose,korynel,korynel
+26404,shift5816,Polysemy,1,NEW,→,lung,272,sponge,4215,Classical Armenian,293,Classical Armenian,293,lung,sponge,tʿokʿ (թոք),tʿokʿ (թոք)
+26414,shift3926,Polysemy,6,ACCEPTED,→,word,120,verb,3758,Classical Armenian,293,Classical Armenian,293,word,verb,bay (բայ),bay (բայ)
+26483,shift4345,Derivation,2,ACCEPTED,→,fire,1286,Mars,597,Classical Armenian,293,Classical Armenian,293,fire,Mars,hur (հուր),Hrat (Հրատ)
+26490,shift0470,Polysemy,2,ACCEPTED,→,eye,3890,vision,3776,Armenian,176,Armenian,176,eyes,sight,aǰk(h),aǰk(h)
+26714,shift0164,Polysemy,6,ACCEPTED,?,"to turn, rotate (intr.)",3327,to return (intr.),3080,Armenian,176,Armenian,176,to turn (back),to return,dařnal,dařnal
+26755,shift8608,Polysemy,3,ACCEPTED,→,shadow,4010,&lt;headgear&gt;,1535,Classical Armenian,293,Classical Armenian,293,shadow,"veil, headcover",šukʿ (շուք),šukʿ (շուք)
+26829,shift1303,Polysemy,8,ACCEPTED,—,"to pull, to draw",3018,"to slow, linger",3175,Armenian,176,Armenian,176,to pull; to draw; to drag,to be slow; to delay,jgel (ձգել),jgel (ձգել)
+26978,shift4151,Polysemy,2,ACCEPTED,—,book (n.),3647,letter (text),200,Classical Armenian,293,Classical Armenian,293,"(often in the plural - girkʿ (գիրք)) book, volume, manuscript","letter, epistle; writing, document, something written",gir (գիր),gir (գիր)
+26979,shift4151,Polysemy,3,ACCEPTED,—,book (n.),3647,letter (text),200,Classical Armenian,293,Classical Armenian,293,book (n.),"letter, epistle",taṙ (տառ),taṙ (տառ)
+27038,shift7033,Polysemy,1,NEW,→,sea,3970,West,45,Classical Armenian,293,Classical Armenian,293,sea,West,cov (ծով),cov (ծով)
+27052,shift1413,Polysemy,7,ACCEPTED,→,sharp,4022,"keen (of senses, mind)",1704,Armenian,176,Armenian,176,sharp,delicate (ear),sur,sur
+27160,shift0917,Polysemy,2,ACCEPTED,?,"high (size), tall",1624,loud,259,Armenian,176,Armenian,176,"high, tall",loud,barjr,barjr
+27179,shift1184,Polysemy,6,ACCEPTED,?,wing,92,flank (military),1311,Armenian,176,Armenian,176,wing,wing (milit.),t(h)ev,t(h)ev
+27271,shift1398,Derivation,6,ACCEPTED,→,cat,905,catnip (Nepeta cataria),913,Armenian,176,Armenian,176,cat (female),catmint,katu,katvadałz
+27377,shift5378,Derivation,10,ACCEPTED,→,"sacred, holy",3909,sacrum (bone),3911,Armenian,176,Armenian,176,sacred,sacrum (bone),surb (սուրբ),srboskr (սրբոսկր)
+27482,shift4375,Polysemy,12,ACCEPTED,→,to ask (for),2238,to pray,2996,Armenian,176,Armenian,176,entreaty,praying,xndirkʿ (խնդիրք),xndirkʿ (խնդիրք)
+27483,shift4375,Polysemy,13,ACCEPTED,→,to ask (for),2238,to pray,2996,Armenian,176,Armenian,176,"to implore, to beg",to pray,małtʿel (մաղթել),małtʿel (մաղթել)
+27522,shift6183,Derivation,3,ACCEPTED,→,bear (Ursus),3539,koala,1725,Armenian,176,Armenian,176,bear (Ursus),koala,arǰ (արջ),parkavor arǰ (պարկավոր արջ)
+27529,shift0519,Polysemy,1,ACCEPTED,—,top of the head,3406,peak of mountain,326,Armenian,176,Armenian,176,top of the head,mountain top,katar (կատար),katar (կատար)
+27535,shift0519,Polysemy,7,ACCEPTED,—,top of the head,3406,peak of mountain,326,Armenian,176,Armenian,176,"sinciput; vertex, crown, top of the head",peak of mountain,gagat‘ (գագաթ),gagat‘ (գագաթ)
+27706,shift1173,Polysemy,1,ACCEPTED,—,height (of a person),1599,age,1957,Armenian,176,Armenian,176,height,age,hasak,hasak
+27811,shift7767,Derivation,3,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Armenian,176,Armenian,176,water,otter (Lutra lutra),ǰur (ջուր),ǰrasamuyr (ջրասամույր)
+27812,shift7767,Derivation,4,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Classical Armenian,293,Classical Armenian,293,aquatic,otter (Lutra lutra),ǰri (ջրի),šnǰri (շնջրի)
+28251,shift4316,Polysemy,5,NEW,→,fortress,1353,prison,467,Armenian,176,Armenian,176,fortress,"(dialectal, colloquial) prison",berd (բերդ),berd (բերդ)
+28264,shift8614,Derivation,4,NEW,→,ray,1438,radius (bone),1415,Armenian,176,Armenian,176,ray,radius (bone),čačančʿ (ճաճանչ),čačančʿoskr (ճաճանչոսկր)
+28380,shift4358,Derivation,10,ACCEPTED,→,"stopper, plug",4285,traffic jam,3423,Armenian,176,Armenian,176,"stopper, plug",traffic jam,xcʿan (խցան),xcʿanum (խցանում)
+28413,shift4144,Polysemy,1,NEW,—,crown (n.),1149,peak of mountain,326,Armenian,176,Armenian,176,crown (royal); crown placed on the heads of the bride and the groom during the wedding,(figuratively) peak of mountain,tʿag (թագ),tʿag (թագ)
+28429,shift0425,Polysemy,2,ACCEPTED,→,shoulder,4053,mountain slope,732,Armenian,176,Armenian,176,shoulder,mountain slope,us (ուս),us (ուս)
+28496,shift1354,Polysemy,4,ACCEPTED,?,"spade, shovel",4182,oar,4511,Armenian,176,Armenian,176,wooden spade,paddle,t(h)i,t(h)i
+28579,shift6018,Derivation,2,ACCEPTED,→,to gnaw,2696,rodent,1490,Armenian,176,Armenian,176,to gnaw,rodent,krcel (կրծել),krcoł (կրծող)
+28676,shift4329,Polysemy,4,ACCEPTED,—,underwear,516,bed-clothes,3551,Armenian,176,Armenian,176,underwear,bed-clothes,spitakełen (սպիտակեղեն),spitakełen (սպիտակեղեն)
+28713,shift5746,Polysemy,2,ACCEPTED,→,to systematize,3267,computer,1075,Armenian,176,Armenian,176,to systematize,computer,hamakargel (համակարգել),hamakargičʿ (համակարգիչ)
+28738,shift5629,Polysemy,1,NEW,→,Easter,3804,ladybird,145,Armenian,176,Armenian,176,Easter,ladybird,zatik (զատիկ),zatik (զատիկ)
+28759,shift0886,Polysemy,7,ACCEPTED,?,"bile, gall",3589,anger,1996,Armenian,176,Armenian,176,bile,wrath,lełi,lełi
+28772,shift1380,Polysemy,3,ACCEPTED,—,"to untie, unbind",3338,to set free,3133,Armenian,176,Armenian,176,untie,to set free,arǰakel,arǰakel
+28815,shift0691,Polysemy,7,ACCEPTED,?,"to strike, hit",3234,to shoot,3149,Armenian,176,Armenian,176,to beat,to shoot,xp(h)el,xp(h)el
+28840,shift0513,Polysemy,6,ACCEPTED,—,mane,578,"mountain ridge, edge",731,Armenian,176,Armenian,176,mane,"mountain ridge, edge",baš (բեշ),baš (բեշ)
+29220,shift0767,Polysemy,5,ACCEPTED,?,dark (adj.),4382,incomprehensible,1762,Armenian,176,Armenian,176,dark,incomprehensible,mut(h),mut(h)
+29322,shift5499,Polysemy,1,NEW,—,western swamphen,47,nightingale,1865,Classical Armenian,293,Classical Armenian,293,western swamphen,nightingale,soxak (սոխակ),soxak (սոխակ)
+29433,shift6904,Polysemy,4,ACCEPTED,→,monster (supernatural),705,whale,51,Classical Armenian,293,Classical Armenian,293,(Armenian mythology) vishap,leviathan; whale,višap (վիշապ),višap (վիշապ)
+29450,shift5814,Polysemy,1,NEW,→,rib,1473,husband / wife,1695,Classical Armenian,293,Classical Armenian,293,rib,(figuratively) spouse,koł (կող),koł (կող)
+29462,shift4049,Polysemy,3,ACCEPTED,→,noise,1872,quarrel,1901,Classical Armenian,293,Classical Armenian,293,"alarm, uproar, tumult, bustle","squabble, fray, scuffle, broil, quarrel, contest",ałmuk (աղմուկ),ałmuk (աղմուկ)
+29685,shift6684,Polysemy,1,NEW,→,catapult,908,seesaw,3985,Armenian,176,Armenian,176,catapult,seesaw,baban (բաբան),baban (բաբան)
+29706,shift5218,Polysemy,4,NEW,→,head,1578,chapter (of a book),943,Classical Armenian,293,Classical Armenian,293,head,chapter (of a book),glux (գլուխ),glux (գլուխ)
+29788,shift5244,Polysemy,3,ACCEPTED,—,drone,4484,bumblebee,3719,Armenian,176,Armenian,176,drone,bumblebee,boṙ (բոռ),boṙ (բոռ)
+29822,shift1394,Polysemy,1,ACCEPTED,?,donkey,4463,fool,1336,Armenian,176,Armenian,176,donkey,stupid person,ēš,ēš
+29852,shift6503,Derivation,2,ACCEPTED,→,May,609,cockchafer,1024,Armenian,176,Armenian,176,May,cockchafer,majis (մայիս),mayisyan bzez (մայիսյան բզեզ)
+29916,shift1150,Derivation,6,ACCEPTED,→,low (location),263,bad (ethically),3494,Armenian,176,Armenian,176,low,"mean, base",c‘ac (ցած),c‘achogi (ցածհոգի)
+29932,shift4332,Motivation,1,NEW,→,apple,2018,Jerusalem artichoke,1183,Armenian,176,Armenian,176,apple,Jerusalem artichoke,xnjor (խնձոր),getnaxnjor (գետնախնձոր)
+30049,shift4421,Derivation,22,ACCEPTED,→,almond,1973,tonsil,3401,Armenian,176,Armenian,176,almond,tonsil,nuš (նուշ),nšik (նշիկ)
+30291,shift0764,Polysemy,3,ACCEPTED,—,bitter,3607,sad,3912,Armenian,176,Armenian,176,too bitter,"sad, mournful",ału,ału
+30296,shift0764,Polysemy,8,ACCEPTED,—,bitter,3607,sad,3912,Armenian,176,Armenian,176,bitter,sorrowful,dařn,dařn
+30596,shift4735,Polysemy,3,ACCEPTED,→,caterpillar,910,caterpillar track,911,Armenian,176,Armenian,176,caterpillar,caterpillar track,tʿrtʿur (թրթուր),tʿrtʿur (թրթուր)
+30640,shift1404,Polysemy,2,ACCEPTED,—,pregnant,456,fraught with consequences,1368,Armenian,176,Armenian,176,pregnant,pregnant with,hłi (հղի),hłi (հղի)
+30720,shift0067,Polysemy,6,ACCEPTED,→,"light, bright, clear",212,comprehensible,1074,Armenian,176,Armenian,176,"light, clear",clear,parǰ,parǰ
+30761,shift1393,Derivation,6,ACCEPTED,→,to sway,3256,to doubt,2546,Armenian,176,Armenian,176,"to stagger, to oscillate, to fluctuate","hesitating, doubtful",ereral,ereracut
+30830,shift3971,Derivation,3,NEW,→,root (of a plant),1499,family,1226,Classical Armenian,293,Classical Armenian,293,root (of a plant),family,arm (արմ),zarm (զարմ)
+31103,shift4437,Derivation,2,ACCEPTED,→,sun,4333,sunflower,4337,Armenian,176,Armenian,176,sun,sunflower,arew (արեւ),arewacałik (արեւածաղիկ)
+31287,shift5508,Derivation,4,ACCEPTED,→,lamb,148,bearded vulture,3543,Armenian,176,Armenian,176,lamb,bearded vulture,gaṙ (գառ),gaṙnangł (գառնանգղ)
+31400,shift2604,Polysemy,2,ACCEPTED,→,to set upright,3134,to stop doing smth.,3227,Armenian,176,Armenian,176,"to make stand, to erect",to stop,kangnecʿnel (կանգնեցնել),kangnecʿnel (կանգնեցնել)
+31403,shift1386,Derivation,1,NEW,?,rush (plant),1525,millerbird (Acrocephalus etc.),662,Armenian,176,Armenian,176,"reed, cane",millerbird,ełeg,ełegnahav
+31468,shift5243,Derivation,4,ACCEPTED,→,drone,4484,hornet,1660,Armenian,176,Armenian,176,drone,hornet,boṙ (բոռ),jiaboṙ (ձիաբոռ)
+31472,shift5811,Polysemy,2,ACCEPTED,→,body,3640,institution,1792,Armenian,176,Armenian,176,body,"agency, authority",marmin (մարմին),marmin (մարմին)
+31623,shift3964,Polysemy,1,ACCEPTED,→,Saturday,3945,week,41,Armenian,176,Armenian,176,Saturday,week,šabatʿ (շաբաթ),šabatʿ (շաբաթ)
+31664,shift1137,Polysemy,2,ACCEPTED,?,green,845,young,2089,Armenian,176,Armenian,176,green,young,kanaz,kanaz
+31689,shift8432,Polysemy,2,ACCEPTED,→,ram,1425,Aries,2026,Armenian,176,Armenian,176,ram,Aries,xoy (խոյ),Xoy (Խոյ)
+31704,shift4069,Polysemy,2,ACCEPTED,—,"albumen, white of an egg",1966,"white of an eye, sclera",65,Armenian,176,Armenian,176,"albumen, white of an egg",white of an eye,spitakucʿ (սպիտակուց),spitakucʿ (սպիտակուց)
+31778,shift7751,Polysemy,6,ACCEPTED,→,sheet of paper,4028,newspaper,1858,Armenian,176,Armenian,176,sheet of paper,newspaper,tʿertʿ (թերթ),tʿertʿ (թերթ)
+31865,shift6176,Derivation,1,NEW,→,wild boar,78,tapir,2129,Armenian,176,Armenian,176,wild boar,tapir,kinč (կինճ),getakinč (գետակինճ)
+31938,shift5825,Polysemy,5,ACCEPTED,→,face,1214,"human, person",1683,Armenian,176,Armenian,176,face,person,demkʿ (դեմք),demkʿ (դեմք)

@@ -1,0 +1,757 @@
+﻿ID,Shift_ID,Type,Realization,Status,Direction,Source_Concept,Source_Concept_ID,Target_Concept,Target_Concept_ID,Source_Language,Source_Language_ID,Target_Language,Target_Language_ID,Source_Meaning,Target_Meaning,Source_Word,Target_Word
+81,shift4865,Polysemy,3,NEW,→,drinking vessel,4481,hearts (in cards),1589,Modern Greek,239,Modern Greek,239,drinking vessel,hearts (in cards),κούπα,κούπα
+101,shift4373,Polysemy,13,ACCEPTED,—,letter (character),199,letter (text),200,Modern Greek,239,Modern Greek,239,letter (character),"letter, epistle",γράμμα,γράμμα
+166,shift2871,Polysemy,4,ACCEPTED,→,thick,2167,"thick (of a growth, hair)",2168,Ancient Greek,116,Ancient Greek,116,thick (fabric),"густой (о деревьях, кустарнике, волосах)",πυκνός,πυκνός
+174,shift1430,Derivation,3,ACCEPTED,→,"to turn, rotate (intr.)",3327,to pass (of time),2960,Ancient Greek,116,Ancient Greek,116,to turn,to pass by (time),τρέπω,περιτρέπω
+215,shift8108,Polysemy,9,ACCEPTED,→,butterfly,3734,butterfly stroke,3736,Modern Greek,239,Modern Greek,239,butterfly,butterfly stroke,πεταλούδα,πεταλούδα
+299,shift4986,Polysemy,7,ACCEPTED,—,sheath,4026,vagina,3745,Modern Greek,239,Modern Greek,239,sheath,vagina,κολεός,κολεός
+316,shift0226,Polysemy,1,ACCEPTED,—,"wide, broad",70,flat (adj),1312,Ancient Greek,116,Ancient Greek,116,"wide, broad","flat, level",πλατύς,πλατύς
+328,shift0975,Polysemy,1,ACCEPTED,→,to fall down,2605,to die,2517,Ancient Greek,116,Ancient Greek,116,fall,death,πέσημα,πέσημα
+440,shift0065,Polysemy,3,ACCEPTED,→,noon,1875,South,4179,Ancient Greek,116,Ancient Greek,116,"noon, midday",South,μεσημβρία,μεσημβρία
+599,shift3143,Polysemy,1,ACCEPTED,→,"clasp, buckle",990,fibula (anat.),1270,Ancient Greek,116,Ancient Greek,116,"pin or tongue of a buckle or brooch, buckle or brooch itself","small bone the leg, fibula",περόνη,περόνη
+606,shift0786,Polysemy,5,ACCEPTED,→,to breathe,2373,wind,88,Ancient Greek,116,Ancient Greek,116,"act of breathing, sb’s breath",wind,pneuma,pneuma
+625,shift2422,Cognates,1,ACCEPTED,—,oak,4510,pole (long stick),427,Ancient Greek,116,Ancient Greek,116,oak,"beam, bar, pole",δρῦς,δόρυ
+656,shift3755,Polysemy,1,ACCEPTED,—,breathing,3683,life,207,Ancient Greek,116,Ancient Greek,116,breath,somebody's life,ψυχή (psūkhē),ψυχή (psūkhē)
+710,shift1734,Polysemy,2,ACCEPTED,?,&lt;rural foot-wear&gt;,1409,fool,1336,Modern Greek,239,Modern Greek,239,leather peasant shoes,"peasant, boor","τσαρούχι, γουρουντσάρουχο","τσαρούχι, γουρουντσάρουχο"
+723,shift1142,Polysemy,4,ACCEPTED,?,to hear,2758,rumour,1522,Ancient Greek,116,Ancient Greek,116,hearing,rumour,ἀκοή,ἀκοή
+801,shift0574,Polysemy,8,ACCEPTED,—,boy,3666,son,4163,Ancient Greek,116,Ancient Greek,116,boy,son,κόρος,κόρος
+868,shift3372,Polysemy,1,NEW,→,soft (adj.),4151,quiet (vs. loud),1909,Ancient Greek,116,Ancient Greek,116,soft,quiet,μᾰλᾰκός,μᾰλᾰκός
+931,shift0954,Polysemy,3,ACCEPTED,→,sharp,4022,angry,1997,Ancient Greek,116,Ancient Greek,116,sharp (sword),angry,δριμύς,δριμύς
+996,shift2081,Polysemy,3,ACCEPTED,—,bread,3677,food,1335,Ancient Greek,116,Ancient Greek,116,bread,food,σιτίον,σιτίον
+1026,shift3336,Polysemy,2,ACCEPTED,→,hand/arm,1550,strength,4301,Ancient Greek,116,Ancient Greek,116,hand,"violent measures, force",χείρ,χείρ
+1056,shift1437,Polysemy,8,ACCEPTED,→,to see/to look at,3121,to act according to,2218,Ancient Greek,116,Ancient Greek,116,"to give heed to, watch narrowly, observe; to watch for a person or thing;",to observe or keep an engagement,τηρέω,τηρέω
+1103,shift2647,Polysemy,9,ACCEPTED,→,&lt;vessel&gt;,3742,"ship, vessel",4039,Ancient Greek,116,Ancient Greek,116,trough,boat,σκάφη,σκάφη
+1197,shift3380,Motivation,2,ACCEPTED,→,night,1863,bat,3529,Ancient Greek,116,Ancient Greek,116,night,bat,"νύξ, νυκτός",νυκτερίς
+1347,shift0950,Polysemy,1,NEW,?,to tame,3280,to kill,2820,Ancient Greek,116,Ancient Greek,116,"to tame, to harness","to strike to death, to kill",δαμάω,δαμάω
+1397,shift2964,Polysemy,1,NEW,—,"dense, thick (liquid)",4414,dark (adj.),4382,Ancient Greek,116,Ancient Greek,116,thick (substance),dark,βαθύς,βαθύς
+1466,shift3354,Polysemy,1,NEW,→,"to adorn, decorate",2223,to boast,2360,Ancient Greek,116,Ancient Greek,116,to decorate,"med. хвастаться, гордиться",καλλύνω,καλλύνω
+1493,shift0888,Polysemy,12,ACCEPTED,—,back (body part),3485,"mountain ridge, edge",731,Ancient Greek,116,Ancient Greek,116,back,ridge of a hill or mountain,ῥάχις,ῥάχις
+1521,shift0569,Polysemy,3,ACCEPTED,—,to go out,2708,to result in,3079,Modern Greek,239,Modern Greek,239,to go out,to come out,βγαίνω,βγαίνω
+1530,shift0938,Polysemy,3,ACCEPTED,?,"fearful, dreadful",1247,very,3761,Ancient Greek,116,Ancient Greek,116,scary,extremely,δεινῶς,δεινῶς
+1549,shift5780,Polysemy,1,NEW,→,twin,3471,testicle,2161,Ancient Greek,116,Ancient Greek,116,twins,testicles,δίδυμοι,δίδυμοι
+1552,shift0443,Derivation,2,ACCEPTED,—,mother,720,womb,110,Ancient Greek,116,Ancient Greek,116,mother,womb,μήτηρ,μήτρα
+1570,shift0905,Polysemy,5,NEW,—,left,183,clumsy,1016,Ancient Greek,116,Ancient Greek,116,left,"awkward, clumsy, stupid",σκαιός,σκαιός
+1571,shift0905,Polysemy,6,NEW,—,left,183,clumsy,1016,Ancient Greek,116,Ancient Greek,116,left,awkward,λαιός,λαιός
+1637,shift6731,Polysemy,1,NEW,→,"horseman, rider",1666,bridge (of musical imstrument),3690,Modern Greek,239,Modern Greek,239,"horseman, rider",bridge (of musical imstrument),καβαλάρης,καβαλάρης
+1658,shift0692,Polysemy,7,ACCEPTED,?,"to strike, hit",3234,to kill,2820,Ancient Greek,116,Ancient Greek,116,"to beat, to hit","to strike to death, to kill",θείνω,θείνω
+1666,shift0692,Polysemy,15,ACCEPTED,→,"to strike, hit",3234,to kill,2820,Ancient Greek,116,Ancient Greek,116,"to beat, to hit",to kill,κόπτω,κόπτω
+1691,shift5730,Polysemy,2,NEW,—,spindle,4203,arrow,2033,Ancient Greek,116,Ancient Greek,116,spindle,arrow,ἄτρακτος,ἄτρακτος
+1734,shift2086,Internal cognates,31,NEW,—,owner,4576,husband,1694,Ancient Greek,116,Ancient Greek,116,"lord, master; ruler, despot, owner",husband,δεσ-πότης,πόσις
+1940,shift0952,Polysemy,2,NEW,?,neck,1837,"mountain ridge, edge",731,Ancient Greek,116,Ancient Greek,116,"neck, throat",mountain range,δειρή,δειρή
+2021,shift0096,Polysemy,2,ACCEPTED,→,inflated,1774,proud,487,Ancient Greek,116,Ancient Greek,116,to blow,to boast,φῡσάω,φῡσάω
+2031,shift1978,Polysemy,2,NEW,→,to row (with oars),3098,to fly,2642,Ancient Greek,116,Ancient Greek,116,NA,NA,ἐρρέσσω,ἐρρέσσω
+2100,shift2541,Polysemy,12,ACCEPTED,→,big,3588,great,839,Ancient Greek,116,Ancient Greek,116,"big, large",great,μέγας,μέγας
+2141,shift2873,Polysemy,2,ACCEPTED,—,low (location),263,low (size),264,Ancient Greek,116,Ancient Greek,116,"near the ground, on the ground, low",metaph. of persons of humble station,χθᾰμᾰλός,χθᾰμᾰλός
+2142,shift2873,Polysemy,3,ACCEPTED,—,low (location),263,low (size),264,Ancient Greek,116,Ancient Greek,116,"of place, low-lying; of stars, low, i.e. near the horizon","of stature or size, low",ταπεινός,ταπεινός
+2159,shift2791,Polysemy,1,NEW,→,chameleon,938,"hypocrite, dissembler",1701,Ancient Greek,116,Ancient Greek,116,chameleon,social chameleon,χαμαιλέων,χαμαιλέων
+2165,shift1646,Polysemy,5,ACCEPTED,—,bone,3645,stone (of a fruit),4280,Modern Greek,239,Modern Greek,239,bone,stone (fruit),κόκκαλο(ν),κόκκαλο(ν)
+2198,shift1808,Derivation,2,ACCEPTED,→,moon,708,insane,1784,Ancient Greek,116,Ancient Greek,116,moon,to be a sleepwalker; to have attacks or to be mentally ill,σελήνη,σεληνιάζομαι
+2229,shift4158,Polysemy,5,ACCEPTED,—,to move away,2927,"to destroy, annihilate",2514,Ancient Greek,116,Ancient Greek,116,to move away,to destroy,ἀναιρέω,ἀναιρέω
+2231,shift7429,Derivation,1,ACCEPTED,→,good,814,left,183,Ancient Greek,116,Ancient Greek,116,best,(euphemistic) left (opposite of right),ἄριστος,ἀριστερός
+2232,shift7429,Polysemy,2,ACCEPTED,→,good,814,left,183,Ancient Greek,116,Ancient Greek,116,"of good name, honored",(euphemistic) on the left side,εὐώνυμος,εὐώνυμος
+2281,shift1856,Polysemy,6,ACCEPTED,?,to go out,2708,"to rise (of Moon, Sun)",3090,Modern Greek,239,Modern Greek,239,to go out,to rise (sun),βγαίνω,βγαίνω
+2297,shift3342,Polysemy,1,NEW,→,exchange,3883,peace,323,Ancient Greek,116,Ancient Greek,116,exchange,reconciliation,συναλλᾰγή,συναλλᾰγή
+2338,shift2664,Derivation,6,ACCEPTED,→,pig (Sus scrofa),369,hedgehog (Еrinaceus),1595,Ancient Greek,116,Ancient Greek,116,"pig, especially a young one",hedgehog,χοῖρος,ἀκανθόχοιρος
+2384,shift3383,Polysemy,1,NEW,→,new,1852,strange,4295,Ancient Greek,116,Ancient Greek,116,new,"strange, surprising",καινός,καινός
+2442,shift1169,Polysemy,8,ACCEPTED,?,to give,2692,to let,2842,Ancient Greek,116,Ancient Greek,116,to give,to permit,δίδωμι,δίδωμι
+2531,shift2260,Polysemy,11,ACCEPTED,→,to fall down,2605,to coincide,2437,Modern Greek,239,Modern Greek,239,to fall down,to coincide,πέφτω,πέφτω
+2601,shift1677,Polysemy,1,ACCEPTED,→,deep,4404,saturated (of colour),3943,Modern Greek,239,Modern Greek,239,deep,dark (colour),βαθύς,βαθύς
+2640,shift4235,Polysemy,17,ACCEPTED,←,son,4163,child,957,Modern Greek,239,Modern Greek,239,"son or boy, as opposed to daughter or girl",child (son or daughter),παιδί,παιδί
+2678,shift2848,Polysemy,2,ACCEPTED,→,big,3588,"high (size), tall",1624,Ancient Greek,116,Ancient Greek,116,"big, large",high,μέγας,μέγας
+2751,shift3377,Polysemy,1,NEW,→,big,3588,proud,487,Ancient Greek,116,Ancient Greek,116,"big, large",arrogant,μέγας,μέγας
+2759,shift3313,Polysemy,2,ACCEPTED,—,ten thousand,2145,"many, much",584,Ancient Greek,116,Ancient Greek,116,ten thousand,plenty,μυριάς,μυριάς
+2822,shift4761,Polysemy,1,NEW,→,air,1961,aër (veil covering vessels in the Orthodox Church),1950,Byzantine Greek,107,Byzantine Greek,107,air,aër (veil covering vessels in the Orthodox Church),ἀήρ,ἀήρ
+2827,shift1321,Polysemy,4,ACCEPTED,→,&lt;fruit&gt;,1211,swelling (on skin),4365,Ancient Greek,116,Ancient Greek,116,fig,бородавка на веке,σῦκον,σῦκον
+2845,shift0463,Polysemy,10,ACCEPTED,—,eye,3890,bud (on a twig),3712,Ancient Greek,116,Ancient Greek,116,eye,bud,ὀφθαλμός,ὀφθαλμός
+2930,shift1368,Polysemy,1,ACCEPTED,→,foot,1338,unit of length,528,Ancient Greek,116,Ancient Greek,116,foot,length unit = 308.3 mm,πούς,πούς
+2947,shift0057,Polysemy,11,ACCEPTED,→,boy,3666,servant,3997,Ancient Greek,116,Ancient Greek,116,"child, baby",young slave,παῖς,παῖς
+2984,shift4362,Polysemy,3,ACCEPTED,—,voice,3778,sound,4173,Ancient Greek,116,Ancient Greek,116,voice of men,"clear, distinct sound",φθόγγος,φθόγγος
+3045,shift0536,Polysemy,4,ACCEPTED,→,horn,1657,peak of mountain,326,Ancient Greek,116,Ancient Greek,116,horn,mountain top,κέρας,κέρας
+3094,shift5512,Polysemy,4,ACCEPTED,←,to hide (tr.),2764,thief,2169,Ancient Greek,116,Ancient Greek,116,"to conceal, keep secret, do secretly or do treacherously",to steal,κλέπτω,κλέπτω
+3123,shift0003,Polysemy,1,ACCEPTED,→,to find,2627,to have opinion,2752,Ancient Greek,116,Ancient Greek,116,"to find, to discover",to count,εὑρίσκω,εὑρίσκω
+3158,shift1022,Polysemy,1,ACCEPTED,?,price,459,honour,1647,Ancient Greek,116,Ancient Greek,116,"price, value",respect,τιμή,τιμή
+3168,shift0994,Polysemy,2,ACCEPTED,→,to wave (of water),3361,"to worry, be agitated",3382,Ancient Greek,116,Ancient Greek,116,to boil; to seethe; to bubble; to be agtitated,to worry,ζέω,ζέω
+3182,shift1138,Polysemy,2,ACCEPTED,→,to bridle,2376,to subjugate,3239,Ancient Greek,116,Ancient Greek,116,to control a horse with a bridle,"to bridle, to restrain (fig.)",χαλιναγωγέω,χαλιναγωγέω
+3235,shift3596,Polysemy,6,ACCEPTED,→,tongue (body part),3400,cape,889,Modern Greek,239,Modern Greek,239,tongue (body part),cape,γλώσσα,γλώσσα
+3236,shift3596,Polysemy,7,ACCEPTED,→,tongue (body part),3400,cape,889,Ancient Greek,116,Ancient Greek,116,tongue (body part),tongue of land,"γλῶσσα, γλῶττα","γλῶσσα, γλῶττα"
+3360,shift1266,Polysemy,1,NEW,→,to kiss,2821,to sting,3224,Modern Greek,239,Modern Greek,239,to kiss,to bite,φιλώ,φιλώ
+3402,shift2956,Polysemy,1,ACCEPTED,—,sweat,4357,"resin, tar",1460,Ancient Greek,116,Ancient Greek,116,sweat,"exudation of trees, gum, resin",ἱδρώς,ἱδρώς
+3421,shift0376,Polysemy,7,NEW,—,sweet (taste),4358,tasty,2134,Ancient Greek,116,Ancient Greek,116,sweet (taste),tasty,ἡδύς,ἡδύς
+3437,shift3754,Polysemy,2,NEW,—,breathing,3683,mind (n.),667,Ancient Greek,116,Ancient Greek,116,breath,"seat of intelligence, mind",psūkhē,psūkhē
+3464,shift1186,Polysemy,1,ACCEPTED,→,long (size),246,long (period of time),245,Ancient Greek,116,Ancient Greek,116,long,long (of time),δολιχός,δολιχός
+3471,shift1186,Polysemy,8,ACCEPTED,—,long (size),246,long (period of time),245,Ancient Greek,116,Ancient Greek,116,long,long,μακρός,μακρός
+3479,shift1186,Polysemy,16,ACCEPTED,→,long (size),246,long (period of time),245,Ancient Greek,116,Ancient Greek,116,long,long,τᾰνᾰός,τᾰνᾰός
+3517,shift0645,Polysemy,2,NEW,→,"to castrate, geld",2406,to take out,3275,Ancient Greek,116,Ancient Greek,116,"castrated person, eunuch",species of dates without stones,εὐνοῦχος,εὐνοῦχος
+3539,shift3373,Polysemy,1,NEW,→,soft (adj.),4151,not strong (of liquid or smell),1882,Ancient Greek,116,Ancient Greek,116,soft,"light, weak",μᾰλᾰκός,μᾰλᾰκός
+3578,shift3292,Derivation,5,ACCEPTED,→,&lt;numeral&gt;,1815,&lt;military rank&gt;,558,Ancient Greek,116,Ancient Greek,116,fifty,chief of a fifty person detachment,πεντήκοντα,πεντηκοντήρ
+3590,shift3512,Polysemy,1,ACCEPTED,—,to wait,3347,"to remain, stay",3062,Ancient Greek,116,Ancient Greek,116,to wait,"to remain, to stay",μένω,μένω
+3595,shift1127,Derivation,3,ACCEPTED,?,milk,657,spurge (Euphorbia),4231,Modern Greek,239,Modern Greek,239,milk,caper spurge,γάλα,γαλακτίτης
+3627,shift0035,Polysemy,15,ACCEPTED,→,to see/to look at,3121,to have opinion,2752,Ancient Greek,116,Ancient Greek,116,to look,"to contemplate, consider; to to judge of one thing by another",θεωρέω,θεωρέω
+3772,shift0796,Derivation,8,ACCEPTED,→,to carry,2401,pregnant,456,Ancient Greek,116,Ancient Greek,116,to carry,fruit of the womb (lit. burden),φέρω,φορτίον
+3795,shift0069,Polysemy,3,ACCEPTED,—,hot,1673,recent,1442,Ancient Greek,116,Ancient Greek,116,"warm, hot, burning","recent, fresh",θερμός,θερμός
+3799,shift4457,Derivation,2,ACCEPTED,→,inscription,1785,side of a coin,4072,Modern Greek,239,Modern Greek,239,letter (character),(plural) reverse side of a coin,γράμμα,γράμματα
+3855,shift5334,Polysemy,12,NEW,—,orphan,4564,"poor, needy",437,Ancient Greek,116,Ancient Greek,116,orphan,"destitute, bereft",ὀρφανός,ὀρφανός
+3869,shift5893,Derivation,1,ACCEPTED,→,milk,657,Milky Way,659,Ancient Greek,116,Ancient Greek,116,milk,Milky Way,γάλα,γαλαξίας
+3881,shift0953,Polysemy,4,ACCEPTED,—,to see/to look at,3121,to hear / to listen,2759,Ancient Greek,116,Ancient Greek,116,"to look; to see, to notice","to perceive by hearing, to hear",δέρκομαι,δέρκομαι
+3906,shift3350,Polysemy,1,NEW,→,dark (adj.),4382,West,45,Ancient Greek,116,Ancient Greek,116,"gloom, darkness","dawn, west",ζόφος,ζόφος
+3917,shift1838,Polysemy,9,ACCEPTED,?,free of charge,1372,"vain, in vain",3746,Ancient Greek,116,Ancient Greek,116,"gratuitious, undeserved",vain,μέλεος,μέλεος
+3993,shift3357,Polysemy,1,NEW,→,to go down,2704,"to humble, to abase",2775,Ancient Greek,116,Ancient Greek,116,to descend,to himiliate,καταβαίνω,καταβαίνω
+4032,shift1350,Polysemy,13,ACCEPTED,→,to go away,2700,to die,2517,Ancient Greek,116,Ancient Greek,116,to leave,to die,οἴχομαι,οἴχομαι
+4132,shift6603,Polysemy,18,ACCEPTED,→,sweet (taste),4358,pleasant,408,Ancient Greek,116,Ancient Greek,116,sweet (taste),"pleasant, delightful",γλυκύς,γλυκύς
+4133,shift6603,Polysemy,19,ACCEPTED,→,sweet (taste),4358,pleasant,408,Ancient Greek,116,Ancient Greek,116,"pleasant to the taste or smell, sweet",pleasant,ἡδύς,ἡδύς
+4197,shift0967,Polysemy,5,ACCEPTED,?,to stand,3211,to cost,2466,Ancient Greek,116,Ancient Greek,116,to put,to cost,καθίστημι,καθίστημι
+4227,shift0748,Polysemy,25,NEW,→,road,1486,"manner, way",581,Ancient Greek,116,Ancient Greek,116,road,"manner, way",ὀδός,ὀδός
+4289,shift0946,Polysemy,1,ACCEPTED,—,deep,4404,rich,1476,Ancient Greek,116,Ancient Greek,116,deep,rich,βαθύς,βαθύς
+4322,shift1478,Polysemy,2,ACCEPTED,→,black,3610,bad,3493,Ancient Greek,116,Ancient Greek,116,black,"ominous, bad",μέλᾱς,μέλᾱς
+4369,shift3320,Polysemy,1,NEW,→,to speak,3193,to promise,3008,Ancient Greek,116,Ancient Greek,116,to speak,to promise,φάσκω,φάσκω
+4404,shift3362,Polysemy,1,ACCEPTED,→,to hear / to listen,2759,to know,2826,Ancient Greek,116,Ancient Greek,116,to hear,"to have heard or learnt, know (pres. with pf. sense)",κλύω,κλύω
+4574,shift5343,Polysemy,10,ACCEPTED,→,iron,1806,"instrument, tool",1793,Ancient Greek,116,Ancient Greek,116,iron,"iron tool, iron implement",σίδηρος,σίδηρος
+4614,shift2406,Derivation,2,ACCEPTED,→,&lt;foreigner&gt;,1210,maize,569,Modern Greek,239,Modern Greek,239,Arab,"corn, maize","Ἄραβας, Ἄραψ","ἀραβόσιτος, ἀραβοσίτι"
+4644,shift3610,Derivation,9,ACCEPTED,→,to forget,2653,forget-me-not (flower),1352,Modern Greek,239,Modern Greek,239,to forget,forget-me-not (flower),λησμονώ,μη με λησμόνει
+4672,shift1163,Polysemy,11,ACCEPTED,—,to work,3380,to plough,2986,Ancient Greek,116,Ancient Greek,116,to work,"to cultivate land, to plough",ἐργάζομαι,ἐργάζομαι
+4676,shift1163,Derivation,15,ACCEPTED,→,to work,3380,to plough,2986,Modern Greek,239,Modern Greek,239,work,"cultivate, till",έργον,καλλιεργώ
+4700,shift2539,Polysemy,9,ACCEPTED,—,yellow,2079,green,845,Ancient Greek,116,Ancient Greek,116,yellow,green,χλωρός,χλωρός
+4761,shift0412,Polysemy,11,ACCEPTED,→,to emit smoke,2572,to smoke (tobacco),3180,Modern Greek,239,Modern Greek,239,to smoke,to smoke,καπνίζω,καπνίζω
+4772,shift3363,Polysemy,1,NEW,→,to go away,2700,to fall down,2605,Ancient Greek,116,Ancient Greek,116,"to withdraw, to leave","to capsize, to fall",λιάζομαι,λιάζομαι
+4801,shift0478,Polysemy,7,ACCEPTED,→,mouth,735,face,1214,Ancient Greek,116,Ancient Greek,116,mouth,face,στόμα,στόμα
+4826,shift4992,Polysemy,1,NEW,—,bone marrow,3646,strength,4301,Ancient Greek,116,Ancient Greek,116,marrow,"strength, power",μυελός,μυελός
+4885,shift1064,Polysemy,3,ACCEPTED,→,rooster,1497,cock (of a gun),1023,Modern Greek,239,Modern Greek,239,rooster,cock (of a gun),πετεινός,πετεινός
+4890,shift1064,Polysemy,8,ACCEPTED,→,rooster,1497,cock (of a gun),1023,Modern Greek,239,Modern Greek,239,rooster,cock (of a gun),κόκορας,κόκορας
+4932,shift3319,Polysemy,1,NEW,→,"brilliant, glaring",3692,loud,259,Ancient Greek,116,Ancient Greek,116,"shining, glittering, bright","clear, loud",φᾰεινός,φᾰεινός
+4982,shift1894,Polysemy,14,ACCEPTED,→,weakness,30,inclination to smth,1759,Modern Greek,239,Modern Greek,239,weakness,inclination to smth,αδυναμία,αδυναμία
+5001,shift1700,Derivation,3,ACCEPTED,→,"to live, be alive",2855,animal,1999,Ancient Greek,116,Ancient Greek,116,to live,animal,ζῶ,ζῷον
+5093,shift3100,Polysemy,2,ACCEPTED,—,leaf,174,flower,1323,Ancient Greek,116,Ancient Greek,116,leaf,(rare) flower,πέταλον,πέταλον
+5108,shift4995,Polysemy,2,ACCEPTED,→,comb,1040,reed (in loom),1448,Ancient Greek,116,Ancient Greek,116,comb,reed (in loom),κτείς,κτείς
+5141,shift3359,Polysemy,1,NEW,→,"to strike, hit",3234,to bite,2347,Ancient Greek,116,Ancient Greek,116,"to beat, to hit",to bite (snake),κόπτω,κόπτω
+5159,shift3348,Polysemy,1,NEW,→,sun,4333,East,3803,Ancient Greek,116,Ancient Greek,116,sun,"east, dawn",ἥλιος,ἥλιος
+5166,shift0134,Polysemy,5,ACCEPTED,→,shine (n.),4037,fame,1224,Ancient Greek,116,Ancient Greek,116,"shining, glittering, bright","splendid, brilliant",φᾰεινός,φᾰεινός
+5272,shift3569,Polysemy,1,ACCEPTED,—,jaw,1178,edge (of an instrument),3809,Ancient Greek,116,Ancient Greek,116,jaw,edge of an axe,γένυς,γένυς
+5274,shift3569,Polysemy,3,ACCEPTED,→,jaw,1178,edge (of an instrument),3809,Ancient Greek,116,Ancient Greek,116,jaw,point of a wedge,γνάθος,γνάθος
+5280,shift1729,Derivation,2,ACCEPTED,—,cucumber,1155,pumpkin,490,Ancient Greek,116,Ancient Greek,116,cucumber,pumpkin,σίκυος,σικύα
+5298,shift0342,Polysemy,14,ACCEPTED,→,to fall down,2605,to decrease drastically,2500,Modern Greek,239,Modern Greek,239,to fall down,to decrease drastically,πέφτω,πέφτω
+5325,shift3556,Polysemy,4,ACCEPTED,→,heart,1588,mind (n.),667,Ancient Greek,116,Ancient Greek,116,heart,mind (n.),καρδία,καρδία
+5326,shift3556,Polysemy,5,ACCEPTED,→,heart,1588,mind (n.),667,Ancient Greek,116,Ancient Greek,116,heart,heart as seat of intelligence,κῆρ,κῆρ
+5333,shift1456,Polysemy,1,ACCEPTED,→,to drink,2557,to smoke (tobacco),3180,Modern Greek,239,Modern Greek,239,to drink,to smoke,πίνω,πίνω
+5392,shift1678,Derivation,2,NEW,?,bull,3715,bullhead,3717,Modern Greek,239,Modern Greek,239,bull,bull-calf,βοῦς,βούπα
+5444,shift3812,Polysemy,1,ACCEPTED,→,&lt;military rank&gt;,558,bishop (chess),3602,Modern Greek,239,Modern Greek,239,military officer,bishop (chess),αξιωματικός,αξιωματικός
+5451,shift5777,Polysemy,4,ACCEPTED,→,curtain,1165,cataract (of the eye),909,Modern Greek,239,Modern Greek,239,curtain,cataract (of the eye),μπερντές,μπερντές
+5513,shift2403,Polysemy,2,ACCEPTED,—,summer,4330,harvest,1565,Ancient Greek,116,Ancient Greek,116,summer,"summerfruits, harvest, crop",θέρος,θέρος
+5514,shift2403,Polysemy,3,ACCEPTED,—,summer,4330,harvest,1565,Ancient Greek,116,Ancient Greek,116,"the part of the year between the rising of Sirius and of Arcturus (i.e. the last days of July, all Aug., and part of Sept.)","fruit, harvest",ὀπώρα,ὀπώρα
+5546,shift0756,Polysemy,1,ACCEPTED,?,to sit,3160,"to inhabit, live",2793,Ancient Greek,116,Ancient Greek,116,to sit,"to be, to dwell, to live",κάθεμαι,κάθεμαι
+5563,shift0964,Polysemy,2,ACCEPTED,?,"to have, possess",2756,"to be, exist",2310,Ancient Greek,116,Ancient Greek,116,"to hold, to have, to posses","to dwell, to populate",ἔχω,ἔχω
+5607,shift5437,Derivation,1,NEW,→,grape (plant),831,carrot,898,Ancient Greek,116,Ancient Greek,116,"grape (plant), bunch of grapes",carrot,σταφυλή,σταφυλῖνος
+5645,shift1914,Polysemy,2,NEW,→,empty,3835,stupid,4312,Ancient Greek,116,Ancient Greek,116,empty,stupid,κενός,κενός
+5678,shift3137,Polysemy,1,ACCEPTED,→,wing,92,oar,4511,Ancient Greek,116,Ancient Greek,116,wing,paddle,πτέρυξ,πτέρυξ
+5766,shift1960,Polysemy,14,ACCEPTED,→,soldier,4154,pawn (in chess),320,Modern Greek,239,Modern Greek,239,soldier,pawn (in chess),στρατιώτης,στρατιώτης
+5856,shift7103,Polysemy,1,NEW,→,"board, plank",3638,plate (a serving dish),404,Ancient Greek,116,Ancient Greek,116,"board, plank","trencher, platter",πίναξ,πίναξ
+5872,shift0960,Polysemy,6,ACCEPTED,?,to ask (for),2238,"to ask, inquire",2240,Ancient Greek,116,Ancient Greek,116,to ask,"to ask (to do smth, smth, for smn)",ἐρωτάω,ἐρωτάω
+5928,shift2465,Polysemy,1,ACCEPTED,—,tree,3432,spear,4191,Ancient Greek,116,Ancient Greek,116,"stem, tree",shaft of a spear; spear itself; hunting-spear,δόρυ,δόρυ
+5951,shift0649,Polysemy,6,ACCEPTED,→,hand/arm,1550,side (n.),4071,Ancient Greek,116,Ancient Greek,116,"arm, hand","side, direction",χείρ,χείρ
+5954,shift2729,Derivation,1,ACCEPTED,→,green,845,glaucoma,793,Ancient Greek,116,Ancient Greek,116,"bluish green or grey, of the olive, of the elder, of grapes, of vine leaves, of the beryl and topaz","glaucoma, opacity of the crystalline lens, cataract",γλαυκός,γλαύκωμα
+6009,shift8622,Polysemy,1,NEW,→,crab,1125,cancer (disease),884,Ancient Greek,116,Ancient Greek,116,crab,cancer (disease),καρκίνος,καρκίνος
+6029,shift6975,Polysemy,3,ACCEPTED,—,cradle,1126,swing (hanging seat),4368,Modern Greek,239,Modern Greek,239,cradle,swing (hanging seat),κούνια,κούνια
+6165,shift7848,Polysemy,1,NEW,→,"to do, act",2545,verse,3759,Ancient Greek,116,Ancient Greek,116,"to do, make",poem,ποιέω,ποίημα
+6174,shift0426,Polysemy,1,ACCEPTED,—,early,3795,morning,712,Ancient Greek,116,Ancient Greek,116,early,in the morning,πρωΐ,πρωΐ
+6230,shift0242,Polysemy,25,ACCEPTED,—,"to grasp, seize",2717,to understand,3331,Ancient Greek,116,Ancient Greek,116,"to grasp, to embrace","to grasp, to perceive",καταλαμβάνω,καταλαμβάνω
+6243,shift0242,Polysemy,38,ACCEPTED,→,"to grasp, seize",2717,to understand,3331,Ancient Greek,116,Ancient Greek,116,"to touch, to grasp, to seize","to reach with the mind, to attain to",ἐφάπτω,ἐφάπτω
+6319,shift1007,Polysemy,1,ACCEPTED,→,sun,4333,day,4391,Ancient Greek,116,Ancient Greek,116,sun,day - the sun's day journey,ἥλιος,ἥλιος
+6760,shift1140,Derivation,2,ACCEPTED,?,square (in a town),4234,vulgar,3783,Ancient Greek,116,Ancient Greek,116,sqaure,vulgar,ἀγορά,ἀγοραῖος
+6777,shift1695,Polysemy,4,ACCEPTED,→,to push,3024,to induce,2789,Ancient Greek,116,Ancient Greek,116,to push,"to prompt, to impel",προωθέω,προωθέω
+6789,shift3375,Polysemy,1,NEW,→,soft (adj.),4151,coward,1123,Ancient Greek,116,Ancient Greek,116,soft,"timid, coward",μᾰλᾰκός,μᾰλᾰκός
+6802,shift2758,Polysemy,2,ACCEPTED,→,heavy (of weight),1594,strong,4304,Ancient Greek,116,Ancient Greek,116,heavy,"strong, mighty",βᾰρύς,βᾰρύς
+6834,shift1122,Polysemy,5,ACCEPTED,?,near,1835,close (of relations),1002,Ancient Greek,116,Ancient Greek,116,"close, near",neighbour,πλησίος,πλησίος
+6937,shift0746,Polysemy,6,ACCEPTED,→,to see/to look at,3121,to understand,3331,Ancient Greek,116,Ancient Greek,116,to see/to look at,to understand,ὁράω,ὁράω
+6958,shift0597,Polysemy,3,ACCEPTED,→,"wood, timber",114,substance,4317,Ancient Greek,116,Ancient Greek,116,timber,substance,ὕλη,ὕλη
+7052,shift4718,Polysemy,29,ACCEPTED,→,root (of a plant),1499,root (arithmetic),1498,Modern Greek,239,Modern Greek,239,root (of a plant),root (arithmetic),ρίζα,ρίζα
+7079,shift8453,Polysemy,3,ACCEPTED,→,whip,57,flagellum,1309,Modern Greek,239,Modern Greek,239,whip,flagellum,μαστίγιο,μαστίγιο
+7210,shift0997,Derivation,1,ACCEPTED,?,to throw,3296,to run,3101,Ancient Greek,116,Ancient Greek,116,"to throw, to cast","to run, to rush",ἰάπτω,ἰάπτω ἑαυτόν
+7227,shift6519,Derivation,1,ACCEPTED,→,horse,1661,hippopotamus,1630,Ancient Greek,116,Ancient Greek,116,horse (Equus caballus),hippopotamus,ἵππος,ἱπποπόταμος
+7323,shift5558,Polysemy,7,ACCEPTED,→,"wild, untamed",82,very,3761,Modern Greek,239,Modern Greek,239,"wild, untamed",(usually for smth. unpleasant) characterized by high intensity,άγριος,άγριος
+7372,shift3303,Polysemy,3,ACCEPTED,→,"lead, plumbum",173,pencil,341,Modern Greek,239,Modern Greek,239,lead,pencil,μολύβι,μολύβι
+7496,shift0561,Polysemy,8,ACCEPTED,—,hand/arm,1550,handful,1551,Modern Greek,239,Modern Greek,239,palm of the gand,handful,χούφτα,χούφτα
+7512,shift1635,Derivation,6,ACCEPTED,→,belly,3572,pregnant,456,Modern Greek,239,Modern Greek,239,stomach,pregnant,γαστήρ,γαστρωμένη
+7573,shift3154,Polysemy,1,ACCEPTED,→,&lt;foreigner&gt;,1210,rooster,1497,Ancient Greek,116,Ancient Greek,116,Persian,cock,Περσικός,Περσικός
+7575,shift3154,Polysemy,3,ACCEPTED,→,&lt;foreigner&gt;,1210,rooster,1497,Ancient Greek,116,Ancient Greek,116,resident of Media,cock,Μῆδος,Μῆδος
+7620,shift0008,Polysemy,9,ACCEPTED,→,to know,2826,to know how,2827,Ancient Greek,116,Ancient Greek,116,"to know, be acquainted with [+accusative = something]",to know how to [+infinitive = do something],οἶδα,οἶδα
+7724,shift1129,Derivation,1,ACCEPTED,?,coal,1018,smut (plant disease),4134,Modern Greek,239,Modern Greek,239,"blast, brand",smut,δαυλί,δαυλίδα
+7823,shift3075,Polysemy,1,ACCEPTED,→,light (n.),210,sun,4333,Ancient Greek,116,Ancient Greek,116,light,sun,φῶς,φῶς
+7837,shift1342,Polysemy,4,ACCEPTED,→,feather,1250,fin,1281,Ancient Greek,116,Ancient Greek,116,small feather,fin,πτερύγιον,πτερύγιον
+7847,shift1156,Polysemy,4,ACCEPTED,?,"people, nation",345,army,2030,Ancient Greek,116,Ancient Greek,116,"people, population",army,λαός,λαός
+7873,shift6122,Derivation,2,NEW,→,second (num.),3979,Monday,698,Modern Greek,239,Modern Greek,239,second (num.),Monday,δεύτερος,Δευτέρα
+7912,shift1680,Polysemy,1,ACCEPTED,?,full,1396,fat (adj.)(of a person),1239,Modern Greek,239,Modern Greek,239,"full, filled",fat (person),γεμάτος,γεμάτος
+7988,shift0061,Polysemy,5,ACCEPTED,—,straight,4292,correct (adj.),1105,Ancient Greek,116,Ancient Greek,116,straight,correct,ὀρθός,ὀρθός
+7994,shift0061,Polysemy,11,ACCEPTED,→,straight,4292,correct (adj.),1105,Ancient Greek,116,Ancient Greek,116,straight,"correct, fair",εὐθύς,εὐθύς
+8014,shift2471,Derivation,1,NEW,?,to wait,3347,ambush,1986,Modern Greek,239,Modern Greek,239,to wait,ambush,καρτερῶ,καρτέρι
+8024,shift3934,Polysemy,1,ACCEPTED,—,clean (adj.),998,pure,496,Ancient Greek,116,Ancient Greek,116,"physically clean, spotless","clear of admixture, clear, pure",καθαρός,καθαρός
+8046,shift0947,Polysemy,2,ACCEPTED,—,acorn,1936,date (Phoenix dactylifera),4386,Ancient Greek,116,Ancient Greek,116,acorn,date,βάλανος,βάλανος
+8106,shift0617,Polysemy,4,ACCEPTED,—,sky,4106,palate,290,Ancient Greek,116,Ancient Greek,116,sky,palate,οὐρανός,οὐρανός
+8159,shift5545,Polysemy,1,NEW,—,corn crake,1098,ruff (bird),1519,Ancient Greek,116,Ancient Greek,116,corn crake,ruff (bird),κρέξ,κρέξ
+8175,shift4958,Polysemy,3,SUSPENDED,→,"passionate, zealous",314,jealous,1180,Ancient Greek,116,Ancient Greek,116,"zeal, eagerness",jealousy,ζῆλος,ζῆλος
+8178,shift4958,Derivation,6,NEW,→,"passionate, zealous",314,jealous,1180,Modern Greek,239,Modern Greek,239,eagerness,jealousy,ζήλος,ζήλια
+8305,shift0878,Polysemy,9,ACCEPTED,—,cattle,914,"property, possessions",478,Ancient Greek,116,Ancient Greek,116,cattle,movables,πρόβατον,πρόβατον
+8335,shift0957,Polysemy,4,ACCEPTED,?,"matter, affair",607,battle,3534,Ancient Greek,116,Ancient Greek,116,"business, affair, thing, work, job",battle,ἔργον,ἔργον
+8428,shift1745,Polysemy,1,ACCEPTED,→,root (of a plant),1499,mountain foot,729,Ancient Greek,116,Ancient Greek,116,root,foot (mountain),ῥίζα,ῥίζα
+8560,shift1025,Polysemy,3,ACCEPTED,—,brain (cerebrum),3669,bone marrow,3646,Ancient Greek,116,Ancient Greek,116,brain,marrow,μυελός,μυελός
+8575,shift2778,Polysemy,1,ACCEPTED,→,hand/arm,1550,"power, authority",450,Ancient Greek,116,Ancient Greek,116,"arm, hand",power,χείρ,χείρ
+8603,shift3872,Polysemy,6,ACCEPTED,→,father,1242,&lt;priest&gt;,279,Ancient Greek,116,Ancient Greek,116,father,title of a grade in the mysteries of Mithras,πατήρ,πατήρ
+8609,shift3872,Polysemy,12,ACCEPTED,→,father,1242,&lt;priest&gt;,279,Modern Greek,239,Modern Greek,239,father,"priest, monk",πατέρας,πατέρας
+8681,shift4014,Polysemy,3,ACCEPTED,—,father,1242,founder,1358,Ancient Greek,116,Ancient Greek,116,father,"founder, author",πατήρ,πατήρ
+8692,shift4014,Polysemy,14,ACCEPTED,→,father,1242,founder,1358,Modern Greek,239,Modern Greek,239,father,founder,πατέρας,πατέρας
+8708,shift3745,Polysemy,6,ACCEPTED,—,eyelid,3899,eyelash,3898,Ancient Greek,116,Ancient Greek,116,eyelid,eyelash (mostly in pl.),βλεφαρίς,βλεφαρίς
+8747,shift2796,Polysemy,2,ACCEPTED,→,light (n.),210,vision,3776,Ancient Greek,116,Ancient Greek,116,light,eye,φῶς,φῶς
+8803,shift6981,Derivation,4,ACCEPTED,→,dog,4458,dog-rose,4459,Ancient Greek,116,Ancient Greek,116,dog,dog-rose,κῠ́ων,κυνόροδον
+8808,shift3134,Polysemy,1,NEW,→,to saw,3111,"to vex, exasperate",3344,Ancient Greek,116,Ancient Greek,116,to saw,"to annoy, to infuriate",πρίω,πρίω
+8838,shift2691,Syncretism,8,ACCEPTED,—,mouse,733,rat,1431,Modern Greek,239,Modern Greek,239,mouse,rat,ποντίκι,ποντίκι
+8895,shift3352,Polysemy,1,NEW,→,to bend,2338,to subjugate,3239,Ancient Greek,116,Ancient Greek,116,"to bow, to bend",to subdue,κάμπτω,κάμπτω
+8933,shift6126,Polysemy,1,NEW,→,to prepare,3000,Friday,1378,Byzantine Greek,107,Byzantine Greek,107,preparation,Friday,παρασκευή,Παρασκευή
+8963,shift1237,Polysemy,1,ACCEPTED,→,sharp,4022,bitter,3607,Ancient Greek,116,Ancient Greek,116,"sharp, sharp pointed","bitter, bitter salty",πικρός,πικρός
+8993,shift0845,Polysemy,3,ACCEPTED,?,war,9,quarrel,1901,Ancient Greek,116,Ancient Greek,116,"fight, battle","quarrel, argument,",ἔρις,ἔρις
+8994,shift0845,Polysemy,4,ACCEPTED,?,war,9,quarrel,1901,Ancient Greek,116,Ancient Greek,116,to fight,"to argue, to bicker",δηριάω,δηριάω
+8995,shift0845,Polysemy,5,ACCEPTED,?,war,9,quarrel,1901,Ancient Greek,116,Ancient Greek,116,to be in war,"to argue, to quarrel",πολεμέω,πολεμέω
+8999,shift0845,Polysemy,9,ACCEPTED,?,war,9,quarrel,1901,Ancient Greek,116,Ancient Greek,116,to fight,"to argue, to quarrel",μάρναμαι,μάρναμαι
+9000,shift0845,Polysemy,10,ACCEPTED,?,war,9,quarrel,1901,Ancient Greek,116,Ancient Greek,116,"to be at war, to fight","to argue, to quarrel",μάχομαι,μάχομαι
+9068,shift2684,Polysemy,1,ACCEPTED,→,&lt;weapon&gt;,1,army,2030,Ancient Greek,116,Ancient Greek,116,spear,army,δόρυ,δόρυ
+9073,shift0958,Polysemy,1,ACCEPTED,→,mouse,733,muscle,747,Modern Greek,239,Modern Greek,239,"mouse, rat",muscle,ποντίκι,ποντίκι
+9079,shift0958,Polysemy,7,ACCEPTED,?,mouse,733,muscle,747,Ancient Greek,116,Ancient Greek,116,mouse,muscle,μῦς,μῦς
+9093,shift1309,Polysemy,6,ACCEPTED,?,monarch,696,queen (bee),1903,Modern Greek,239,Modern Greek,239,queen,queen bee,βασίλισσα,βασίλισσα
+9112,shift8448,Polysemy,11,ACCEPTED,→,root (of a plant),1499,root (of a word),1500,Modern Greek,239,Modern Greek,239,root (of a plant),root (of a word),ρίζα,ρίζα
+9134,shift8493,Derivation,1,NEW,→,circle,983,Milky Way,659,Ancient Greek,116,Ancient Greek,116,circle,Milky Way,κύκλος,Γαλαξίας κύκλος
+9164,shift0523,Polysemy,4,ACCEPTED,→,lip,224,"edge, border",3810,Ancient Greek,116,Ancient Greek,116,lip,"edge (e.g. vessel),  brink, brim, rim, bank",χεῖλος,χεῖλος
+9168,shift3339,Polysemy,1,NEW,→,shuttle (weaving instrument),4061,geometrid,779,Ancient Greek,116,Ancient Greek,116,"spindle, sguttle","geometer, geometrid",πηνίον,πηνίον
+9169,shift8515,Polysemy,1,NEW,→,beard,3541,mane,578,Ancient Greek,116,Ancient Greek,116,beard,lion's mane,γένειον,γένειον
+9190,shift0906,Polysemy,1,NEW,→,left,183,impolite,1745,Ancient Greek,116,Ancient Greek,116,left,"ignorant, stupid",σκαιός,σκαιός
+9261,shift7317,Polysemy,6,ACCEPTED,—,to play (intr.),2981,to play (a musical instrument),2980,Modern Greek,239,Modern Greek,239,to play (intr.),to play (a musical instrument),παίζω,παίζω
+9297,shift5819,Polysemy,9,ACCEPTED,→,"human, person",1683,person (grammar),357,Ancient Greek,116,Ancient Greek,116,person,person (grammar),πρόσωπον,πρόσωπον
+9299,shift5819,Polysemy,11,ACCEPTED,→,"human, person",1683,person (grammar),357,Modern Greek,239,Modern Greek,239,person,person (grammar),πρόσωπο,πρόσωπο
+9320,shift1405,Polysemy,1,ACCEPTED,→,to practice witchcraft,2994,"to charm, to delight",2421,Ancient Greek,116,Ancient Greek,116,"to enchant, be witch; to produce by spells","metaph., to charm, beguile",θέλγω,θέλγω
+9321,shift1405,Polysemy,2,ACCEPTED,—,to practice witchcraft,2994,"to charm, to delight",2421,Modern Greek,239,Modern Greek,239,to bewitch,to charm,γητεύω,γητεύω
+9351,shift2134,Polysemy,8,ACCEPTED,→,to break (tr.),2370,to infringe,2792,Ancient Greek,116,Ancient Greek,116,"to smash, to break, to grind",to break (tradition etc.),θρύπτω,θρύπτω
+9406,shift2696,Polysemy,1,ACCEPTED,→,shapeless,4019,"ugly, unpleasant",502,Ancient Greek,116,Ancient Greek,116,"shapeless, amorphous",ugly,ἄμορφος,ἄμορφος
+9414,shift2592,Polysemy,3,ACCEPTED,←,army,2030,war,9,Ancient Greek,116,Ancient Greek,116,"army, troops",military campaign,στόλος,στόλος
+9488,shift3364,Derivation,1,NEW,→,shield,4034,left,183,Ancient Greek,116,Ancient Greek,116,shield,to the left,ἀσπίς,ἐπ᾽ ἀσπίδα
+9491,shift3397,Polysemy,1,NEW,→,mouth,735,completion,1070,Ancient Greek,116,Ancient Greek,116,mouth,"end, outcome",στόμα,στόμα
+9523,shift3112,Polysemy,3,ACCEPTED,→,fruit,1393,"result, outcome",1464,Ancient Greek,116,Ancient Greek,116,fruit,result,καρπός,καρπός
+9554,shift1340,Polysemy,3,ACCEPTED,—,hair,1541,hair (of animals),1542,Ancient Greek,116,Ancient Greek,116,hair,"sheep's wool, pig's bristles",θρίξ,θρίξ
+9677,shift8025,Derivation,1,ACCEPTED,→,silver,4081,mercury,640,Ancient Greek,116,Ancient Greek,116,silver,mercury,ἄργῠρος,ὑδράργυρος
+9694,shift0239,Polysemy,2,ACCEPTED,→,to make scratches,2896,to write,3387,Ancient Greek,116,Ancient Greek,116,"(Epic) to scratch, cut into",to write,γράφω,γράφω
+9708,shift0865,Polysemy,7,ACCEPTED,→,blunt,3637,stupid,4312,Ancient Greek,116,Ancient Greek,116,blunt,stupid,κωφός,κωφός
+9777,shift3381,Derivation,2,NEW,→,hand/arm,1550,domestic (animal),4462,Ancient Greek,116,Ancient Greek,116,hand,"domestic, tame",χείρ,χειροήθης
+9861,shift6823,Polysemy,7,ACCEPTED,→,cow,1122,woman,109,Modern Greek,239,Modern Greek,239,cow,(swear word) obese and ugly woman,αγελάδα,αγελάδα
+9881,shift3868,Polysemy,6,ACCEPTED,→,father,1242,term of address to a man,2154,Ancient Greek,116,Ancient Greek,116,father,respectful mode of addressing persons older than oneself,πατήρ,πατήρ
+9912,shift2627,Derivation,1,ACCEPTED,→,door,4466,on the outside,4541,Ancient Greek,116,Ancient Greek,116,door,outside,θύρα,θύραζε
+9950,shift1319,Polysemy,7,ACCEPTED,→,to fall down,2605,"to set (of Moon, Sun)",3129,Modern Greek,239,Modern Greek,239,to fall down,to set (of heavenly bodies),πέφτω,πέφτω
+9960,shift3408,Polysemy,3,ACCEPTED,→,throat,2186,neck (of bottle etc.),1839,Ancient Greek,116,Ancient Greek,116,throat,neck (vessel λάγῡνος),βρόχθος,βρόχθος
+9963,shift3408,Polysemy,6,ACCEPTED,→,throat,2186,neck (of bottle etc.),1839,Ancient Greek,116,Ancient Greek,116,"throat, gullet",neck of a bottle (κύτος),λαιμός,λαιμός
+9967,shift1679,Polysemy,1,ACCEPTED,→,&lt;fish&gt;,1207,cigarette butt,980,Modern Greek,239,Modern Greek,239,goby,"cigarette butt, stub of the cigarette",γόπα,γόπα
+9988,shift2630,Derivation,2,NEW,→,field,1271,"wild, untamed",82,Ancient Greek,116,Ancient Greek,116,field,wild,ἀγρός,ἄγριος
+9998,shift0477,Polysemy,5,ACCEPTED,—,mouth,735,mouth (of a river),736,Ancient Greek,116,Ancient Greek,116,mouth,river mouth,στόμα,στόμα
+10079,shift1905,Polysemy,10,NEW,→,bed,3549,river-bed,1485,Ancient Greek,116,Ancient Greek,116,bed,river-bed,κοίτη,κοίτη
+10106,shift0961,Polysemy,1,NEW,?,other,4567,hostile,1672,Ancient Greek,116,Ancient Greek,116,"other, different",hostile,ἕτερος,ἕτερος
+10207,shift0146,Polysemy,4,ACCEPTED,→,shame,4017,genitalia,777,Ancient Greek,116,Ancient Greek,116,"shame, disgrace",genitals,αἰδώς,αἰδώς
+10221,shift1421,Polysemy,6,ACCEPTED,→,root (of a plant),1499,origin,4562,Ancient Greek,116,Ancient Greek,116,root,"kindred, origin",ῥίζα,ῥίζα
+10271,shift4883,Derivation,3,NEW,→,wound (n.),125,plantain (Plantago),400,Modern Greek,239,Modern Greek,239,wound (n.),plantain (Plantago),άλογο,αλογόμυγα
+10354,shift2004,Polysemy,5,ACCEPTED,→,sharp,4022,pungent (odour),491,Ancient Greek,116,Ancient Greek,116,"sharp, sharp pointed",acrid (smoke),πικρός,πικρός
+10381,shift3370,Polysemy,1,NEW,→,to gamble,2664,to risk,3091,Ancient Greek,116,Ancient Greek,116,to play dice,"to risk, to set on stake",κῠβεύω,κῠβεύω
+10422,shift2112,Polysemy,1,ACCEPTED,→,drone,4484,"idler, loafer",1736,Ancient Greek,116,Ancient Greek,116,drone,lazy vagabond,κηφήν,κηφήν
+10440,shift2359,Derivation,2,ACCEPTED,→,to give birth,2693,parents,302,Ancient Greek,116,Ancient Greek,116,to give birth to,parents,γεννάω,γονεῖς
+10444,shift2359,Derivation,6,ACCEPTED,?,to give birth,2693,parents,302,Ancient Greek,116,Ancient Greek,116,to give birth to,parents,τίκτω,τοκεῖς
+10456,shift4997,Polysemy,3,NEW,—,ray,1438,spoke of wheel,4214,Modern Greek,239,Modern Greek,239,"light ray, sunbeam",spoke of wheel,ακτίνα,ακτίνα
+10457,shift4997,Polysemy,4,NEW,—,ray,1438,spoke of wheel,4214,Ancient Greek,116,Ancient Greek,116,"ray, beam",spoke of wheel,ἀκτίς,ἀκτίς
+10478,shift6506,Derivation,3,ACCEPTED,→,fruit,1393,cockchafer,1024,Ancient Greek,116,Ancient Greek,116,"apple, fruit",cockchafer,μῆλον,μηλολόνθη
+10533,shift1152,Polysemy,2,ACCEPTED,?,mortal,713,"human, person",1683,Ancient Greek,116,Ancient Greek,116,mortal,person,θνητός,θνητός
+10536,shift1152,Polysemy,5,ACCEPTED,→,mortal,713,"human, person",1683,Ancient Greek,116,Ancient Greek,116,mortal,person,βροτός,βροτός
+10595,shift2477,Derivation,7,ACCEPTED,→,"country, land",1109,farmer,1235,Modern Greek,239,Modern Greek,239,"country, land",peasant,χώρα,χωρικός
+10605,shift1233,Polysemy,2,ACCEPTED,→,rich,1476,"many, much",584,Ancient Greek,116,Ancient Greek,116,rich,abundant,πλούσιος,πλούσιος
+10654,shift0951,Polysemy,2,ACCEPTED,?,evening,3871,West,45,Ancient Greek,116,Ancient Greek,116,afternoon,"dawn, west",δείλη,δείλη
+10655,shift0951,Polysemy,3,ACCEPTED,?,evening,3871,West,45,Ancient Greek,116,Ancient Greek,116,evening,"west, western",ἑσπέρα,ἑσπέρα
+10669,shift3369,Polysemy,2,NEW,—,neck,1837,strait,4294,Ancient Greek,116,Ancient Greek,116,neck,strait,αὐχήν,αὐχήν
+10703,shift1224,Polysemy,2,ACCEPTED,—,hill,1626,tomb,3397,Ancient Greek,116,Ancient Greek,116,"grave-mound (Homer, Heredotus, tragedians )","tomb (Pindar, Aeschylus)",τύμβος,τύμβος
+10728,shift2656,Derivation,1,ACCEPTED,→,to hang,2733,sword,4369,Ancient Greek,116,Ancient Greek,116,to be hanging,sword,ἀείρομαι,ἄορ
+10849,shift0902,Polysemy,3,ACCEPTED,?,short (size),4048,low (size),264,Ancient Greek,116,Ancient Greek,116,"short, not of great length, brief",low,βραχύς,βραχύς
+10910,shift8021,Polysemy,9,NEW,—,child,957,servant,3997,Modern Greek,239,Modern Greek,239,child,"small or young shop or office worker, for auxiliary work",παιδί,παιδί
+10932,shift5618,Polysemy,2,ACCEPTED,→,navel,1833,keystone,1706,Ancient Greek,116,Ancient Greek,116,navel,(architecture) keystone of an arched vault,ὀμφαλός,ὀμφαλός
+10940,shift1928,Polysemy,5,ACCEPTED,→,tribe,3435,kind (n.),1710,Ancient Greek,116,Ancient Greek,116,"race, stock, kin; family, clan, house tribe, nation","class, sort, kind",γένος,γένος
+10944,shift3753,Polysemy,3,ACCEPTED,—,breathing,3683,smell (n.),4128,Ancient Greek,116,Ancient Greek,116,"act of breathing, sb’s breath","smell, scent",pneuma,πνεῦμα
+10965,shift3079,Polysemy,2,ACCEPTED,→,sadness,3915,love,262,Ancient Greek,116,Ancient Greek,116,"melancholy, yearning","love, passion",πόθος,πόθος
+10985,shift0898,Polysemy,1,ACCEPTED,—,cheek,948,jaw,1178,Ancient Greek,116,Ancient Greek,116,cheek,jaw,σιαγών,σιαγών
+10991,shift0898,Polysemy,7,ACCEPTED,?,cheek,948,jaw,1178,Ancient Greek,116,Ancient Greek,116,cheek,"chin, jaw, beard",γενειάς,γενειάς
+11004,shift2194,Polysemy,1,ACCEPTED,→,sharp,4022,"severe, harsh",4003,Ancient Greek,116,Ancient Greek,116,"sharp, sharp pointed","severe, cruel (e.g. Law)",πικρός,πικρός
+11031,shift1327,Polysemy,2,ACCEPTED,?,to flow,2639,to shed hair or feathers,3142,Ancient Greek,116,Ancient Greek,116,to flow,to come out (hair),ῥέω,ῥέω
+11036,shift1455,Polysemy,1,ACCEPTED,—,to call,2396,to name,2937,Ancient Greek,116,Ancient Greek,116,"to call, to summon","to call, to name",κᾰλέω,κᾰλέω
+11177,shift0389,Polysemy,30,NEW,←,beard,3541,chin,966,Ancient Greek,116,Ancient Greek,116,beard,chin,γένειον,γένειον
+11242,shift0678,Polysemy,2,ACCEPTED,—,strength,4301,"power, authority",450,Ancient Greek,116,Ancient Greek,116,"to be strong, powerful",to have power,σθένω,σθένω
+11293,shift6111,Polysemy,2,ACCEPTED,→,god,804,Sunday,4335,Byzantine Greek,107,Byzantine Greek,107,of Lord,Sunday,Κυριακή,Κυριακή
+11377,shift1015,Polysemy,5,ACCEPTED,?,backwards,3492,again,1955,Ancient Greek,116,Ancient Greek,116,back,again,πάλιν,πάλιν
+11410,shift1907,Polysemy,3,ACCEPTED,→,black,3610,sad,3912,Ancient Greek,116,Ancient Greek,116,"gloom, darkness",gloom,ζόφος,ζόφος
+11419,shift0655,Polysemy,1,ACCEPTED,?,to tin,3303,"to disgrace, dishonor",2532,Modern Greek,239,Modern Greek,239,to tinplate,"to disgrace, to mock, to dishonour",γανώνω,γανώνω
+11479,shift0752,Polysemy,10,ACCEPTED,?,to carry,2401,to endure,2578,Ancient Greek,116,Ancient Greek,116,to carry,"to stand, to bear",ὀχέω,ὀχέω
+11481,shift0752,Polysemy,12,ACCEPTED,→,to carry,2401,to endure,2578,Ancient Greek,116,Ancient Greek,116,to carry,"to bear, to stand",φέρω,φέρω
+11487,shift1370,Polysemy,4,ACCEPTED,→,forearm,1346,unit of length,528,Ancient Greek,116,Ancient Greek,116,forearm,a length unit,πῆχυς,πῆχυς
+11568,shift0033,Polysemy,1,ACCEPTED,→,"to get, obtain",2691,to hear,2758,Ancient Greek,116,Ancient Greek,116,"to take, to accept, to receive","to perceive, to hear",δέχομαι,δέχομαι
+11582,shift2770,Polysemy,3,ACCEPTED,→,sizing tool,4095,"rule, regulations",1521,Ancient Greek,116,Ancient Greek,116,"straight rod, bar, esp. to keep a thing straight;  weaver's rod, to which alternate threads of the warp were attached;  ruddled line used by masons or carpenters; ruler","rule, standard",κανών,κανών
+11583,shift2770,Polysemy,4,ACCEPTED,→,sizing tool,4095,"rule, regulations",1521,Ancient Greek,116,Ancient Greek,116,carpenter's line or rule,"rule, law",στάθμη,στάθμη
+11592,shift1343,Polysemy,2,ACCEPTED,→,wing,92,fin,1281,Ancient Greek,116,Ancient Greek,116,wing,fin,πτέρυξ,πτέρυξ
+11622,shift1335,Polysemy,3,ACCEPTED,?,powerless,451,furious,1402,Ancient Greek,116,Ancient Greek,116,weak,"unrestrained, uncurb",ἀκρατής,ἀκρατής
+11866,shift3924,Polysemy,1,ACCEPTED,—,market,593,square (in a town),4234,Ancient Greek,116,Ancient Greek,116,market,square (of a town),ἀγορά,ἀγορά
+11898,shift8609,Polysemy,5,NEW,—,ray,1438,radius (geometry),1416,Modern Greek,239,Modern Greek,239,"light ray, sunbeam",radius (geometry),ακτίνα,ακτίνα
+11907,shift1449,Derivation,1,ACCEPTED,→,camel,878,ostrich,4566,Ancient Greek,116,Ancient Greek,116,camel,ostrich,κάμηλος,στρουθοκάμηλος
+11956,shift2709,Polysemy,3,ACCEPTED,—,barley,3516,bread,3677,Ancient Greek,116,Ancient Greek,116,barley,dough,μᾶζα,μᾶζα
+11973,shift0421,Polysemy,10,NEW,→,&lt;vessel&gt;,3742,pelvis,339,Modern Greek,239,Modern Greek,239,large bowl,pelvis,λεκάνη,λεκάνη
+11974,shift7173,Motivation,1,ACCEPTED,→,horn,1657,fenugreek,1260,Ancient Greek,116,Ancient Greek,116,horn,fenugreek,κέρας,αἰγόκερας
+11975,shift7173,Motivation,2,ACCEPTED,→,horn,1657,fenugreek,1260,Ancient Greek,116,Ancient Greek,116,horn,fenugreek,κέρας,βούκερας
+12084,shift2965,Polysemy,1,ACCEPTED,—,deep,4404,dark (adj.),4382,Ancient Greek,116,Ancient Greek,116,deep,dark (colour),βαθύς,βαθύς
+12137,shift0920,Polysemy,2,ACCEPTED,—,to be born,2259,to happen,2735,Ancient Greek,116,Ancient Greek,116,to be born,"to take place, to happen",γίγνομαι,γίγνομαι
+12150,shift1391,Polysemy,1,ACCEPTED,→,to sing,3157,to glorify,2695,Ancient Greek,116,Ancient Greek,116,to sing,"to glorify in songs, to praise",ὑμνέω,ὑμνέω
+12151,shift1391,Polysemy,2,ACCEPTED,→,to sing,3157,to glorify,2695,Ancient Greek,116,Ancient Greek,116,to sing,"to sing, to glorify",μέλπω,μέλπω
+12153,shift1391,Polysemy,4,ACCEPTED,→,to sing,3157,to glorify,2695,Ancient Greek,116,Ancient Greek,116,to sing,"to sing, to praise",μελίζω,μελίζω
+12158,shift1391,Polysemy,9,ACCEPTED,→,to sing,3157,to glorify,2695,Ancient Greek,116,Ancient Greek,116,to sing,"to sing, to glorify","ἀείδω, стяж. ᾆδω","ἀείδω, стяж. ᾆδω"
+12161,shift1391,Polysemy,12,ACCEPTED,→,to sing,3157,to glorify,2695,Ancient Greek,116,Ancient Greek,116,to sing,"to sing, to glorify",ῥαψῳδέω,ῥαψῳδέω
+12172,shift8607,Derivation,1,ACCEPTED,→,umbrella,504,umbel,503,Ancient Greek,116,Ancient Greek,116,umbrella,umbel of umbelliferous plants,σκιά,σκιάδειον
+12251,shift1854,Polysemy,5,ACCEPTED,→,to sway,3256,"to worry, be agitated",3382,Ancient Greek,116,Ancient Greek,116,"to rock, to wobble, to fluctuate",to worry,σαλεύω,σαλεύω
+12295,shift3608,Polysemy,4,ACCEPTED,—,"to raise, lift (tr.)",3037,to abolish,2209,Ancient Greek,116,Ancient Greek,116,"to raise, lift (tr.)","to remove, eliminate",αἴρω,αἴρω
+12309,shift1261,Polysemy,2,ACCEPTED,—,to shake,3136,"to strike, hit",3234,Modern Greek,239,Modern Greek,239,"to shake (air, soil etc)","to strike, to hit (substandard)",τραντάζω,τραντάζω
+12353,shift3077,Polysemy,2,ACCEPTED,—,"grain, seed",823,freckle,1370,Ancient Greek,116,Ancient Greek,116,lens,freckle,φακός,φακός
+12356,shift4225,Polysemy,1,ACCEPTED,—,whirlpool,59,whirlwind,60,Ancient Greek,116,Ancient Greek,116,"whirlpool, eddy",whirlwind,δίνη,δίνη
+12474,shift2579,Polysemy,1,ACCEPTED,→,line,219,line (in poetry),220,Ancient Greek,116,Ancient Greek,116,row or file of soldiers,"poem, verse",στίχος,στίχος
+12483,shift0203,Polysemy,3,ACCEPTED,—,jealous,1180,envious,3848,Ancient Greek,116,Ancient Greek,116,jealousy,envy,ζηλοτυπία,ζηλοτυπία
+12559,shift5202,Polysemy,1,ACCEPTED,—,guest,855,host,1671,Ancient Greek,116,Ancient Greek,116,"stranger, foreigner",person bound by a treaty or tie of hospitality,ξένος,ξένος
+12597,shift0770,Polysemy,1,ACCEPTED,?,"to wet, moisten",3371,to dye,2566,Ancient Greek,116,Ancient Greek,116,"to plunge, to immerse",to dip into dye > to dye,βάπτω,βάπτω
+12600,shift6037,Polysemy,1,NEW,→,hoof,1650,claw (of a crustacean),996,Ancient Greek,116,Ancient Greek,116,hoof,crab's claw,χηλή,χηλή
+12647,shift5053,Polysemy,12,ACCEPTED,→,to answer,2228,to correspond,2464,Modern Greek,239,Modern Greek,239,to answer,to correspond,ανταποκρίνομαι,ανταποκρίνομαι
+12667,shift2649,Polysemy,2,NEW,→,copper,1093,metal,643,Ancient Greek,116,Ancient Greek,116,copper,(poetic) anything made of metal,χαλκός,χαλκός
+12673,shift1168,Polysemy,4,ACCEPTED,?,to speak,3193,"to order, command",2953,Ancient Greek,116,Ancient Greek,116,to speak,to order,αὐδάω,αὐδάω
+12674,shift1168,Polysemy,5,ACCEPTED,?,to speak,3193,"to order, command",2953,Ancient Greek,116,Ancient Greek,116,to speak,to order,εἴρω,εἴρω
+12677,shift1168,Polysemy,8,ACCEPTED,?,to speak,3193,"to order, command",2953,Ancient Greek,116,Ancient Greek,116,to speak,"to order, to prescribe",λέγω,λέγω
+12736,shift1103,Polysemy,2,ACCEPTED,→,thin (of an object),2172,high-pitched,1625,Ancient Greek,116,Ancient Greek,116,lean,high pitched (voice),ἰσχνός,ἰσχνός
+12779,shift1486,Polysemy,3,ACCEPTED,→,tail,2113,"handle, gripe",1552,Ancient Greek,116,Ancient Greek,116,tail,handle,κέρκος,κέρκος
+12867,shift0911,Derivation,4,NEW,←,mole (Talpa),694,mouse,733,Modern Greek,239,Modern Greek,239,mole (Talpa),mouse,τυφλοπόντικας,ποντικός
+12892,shift6302,Polysemy,25,NEW,→,anvil (of a blacksmith),2010,"incus, anvil bone",1764,Modern Greek,239,Modern Greek,239,anvil (of a blacksmith),anvil bone,αμόνι,αμόνι
+12954,shift4013,Polysemy,1,ACCEPTED,→,child (son or daughter),958,interest (finance),1800,Ancient Greek,116,Ancient Greek,116,child,interest (finance),τόκος,τόκος
+12985,shift6717,Polysemy,6,ACCEPTED,→,gold,807,term of address with endearment,2158,Ancient Greek,116,Ancient Greek,116,gold,a term of endearment,χρυσίον,χρυσίον
+13080,shift0524,Polysemy,4,ACCEPTED,—,chest (body part),954,mountain slope,732,Ancient Greek,116,Ancient Greek,116,chest,hill,μαστός,μαστός
+13172,shift3810,Polysemy,2,ACCEPTED,→,horse,1661,knight (chess),1722,Modern Greek,239,Modern Greek,239,horse (Equus caballus),knight (chess),ίππος,ίππος
+13173,shift3810,Polysemy,3,ACCEPTED,→,horse,1661,knight (chess),1722,Modern Greek,239,Modern Greek,239,horse (Equus caballus),knight (chess),άλογο,άλογο
+13221,shift1164,Polysemy,13,ACCEPTED,—,to suffer,3244,to work,3380,Ancient Greek,116,Ancient Greek,116,"to suffer, to be sick, to be in distress",to work till one drops,κάμνω,κάμνω
+13223,shift1164,Polysemy,15,ACCEPTED,—,to suffer,3244,to work,3380,Ancient Greek,116,Ancient Greek,116,"to suffer, to be in distress","to work, to be busy",πονέω,πονέω
+13307,shift3340,Polysemy,1,NEW,→,left,183,West,45,Ancient Greek,116,Ancient Greek,116,left,western,σκαιός,σκαιός
+13504,shift0414,Polysemy,2,ACCEPTED,—,to love,2874,to kiss,2821,Ancient Greek,116,Ancient Greek,116,to love,to kiss,φιλέω,φιλέω
+13548,shift0053,Polysemy,25,NEW,→,time,2200,weather,34,Modern Greek,239,Modern Greek,239,time,weather,καιρός,καιρός
+13609,shift0063,Polysemy,3,ACCEPTED,—,storm,4288,winter,94,Ancient Greek,116,Ancient Greek,116,"storm, stormy weather; misfortune",winter,χειμών,χειμών
+13617,shift0299,Polysemy,4,ACCEPTED,→,"naked, bare",1819,"deprived of, lacking",4416,Ancient Greek,116,Ancient Greek,116,"naked, bald",lacking in smth,ψῑλός,ψῑλός
+13663,shift1494,Polysemy,5,ACCEPTED,—,to perceive smell,2969,to have smell,2754,Modern Greek,239,Modern Greek,239,to perceive smell,to have smell,μυρίζω,μυρίζω
+13675,shift4707,Polysemy,1,ACCEPTED,→,"act, deed",1938,drama (theatre),4477,Ancient Greek,116,Ancient Greek,116,"act, deed","action represented on the stage, drama, play",δρᾶμα,δρᾶμα
+13681,shift3353,Polysemy,1,NEW,—,"to adorn, decorate",2223,to clean,2428,Ancient Greek,116,Ancient Greek,116,to decorate,to clean,καλλύνω,καλλύνω
+13683,shift1406,Derivation,2,ACCEPTED,?,wind,88,anemone (Anemone),1993,Ancient Greek,116,Ancient Greek,116,wind,sea flower,ἄνεμως,ἀνεμώνη
+13848,shift2981,Polysemy,13,ACCEPTED,→,"little, small",232,little finger,231,Modern Greek,239,Modern Greek,239,"little, small",little finger,μικρός,μικρός
+13994,shift3494,Polysemy,15,ACCEPTED,→,&lt;young animal&gt;,2072,child (son or daughter),958,Modern Greek,239,Modern Greek,239,"chick, nestling",child; baby,πεταρούδι,πεταρούδι
+13998,shift3494,Polysemy,19,ACCEPTED,—,&lt;young animal&gt;,2072,child (son or daughter),958,Ancient Greek,116,Ancient Greek,116,"nursling, mostly of tame animals, esp. sheep and goats","of men, esp. of domestic slaves",θρέμμα,θρέμμα
+13999,shift3494,Polysemy,20,ACCEPTED,—,&lt;young animal&gt;,2072,child (son or daughter),958,Ancient Greek,116,Ancient Greek,116,less freq. of animals,"infant, child",νήπιος,νήπιος
+14000,shift3494,Polysemy,21,ACCEPTED,—,&lt;young animal&gt;,2072,child (son or daughter),958,Ancient Greek,116,Ancient Greek,116,"of animals, young",child,τέκνον,τέκνον
+14017,shift2673,Derivation,4,ACCEPTED,→,head,1578,money,700,Ancient Greek,116,Ancient Greek,116,head,"money, capital",κεφαλή,κεφάλαιον
+14031,shift8620,Polysemy,7,NEW,→,crab,1125,Cancer (constellation),883,Ancient Greek,116,Ancient Greek,116,crab,Cancer (constellation),καρκίνος,καρκίνος
+14071,shift1126,Derivation,1,ACCEPTED,?,milk,657,"milk-tooth, deciduous tooth",658,Modern Greek,239,Modern Greek,239,milk,baby tooth,γάλα,γαλαξίας
+14149,shift0899,Polysemy,1,NEW,→,wing,92,sail (n.),3920,Ancient Greek,116,Ancient Greek,116,wing,sail,πτερόν,πτερόν
+14165,shift1123,Polysemy,12,ACCEPTED,→,"to soil, make dirty",3187,"to disgrace, dishonor",2532,Ancient Greek,116,Ancient Greek,116,to soil,"to stain, to blemish (fig.)",μιαίνω,μιαίνω
+14191,shift0625,Polysemy,1,ACCEPTED,→,noise,1872,rumour,1522,Ancient Greek,116,Ancient Greek,116,"noise, buzz",rumours,ἠχώ,ἠχώ
+14210,shift1104,Polysemy,4,ACCEPTED,?,"to end, finish",2577,to kill,2820,Ancient Greek,116,Ancient Greek,116,"to finish, to complete",to destroy,ἀνύω,ἀνύω
+14323,shift0740,Polysemy,6,ACCEPTED,→,to lead,2834,to cause,2410,Ancient Greek,116,Ancient Greek,116,"to lead, to conduct",to become the cause,ἄγω,ἄγω
+14362,shift0668,Derivation,4,ACCEPTED,→,girl,786,pupil (of an eye),493,Ancient Greek,116,Ancient Greek,116,"girl, maiden",pupil (of the eye),κόρη,κόρη
+14410,shift0563,Polysemy,11,ACCEPTED,—,man (male),574,"human, person",1683,Ancient Greek,116,Ancient Greek,116,man,person,φώς,φώς
+14560,shift0428,Polysemy,4,ACCEPTED,—,melon (Cucumis melo),630,pumpkin,490,Ancient Greek,116,Ancient Greek,116,pumpkin,melon,σικύα,σικύα
+14561,shift0428,Polysemy,5,ACCEPTED,—,melon (Cucumis melo),630,pumpkin,490,Ancient Greek,116,Ancient Greek,116,melon (Cucumis melo),"bottle-gourd, Lagenaria vulgaris",σικύα,σικύα
+14593,shift3597,Polysemy,2,ACCEPTED,—,to be ashamed,2257,to respect,3075,Ancient Greek,116,Ancient Greek,116,to be ashamed,"to stand in awe of, fear",αἰδέομαι,αἰδέομαι
+14612,shift1791,Polysemy,3,ACCEPTED,→,to separate,3127,to decide,2495,Ancient Greek,116,Ancient Greek,116,to separate,to decide,κρῑ́νω,κρῑ́νω
+14686,shift5566,Polysemy,1,ACCEPTED,—,"wild, untamed",82,impulsive,1751,Ancient Greek,116,Ancient Greek,116,wild,"uncontrollable, rude",ἄγριος,ἄγριος
+14727,shift3076,Derivation,1,ACCEPTED,→,lip,224,beak,3536,Ancient Greek,116,Ancient Greek,116,lip,beak,χεῖλος,χεῖλοι
+14755,shift1601,Polysemy,1,ACCEPTED,→,shadow,4010,"phantom, ghost",361,Ancient Greek,116,Ancient Greek,116,shadow,ghost,σκιά,σκιά
+14775,shift3073,Polysemy,1,ACCEPTED,→,"bile, gall",3589,poison,422,Ancient Greek,116,Ancient Greek,116,bile,poison,χολή,χολή
+14942,shift2251,Polysemy,1,ACCEPTED,→,to speak,3193,to have opinion,2752,Ancient Greek,116,Ancient Greek,116,to speak,"to think, to believe",φημί,φημί
+14943,shift2251,Polysemy,2,ACCEPTED,→,to speak,3193,to have opinion,2752,Ancient Greek,116,Ancient Greek,116,to speak,to think,φάσκω,φάσκω
+14972,shift3371,Polysemy,1,NEW,→,"to pull, to draw",3018,"to govern, control, rule",2716,Ancient Greek,116,Ancient Greek,116,to pull,to rule,τᾰνύω,τᾰνύω
+14977,shift1147,Polysemy,3,ACCEPTED,→,fox (Vulpes vulpes),1360,cunning person,1157,Ancient Greek,116,Ancient Greek,116,fox,cunning fox,κίνᾰδος,κίνᾰδος
+14984,shift1147,Derivation,10,ACCEPTED,—,fox (Vulpes vulpes),1360,cunning person,1157,Ancient Greek,116,Ancient Greek,116,fox,cunning fox,ἀλώπηξ,ἀλώπηξ
+15115,shift4005,Polysemy,1,ACCEPTED,→,bee swarm,3556,crowd (of people),1148,Modern Greek,239,Modern Greek,239,bee swarm,crowd (of people),μελίσσι,μελίσσι
+15147,shift4198,Polysemy,9,NEW,—,copper,1093,bronze,3694,Ancient Greek,116,Ancient Greek,116,copper,bronze,χαλκός,χαλκός
+15234,shift0075,Polysemy,1,ACCEPTED,→,morning,712,spring (season),4224,Ancient Greek,116,Ancient Greek,116,(Homer Odyssey) morning,spring (season),"ἔαρ (epic εἶαρ, contracted ἦρ)","ἔαρ (epic εἶαρ, contracted ἦρ)"
+15239,shift3367,Polysemy,1,ACCEPTED,—,brave,3675,insolent,1788,Ancient Greek,116,Ancient Greek,116,"courageous, brave",impudent,ἴτης,ἴτης
+15241,shift3367,Polysemy,3,ACCEPTED,—,brave,3675,insolent,1788,Ancient Greek,116,Ancient Greek,116,"brave, courageous",impudent,θαρσᾰλέος,θαρσᾰλέος
+15242,shift3367,Polysemy,4,ACCEPTED,—,brave,3675,insolent,1788,Ancient Greek,116,Ancient Greek,116,"bold, courageous","shameless, impudent",ἀναιδής,ἀναιδής
+15244,shift3367,Polysemy,6,ACCEPTED,—,brave,3675,insolent,1788,Ancient Greek,116,Ancient Greek,116,"courageous, brave",impudent,θρᾰσύς,θρᾰσύς
+15287,shift1647,Polysemy,8,ACCEPTED,→,breathing,3683,soul,4172,Ancient Greek,116,Ancient Greek,116,breath,soul,ψυχή (psykhē),psūkhē
+15393,shift1203,Polysemy,2,ACCEPTED,?,nail (body part),1816,hoof,1650,Ancient Greek,116,Ancient Greek,116,"nail, claw",hoof,ὄνυξ,ὄνυξ
+15460,shift3361,Polysemy,1,NEW,→,horn,1657,flank (military),1311,Ancient Greek,116,Ancient Greek,116,horn,"flank, wing",κέρας,κέρας
+15572,shift0794,Polysemy,13,ACCEPTED,→,dry,4491,lean,178,Ancient Greek,116,Ancient Greek,116,"dry, withered","thin, lean",ἰσχνός,ἰσχνός
+15629,shift1216,Polysemy,1,SUSPENDED,—,liquid (adj.),226,flexible,1319,Ancient Greek,116,Ancient Greek,116,"liquid, thin",flexible,ὑδρός,ὑδρός
+15705,shift4537,Polysemy,19,ACCEPTED,→,middle,652,middle finger,653,Modern Greek,239,Modern Greek,239,middle,middle finger,μέσος,μέσος
+15797,shift3394,Derivation,1,NEW,→,to eat,2569,hell,1601,Ancient Greek,116,Ancient Greek,116,"to gape, to open wide","the primordial state of existence;he nether abyss, infinite darkness, joined with Ἔρεβος  (in afterworld)",χαίνω,χάος
+15810,shift7272,Polysemy,2,ACCEPTED,→,fruit,1393,child (son or daughter),958,Ancient Greek,116,Ancient Greek,116,fruit,child,καρπός,καρπός
+16045,shift1985,Polysemy,86,NEW,→,silver,4081,money,700,Ancient Greek,116,Ancient Greek,116,silver,money,ἄργυρος,ἄργυρος
+16065,shift1985,Polysemy,106,NEW,—,silver,4081,money,700,Ancient Greek,116,Ancient Greek,116,silver,money,ἄργυρος,ἄργυρος
+16123,shift0771,Derivation,3,ACCEPTED,→,to throw,3296,"to accuse, blame",2213,Ancient Greek,116,Ancient Greek,116,to throw,"to accuse, to calumniate",ballo,diaballo
+16135,shift2628,Derivation,1,ACCEPTED,→,door,4466,foreign,1348,Ancient Greek,116,Ancient Greek,116,door,foreign,θύρα,θυραῖος
+16147,shift8484,Polysemy,4,ACCEPTED,—,inkwell,1780,squid,4235,Modern Greek,239,Modern Greek,239,(archaic) inkwell,squid,καλαμάρι,καλαμάρι
+16160,shift1167,Polysemy,10,ACCEPTED,?,to tremble,3315,to fear,2610,Ancient Greek,116,Ancient Greek,116,to tremble,to be afraid,τρέμω,τρέμω
+16233,shift7575,Derivation,1,ACCEPTED,→,to grow (plants),2723,plant (biol.),398,Ancient Greek,116,Ancient Greek,116,to grow (plants),plant (biol.),φύω,φῠτόν
+16328,shift5224,Polysemy,16,ACCEPTED,—,child (son or daughter),958,child (young person),959,Ancient Greek,116,Ancient Greek,116,child (son or daughter),child (of age),παῖς,παῖς
+16349,shift5224,Polysemy,37,ACCEPTED,—,child (son or daughter),958,child (young person),959,Modern Greek,239,Modern Greek,239,child (son or daughter),child (of age),παιδί,παιδί
+16419,shift3602,Derivation,11,NEW,→,day,4391,today,3393,Ancient Greek,116,Ancient Greek,116,day,today,ἡμέρα,σήμερον
+16452,shift0366,Polysemy,2,ACCEPTED,→,heavy (of weight),1594,difficult,4433,Ancient Greek,116,Ancient Greek,116,heavy in weight,difficult,βᾰρύς,βᾰρύς
+16564,shift5918,Derivation,2,ACCEPTED,→,blood,3630,Saint-John&#39;s-wort (Hypericum),3926,Ancient Greek,116,Ancient Greek,116,blood,Saint-John's-wort (Hypericum),αἷμα,ἀνδρόσαιμον
+16594,shift3221,Polysemy,3,ACCEPTED,→,"lord, master",254,god,804,Ancient Greek,116,Ancient Greek,116,"ruler, sovereign, lord, master, head",god,κύριος,κύριος
+16689,shift0072,Polysemy,2,ACCEPTED,—,flower,1323,colour,1038,Ancient Greek,116,Ancient Greek,116,flower,colour; the elect of,ἄνθος,ἄνθος
+16708,shift1776,Polysemy,1,ACCEPTED,→,female calf,1256,girl,786,Ancient Greek,116,Ancient Greek,116,"calf, young heifer","metaph., young maiden",πόρτις,πόρτις
+16733,shift5613,Polysemy,4,ACCEPTED,→,left,183,left (political),184,Modern Greek,239,Modern Greek,239,left,left (political),αριστερός,αριστερός
+16757,shift3378,Derivation,1,ACCEPTED,→,mother,720,queen (bee),1903,Ancient Greek,116,Ancient Greek,116,mother,queen (bee),μήτηρ,μήτρα
+16778,shift5745,Derivation,5,ACCEPTED,→,"to calculate, count",2393,computer,1075,Modern Greek,239,Modern Greek,239,"to calculate, count",computer,υπολογίζω,υπολογιστής
+16802,shift5428,Polysemy,2,NEW,→,three times,2183,very,3761,Ancient Greek,116,Ancient Greek,116,"thrice, three times",thrice as much or many; freq. used merely to intensify the notion,τρίς,τρίς
+16972,shift0769,Polysemy,6,ACCEPTED,—,"brilliant, glaring",3692,glad,788,Ancient Greek,116,Ancient Greek,116,to polish,"to amuse, to please",γανόω,γανόω
+16973,shift0769,Polysemy,7,ACCEPTED,—,"brilliant, glaring",3692,glad,788,Ancient Greek,116,Ancient Greek,116,to laugh,"to shine, to beam, to glitter",γελάω,γελάω
+17017,shift7502,Derivation,4,ACCEPTED,→,wind,88,chickenpox,956,Modern Greek,239,Modern Greek,239,wind,chickenpox,άνεμος,ανεμοβλογιά
+17057,shift2212,Polysemy,3,ACCEPTED,→,foot,1338,mountain foot,729,Ancient Greek,116,Ancient Greek,116,foot,foot of a hill,πούς,πούς
+17061,shift2212,Polysemy,7,ACCEPTED,→,foot,1338,mountain foot,729,Ancient Greek,116,Ancient Greek,116,ankle,foot (mountain),σφῠρόν,σφῠρόν
+17091,shift2776,Polysemy,2,ACCEPTED,→,bird,3594,omen,4539,Ancient Greek,116,Ancient Greek,116,bird,"bird of omen, from the flight or cries of which the augur divined, metaph., omen taken from the flight or cries of birds; generally, omen, presage, without direct reference to birds",ὄρνις,ὄρνις
+17123,shift5985,Polysemy,5,ACCEPTED,→,"grain, seed",823,descendant,4417,Ancient Greek,116,Ancient Greek,116,seed,offspring,σπόρος,σπόρος
+17124,shift5985,Polysemy,6,ACCEPTED,→,"grain, seed",823,descendant,4417,Ancient Greek,116,Ancient Greek,116,seed,(poetic) offspring,σπέρμα,σπέρμα
+17146,shift8634,Derivation,1,NEW,→,sparrow,4187,ostrich,4566,Ancient Greek,116,Ancient Greek,116,sparrow,ostrich,στρουθός,στρουθός μέγας
+17183,shift0545,Derivation,5,ACCEPTED,→,to pay,2963,to revenge,3082,Ancient Greek,116,Ancient Greek,116,to pay,to revenge,τίνω,τίσασθαί
+17262,shift3386,Polysemy,1,NEW,→,circle,983,year,2077,Ancient Greek,116,Ancient Greek,116,circle,year,κύκλος,κύκλος
+17299,shift0773,Polysemy,4,ACCEPTED,←,"to shine, glitter",3145,to see/to look at,3121,Modern Greek,239,Modern Greek,239,to give light (dialect) (Младенова 2002 76),to look (Младенова 2002 76),βλέπω,βλέπω
+17308,shift5236,Polysemy,8,ACCEPTED,→,brother,3700,member of religious organisation,634,Modern Greek,239,Modern Greek,239,brother,monk,αδελφός,αδελφός
+17328,shift3366,Polysemy,1,NEW,→,spear,4191,arrow,2033,Ancient Greek,116,Ancient Greek,116,spear,arrow,ἔγχος,ἔγχος
+17442,shift7810,Derivation,1,ACCEPTED,→,fire,1286,pyrite,500,Ancient Greek,116,Ancient Greek,116,fire,"a mineral which strikes fire, copper pyrites",πῦρ,πυρίτης
+17480,shift5775,Polysemy,24,ACCEPTED,→,bow (weapon),3659,"bow, fiddlestick",3660,Modern Greek,239,Modern Greek,239,bow (weapon),"bow, fiddlestick",τόξο(ν),τόξο(ν)
+17491,shift3306,Polysemy,5,ACCEPTED,→,"to grasp, seize",2717,to steal,3220,Ancient Greek,116,Ancient Greek,116,to grasp,"to kidnap, to rob",ἁρπάζω,ἁρπάζω
+17512,shift1226,Polysemy,1,ACCEPTED,→,"to strike, hit",3234,wound (n.),125,Ancient Greek,116,Ancient Greek,116,"to beat, to hit",to wound,κόπτω,κόπτω
+17514,shift1226,Polysemy,3,ACCEPTED,—,"to strike, hit",3234,wound (n.),125,Ancient Greek,116,Ancient Greek,116,"to beat, to hit",to wound,τύπτω,τύπτω
+17531,shift6414,Polysemy,2,NEW,→,"board, plank",3638,table (of data),2105,Ancient Greek,116,Ancient Greek,116,"board, plank","board or tablet on which astronomical tables were drawn; table of accounts, register",πίναξ,πίναξ
+17544,shift1641,Polysemy,8,ACCEPTED,?,to throw,3296,to shoot,3149,Modern Greek,239,Modern Greek,239,to throw,to shoot,βάλλω,βάλλω
+17571,shift0113,Polysemy,13,ACCEPTED,→,to throw,3296,to leave,2838,Ancient Greek,116,Ancient Greek,116,"to throw, to cast",to leave,ῥίπτω,ῥίπτω
+17695,shift2837,Polysemy,2,ACCEPTED,→,iron,1806,iron (for pressing clothes),1807,Modern Greek,239,Modern Greek,239,iron,iron,σίδερο,σίδερο
+17732,shift8049,Polysemy,2,ACCEPTED,→,backside,3491,buttock,3737,Modern Greek,239,Modern Greek,239,"backside, back, behind, rear end",buttocks,πισινός,πισινός
+17873,shift5457,Polysemy,2,NEW,→,prophet,479,mantis,582,Ancient Greek,116,Ancient Greek,116,seer or prophet,mantis,μάντις,μάντις
+17987,shift1511,Derivation,4,ACCEPTED,?,to love,2874,friend,1380,Ancient Greek,116,Ancient Greek,116,to love,"friend, fellow",φιλέω,φίλος
+18002,shift0739,Polysemy,4,ACCEPTED,→,to lead,2834,"to govern, control, rule",2716,Ancient Greek,116,Ancient Greek,116,"to lead, to conduct","to command, to rule, to lead",ἄγω,ἄγω
+18059,shift8251,Derivation,1,ACCEPTED,→,bed,3549,sexual partner,4004,Ancient Greek,116,Ancient Greek,116,bed,"bedfellow, wife",εὐνή,εὖνῐς
+18060,shift8251,Derivation,2,ACCEPTED,→,bed,3549,sexual partner,4004,Ancient Greek,116,Ancient Greek,116,bed,"female bedfellow, wife",κοίτη,ἄκοιτις
+18061,shift8251,Polysemy,3,ACCEPTED,→,bed,3549,sexual partner,4004,Ancient Greek,116,Ancient Greek,116,bed,spouse,λέχος,λέχος
+18171,shift2045,Polysemy,2,ACCEPTED,→,messenger,642,angel,1994,Ancient Greek,116,Ancient Greek,116,ambassador,angel,ἄγγελος,ἄγγελος
+18319,shift7111,Polysemy,4,ACCEPTED,→,middle,652,means,617,Modern Greek,239,Modern Greek,239,middle,means,μέσο,μέσο
+18625,shift0137,Polysemy,9,ACCEPTED,—,to suffer,3244,to endure,2578,Modern Greek,239,Modern Greek,239,to suffer,to endure,υποφέρω,υποφέρω
+18628,shift0186,Polysemy,1,ACCEPTED,—,neck,1837,back of the head,3487,Ancient Greek,116,Ancient Greek,116,neck,back of the head,αὐχήν,αὐχήν
+18651,shift0073,Polysemy,7,ACCEPTED,→,sweet (taste),4358,fresh (of water),1377,Ancient Greek,116,Ancient Greek,116,sweet,"fresh, insipid",γλυκύς,γλυκύς
+18668,shift6911,Derivation,7,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea fowl,859,Ancient Greek,116,Ancient Greek,116,"Garamantes, an ancient Saharan people settled in Libya",guinea fowl,Γαράμαντες,γαράμας
+18671,shift6911,Derivation,10,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea fowl,859,Modern Greek,239,Modern Greek,239,"Frank, a foreign European",guinea fowl,Φράγκος,φραγκόκοτα
+18701,shift3619,Polysemy,3,ACCEPTED,—,strong,4304,healthy,1585,Ancient Greek,116,Ancient Greek,116,strong,healthy,σφοδρός,σφοδρός
+18715,shift2464,Polysemy,3,ACCEPTED,—,tree,3432,club (a weapon),1013,Ancient Greek,116,Ancient Greek,116,tree,club,ξύλον,ξύλον
+18723,shift0391,Polysemy,3,ACCEPTED,—,good,814,"kind, good-hearted",1711,Ancient Greek,116,Ancient Greek,116,"usefull, good of its kind","good, kindly (of a men)",χρηστός,χρηστός
+18770,shift2714,Polysemy,2,ACCEPTED,—,liver,236,location of emotions,239,Ancient Greek,116,Ancient Greek,116,liver,"the seat of passions, anger, fear etc.",ἧπαρ,ἧπαρ
+18874,shift0646,Polysemy,7,ACCEPTED,—,to play (intr.),2981,dance (n.),4377,Ancient Greek,116,Ancient Greek,116,to play,to dance,παίζω,παίζω
+18938,shift3726,Polysemy,1,ACCEPTED,—,"to raise, lift (tr.)",3037,to move away,2927,Ancient Greek,116,Ancient Greek,116,"to raise, lift (tr.)",to move away,ἀναιρέω,ἀναιρέω
+18983,shift0831,Polysemy,1,ACCEPTED,→,&lt;weapon&gt;,1,war,9,Ancient Greek,116,Ancient Greek,116,shield,battle,ἀσπίς,ἀσπίς
+18986,shift0831,Polysemy,4,ACCEPTED,→,&lt;weapon&gt;,1,war,9,Ancient Greek,116,Ancient Greek,116,spear,"fight, battle, war",δόρυ,δόρυ
+19165,shift0346,Polysemy,12,ACCEPTED,—,dream (during sleep),4479,daydream (n.),4393,Modern Greek,239,Modern Greek,239,dream,daydream,όνειρο,όνειρο
+19208,shift2053,Polysemy,4,ACCEPTED,→,"to light, to kindle (the fire)",2851,to provoke,3014,Ancient Greek,116,Ancient Greek,116,kindling,inciting,ὑπόθυψις,ὑπόθυψις
+19222,shift1077,Polysemy,3,ACCEPTED,→,greasy,838,fat (adj.)(of a person),1239,Ancient Greek,116,Ancient Greek,116,fat,fat,πῖαρ,πίων
+19229,shift1077,Polysemy,10,ACCEPTED,→,greasy,838,fat (adj.)(of a person),1239,Ancient Greek,116,Ancient Greek,116,fat,"plump, fat",λῐπᾰρός,λῐπᾰρός
+19230,shift1077,Polysemy,11,ACCEPTED,→,greasy,838,fat (adj.)(of a person),1239,Ancient Greek,116,Ancient Greek,116,"fat, oily",corpulent,πῑμελώδης,πῑμελώδης
+19259,shift0933,Polysemy,16,ACCEPTED,—,man (male),574,husband,1694,Ancient Greek,116,Ancient Greek,116,man,husband,φώς,φώς
+19445,shift5565,Polysemy,7,ACCEPTED,→,"wild, untamed",82,violent,3769,Ancient Greek,116,Ancient Greek,116,to be or become wild,"to be angered, be provoked",ἀγριαίνω,ἀγριαίνω
+19446,shift5565,Polysemy,8,ACCEPTED,→,"wild, untamed",82,violent,3769,Ancient Greek,116,Ancient Greek,116,"full of wild beasts, haunted, infested by them","metaph., wild, rough",ἔνθηρος,ἔνθηρος
+19450,shift5565,Polysemy,12,ACCEPTED,→,"wild, untamed",82,violent,3769,Modern Greek,239,Modern Greek,239,"(of animals) undomesticated, untamed, feral, wild","primitive, uncivilized; characterized by hardness and habit; (exp.) with the savage, with cruelty or with aggression; which we can hardly control or subdue; characterized by high intensity (usually unpleasant)",άγριος,άγριος
+19481,shift7989,Polysemy,2,NEW,→,fin,1281,auricle,2060,Modern Greek,239,Modern Greek,239,"fin, flipper (of fish)",auricle,πτερύγιο,πτερύγιο
+19486,shift3074,Polysemy,1,ACCEPTED,→,bowel,3663,string (of a musical instrument),4303,Ancient Greek,116,Ancient Greek,116,intestine,string,χορδή,χορδή
+19497,shift0693,Polysemy,5,ACCEPTED,→,"to strike, hit",3234,to break (tr.),2370,Ancient Greek,116,Ancient Greek,116,"to beat, to hit","to break, to crush",κόπτω,κόπτω
+19534,shift1326,Polysemy,2,ACCEPTED,—,to hide (tr.),2764,to bury,2388,Ancient Greek,116,Ancient Greek,116,"to hide, to conceal, to shelter",to bury,κρύπτω,κρύπτω
+19596,shift7515,Derivation,1,NEW,→,to cut,2484,comma,1045,Modern Greek,239,Modern Greek,239,to cut,comma,κόπτω,κόμμα
+19714,shift2679,Polysemy,13,ACCEPTED,→,&lt;animal&gt;,1916,fool,1336,Ancient Greek,116,Ancient Greek,116,thunderbird,"fool, dupe",κέπφος,κέπφος
+19801,shift0968,Polysemy,15,ACCEPTED,→,bad,3493,evil (adj.),3874,Ancient Greek,116,Ancient Greek,116,bad,"wicked, malicious, hostile",κᾰκός,κᾰκός
+19828,shift3384,Polysemy,1,NEW,→,cold,1032,"fearful, dreadful",1247,Ancient Greek,116,Ancient Greek,116,cold,fearful,κρυερός,κρυερός
+19941,shift2657,Derivation,2,NEW,→,to hew,2763,to lose consciousness,2868,Ancient Greek,116,Ancient Greek,116,to split,to faint,συγκόπτω,σύγκοπος
+20076,shift3374,Polysemy,1,NEW,→,soft (adj.),4151,lenient,191,Ancient Greek,116,Ancient Greek,116,soft,complacent,μᾰλᾰκός,μᾰλᾰκός
+20164,shift0515,Polysemy,3,ACCEPTED,→,head,1578,peak of mountain,326,Ancient Greek,116,Ancient Greek,116,head,mountain top,"*κράς (gen. κρᾱτός, κράᾰτος)","*κράς (gen. κρᾱτός, κράᾰτος)"
+20177,shift0515,Polysemy,16,ACCEPTED,→,head,1578,peak of mountain,326,Ancient Greek,116,Ancient Greek,116,head,"top, peak",κάρᾱ,κάρᾱ
+20256,shift1496,Polysemy,7,ACCEPTED,→,"bowels, intestine",3664,sausage,3947,Ancient Greek,116,Ancient Greek,116,guts or bowels of oxen,sausages,χόλιξ,χόλιξ
+20292,shift6598,Polysemy,4,ACCEPTED,→,limit,217,definition,4409,Ancient Greek,116,Ancient Greek,116,"boundary, limit, frontier, landmark","term, definition",ὅρος,ὅρος
+20334,shift6080,Polysemy,1,NEW,→,lotus,258,persimmon,355,Modern Greek,239,Modern Greek,239,lotus,persimmon,λωτός,λωτός
+20405,shift5029,Derivation,20,NEW,→,father,1242,motherland,724,Ancient Greek,116,Ancient Greek,116,father,"place of one's father/ancestors: fatherland, hometown, native city, native country",πατήρ,πατρίς
+20406,shift5029,Internal cognates,21,NEW,→,father,1242,motherland,724,Modern Greek,239,Modern Greek,239,father,"homeland, country of birth",πατέρας,πατρίδα
+20571,shift0602,Polysemy,10,ACCEPTED,—,firewood,1294,"wood, timber",114,Ancient Greek,116,Ancient Greek,116,wood,timber,ὕλη,ὕλη
+20582,shift3159,Polysemy,1,ACCEPTED,→,"to bend, bow (intr.)",2340,to obey,2943,Ancient Greek,116,Ancient Greek,116,"to stoop under a yoke, bow down, bow low",to obey,ὑποκύπτω,ὑποκύπτω
+20592,shift0109,Polysemy,3,ACCEPTED,—,time,2200,opportunity,4554,Ancient Greek,116,Ancient Greek,116,"time (in general), high time",opportunity,καιρός,καιρός
+20598,shift2705,Polysemy,2,NEW,→,"to mix, stir",2920,dough,4470,Ancient Greek,116,Ancient Greek,116,"to mix, to knead, to pommel",dough,φυράω,φύραμα
+20608,shift0337,Polysemy,3,ACCEPTED,→,"to strike, hit",3234,to astonish,2241,Ancient Greek,116,Ancient Greek,116,"to beat, to hit, to wound",to strike deeply,τύπτω,τύπτω
+20644,shift2408,Derivation,2,ACCEPTED,→,goat,803,oat,4512,Ancient Greek,116,Ancient Greek,116,she goat,a kind of wild oats,αἴξ,αἴγῐλος
+20677,shift1861,Polysemy,3,ACCEPTED,→,heavy (of weight),1594,"bass, low-pitched voice",3526,Ancient Greek,116,Ancient Greek,116,heavy,"low pitched (sound, voice)",βᾰρύς,βᾰρύς
+20726,shift1238,Polysemy,1,ACCEPTED,→,sharp,4022,unpleasant,534,Ancient Greek,116,Ancient Greek,116,"sharp, sharp pointed","onerous, unpleasant",πικρός,πικρός
+20753,shift0034,Polysemy,21,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Ancient Greek,116,Ancient Greek,116,to listen,to obey,ἀκούω,ἀκούω
+20776,shift0034,Polysemy,44,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Ancient Greek,116,Ancient Greek,116,"to perceive by the ear, to hear",to obey,ἀΐω,ἀΐω
+20777,shift0034,Polysemy,45,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Ancient Greek,116,Ancient Greek,116,"to hearken, to listen to","to attend to, to obey",ἀκροάομαι,ἀκροάομαι
+20778,shift0034,Polysemy,46,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Ancient Greek,116,Ancient Greek,116,"to hear, to give ear to, to attend to",to obey,κλύω,κλύω
+20868,shift0034,Derivation,136,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Modern Greek,239,Modern Greek,239,to hear / to listen,to obey,ακούω,υπακούω
+21040,shift3338,Polysemy,1,NEW,→,sharp,4022,sad,3912,Ancient Greek,116,Ancient Greek,116,"sharp, sharp pointed","deplorable, grievous",πικρός,πικρός
+21101,shift2062,Polysemy,1,ACCEPTED,—,end,3837,"aim, goal",1960,Ancient Greek,116,Ancient Greek,116,"end, limit","aim, objective",τέκμᾰρ,τέκμᾰρ
+21102,shift2062,Polysemy,2,ACCEPTED,—,end,3837,"aim, goal",1960,Ancient Greek,116,Ancient Greek,116,end,"aim, objective",τέλος,τέλος
+21120,shift1057,Polysemy,2,ACCEPTED,→,"box, container",3665,coffin,1030,Ancient Greek,116,Ancient Greek,116,"box, chest",coffin,λάρναξ,λάρναξ
+21158,shift8191,Polysemy,3,ACCEPTED,→,"to calculate, count",2393,to intend,2798,Modern Greek,239,Modern Greek,239,"calculation,","estimate,  intention",υπολογισμός,υπολογισμός
+21178,shift2467,Polysemy,2,ACCEPTED,→,&lt;tree&gt;,2104,spear,4191,Ancient Greek,116,Ancient Greek,116,beech,shaft,ὀξύη,ὀξύη
+21181,shift2467,Polysemy,5,ACCEPTED,→,&lt;tree&gt;,2104,spear,4191,Ancient Greek,116,Ancient Greek,116,cornel,spear made of cornelian cherry,κράνεια,κράνεια
+21183,shift2467,Polysemy,7,NEW,→,&lt;tree&gt;,2104,spear,4191,Ancient Greek,116,Ancient Greek,116,manna ash (Fraxinus ornus),ashen spear,μελία,μελία
+21189,shift3355,Polysemy,1,NEW,→,head,1578,face,1214,Ancient Greek,116,Ancient Greek,116,head,top,κάρηνον,κάρηνον
+21190,shift3355,Polysemy,2,NEW,→,head,1578,face,1214,Ancient Greek,116,Ancient Greek,116,head,face,κάρᾱ,κάρᾱ
+21219,shift6495,Polysemy,5,ACCEPTED,→,lame,149,bad,3493,Ancient Greek,116,Ancient Greek,116,lame person,"(figuratively) maimed, imperfect, defective",χωλός,χωλός
+21232,shift3138,Polysemy,1,NEW,—,thick,2167,"hard, solid",1558,Ancient Greek,116,Ancient Greek,116,толстый (о ткани),"крепкий, твердый (нпр., о кости)",πυκνός,πυκνός
+21233,shift0949,Polysemy,1,NEW,?,to bite,2347,to grieve (tr.),2721,Ancient Greek,116,Ancient Greek,116,"to bite, to gnarl, to jab, to sting","to torment, to worry, to annoy",δάκνω,δάκνω
+21242,shift3349,Polysemy,1,NEW,→,morning,712,day,4391,Ancient Greek,116,Ancient Greek,116,"dawn, sunrise",day,ἕως,ἕως
+21303,shift5183,Derivation,1,ACCEPTED,→,sickle,4070,swift (bird),4366,Ancient Greek,116,Ancient Greek,116,sickle,Alpine swift,δρεπάνη,δρεπανίς
+21363,shift1088,Polysemy,2,ACCEPTED,—,bride,3687,daughter-in-law,4389,Ancient Greek,116,Ancient Greek,116,bride,daughter in law (New Testament),νυμφή,νυμφή
+21365,shift1088,Polysemy,4,ACCEPTED,—,bride,3687,daughter-in-law,4389,Ancient Greek,116,Ancient Greek,116,bride,daughter in law,νυός,νυός
+21455,shift0058,Polysemy,2,ACCEPTED,—,right (vs. left),1481,competent,1069,Ancient Greek,116,Ancient Greek,116,right,"clever, practic; efficient,",δεξιός,δεξιός
+21456,shift1116,Polysemy,1,ACCEPTED,—,to bark,2250,to quarrel,3035,Modern Greek,239,Modern Greek,239,to bark,"to swear, to curse",βαβίζω,βαβίζω
+21466,shift1116,Polysemy,11,ACCEPTED,?,to bark,2250,to quarrel,3035,Ancient Greek,116,Ancient Greek,116,to bark,to grudge,βαΰζω,βαΰζω
+21472,shift1116,Polysemy,17,ACCEPTED,→,to bark,2250,to quarrel,3035,Modern Greek,239,Modern Greek,239,to bark,"to swear, to curse",γαυγίζω,γαυγίζω
+21474,shift1116,Polysemy,19,ACCEPTED,→,to bark,2250,to quarrel,3035,Ancient Greek,116,Ancient Greek,116,to bark,to assault,ὑλακτέω,ὑλακτέω
+21489,shift1390,Polysemy,6,ACCEPTED,?,to boil (intr.),2361,"to ferment, yeast",2623,Modern Greek,239,Modern Greek,239,to boil,to ferment (wine),βράζω,βράζω
+21492,shift1390,Polysemy,9,ACCEPTED,?,to boil (intr.),2361,"to ferment, yeast",2623,Ancient Greek,116,Ancient Greek,116,"boil, seethe, of water",ferment,ζέω,ζέω
+21578,shift0913,Polysemy,3,ACCEPTED,?,to make scratches,2896,"to draw, paint",2551,Ancient Greek,116,Ancient Greek,116,"to scratch, to draw","to write, to draw",γράφω,γράφω
+21595,shift1102,Polysemy,9,ACCEPTED,→,soft (adj.),4151,tender (adj.),2146,Ancient Greek,116,Ancient Greek,116,soft,"tender, kind, friendly; meek, quiet",μᾰλᾰκός,μᾰλᾰκός
+21627,shift3334,Polysemy,1,NEW,→,cold,1032,"vain, in vain",3746,Ancient Greek,116,Ancient Greek,116,cold,"imaginary, groundless",ψυχρός,ψυχρός
+21669,shift0638,Polysemy,9,ACCEPTED,—,empty,3835,"vain, in vain",3746,Ancient Greek,116,Ancient Greek,116,empty,vain,κενός,κενός
+21686,shift6027,Polysemy,1,NEW,→,to lead,2834,to have opinion,2752,Ancient Greek,116,Ancient Greek,116,to lead,to have opinion,ἡγέομαι,ἡγέομαι
+21711,shift0482,Polysemy,14,ACCEPTED,→,mouth,735,"opening, hole",4551,Ancient Greek,116,Ancient Greek,116,mouth,"hole, opening, slit",στόμα,στόμα
+21801,shift0695,Polysemy,2,ACCEPTED,→,"to strike, hit",3234,"to defeat, win",2501,Ancient Greek,116,Ancient Greek,116,"to beat, to hit",to defeat,πλήσσω,πλήσσω
+21826,shift3392,Polysemy,2,ACCEPTED,→,mouth,735,"precipice, abyss",453,Ancient Greek,116,Ancient Greek,116,mouth,abyss,στόμα,στόμα
+21849,shift1460,Polysemy,5,ACCEPTED,→,to lie (posture),2848,to be situated,2299,Ancient Greek,116,Ancient Greek,116,to lie,to be somewhere,κεῖμαι,κεῖμαι
+21910,shift7904,Polysemy,5,NEW,→,"textile, cloth",2162,sail (n.),3920,Modern Greek,239,Modern Greek,239,"cloth, fabric",(nautical) sail (n.),πανί,πανί
+21911,shift3376,Polysemy,1,NEW,→,big,3588,strong,4304,Ancient Greek,116,Ancient Greek,116,"big, large","strong, mighty",μέγας,μέγας
+21952,shift3337,Polysemy,1,NEW,→,greasy,838,cream (of milk),1132,Ancient Greek,116,Ancient Greek,116,fat,cream,πῖαρ,πῖαρ
+21959,shift0420,Polysemy,1,NEW,—,quick,1908,unexpected,518,Ancient Greek,116,Ancient Greek,116,"quick, fast",sudden,τᾰχύς,τᾰχύς
+22020,shift1913,Polysemy,3,ACCEPTED,→,armpit,2029,gulf,861,Ancient Greek,116,Ancient Greek,116,armpit,bay,μασχάλη,μασχάλη
+22066,shift1692,Polysemy,11,ACCEPTED,→,to fall down,2605,"to fall (of rain, snow)",2603,Modern Greek,239,Modern Greek,239,to fall down,"to fall (of rain, snow)",πέφτω,πέφτω
+22147,shift1683,Derivation,1,ACCEPTED,?,monarch,696,goldcrest,808,Modern Greek,239,Modern Greek,239,"king, zar",kinglet,βασιλιάς,βασιλάκης
+22151,shift1683,Polysemy,5,ACCEPTED,→,monarch,696,goldcrest,808,Ancient Greek,116,Ancient Greek,116,"sovereign, lord",kinglet (Aristotle),τύραννος,τύραννος
+22180,shift1829,Polysemy,2,ACCEPTED,→,wing,92,side (n.),4071,Ancient Greek,116,Ancient Greek,116,wing,side,πτερόν,πτερόν
+22253,shift3365,Polysemy,1,NEW,→,spear,4191,sword,4369,Ancient Greek,116,Ancient Greek,116,spear,sword,ἔγχος,ἔγχος
+22278,shift1198,Polysemy,2,ACCEPTED,?,"to water, to give water",3360,to water (plants),3359,Ancient Greek,116,Ancient Greek,116,"to give to drink, to water","to moisten, to irrigate",ἄρδω,ἄρδω
+22324,shift1853,Derivation,7,ACCEPTED,→,to breathe,2373,to rest,3076,Ancient Greek,116,Ancient Greek,116,"to blow, to breathe","to give rest, refreshment",ψύχω,ἀναψύχω
+22432,shift1087,Polysemy,9,ACCEPTED,→,"to untie, unbind",3338,to solve (a problem),3188,Ancient Greek,116,Ancient Greek,116,untie,to solve (paradox),λύω,λύω
+22465,shift0056,Polysemy,1,ACCEPTED,—,to sting,3224,spicy,4198,Ancient Greek,116,Ancient Greek,116,"biting, stinging",acrid,δηκτικός,δηκτικός
+22487,shift1337,Polysemy,4,ACCEPTED,→,attack (n.),2050,attack of disease,2051,Ancient Greek,116,Ancient Greek,116,NA,NA,λῆψις,λῆψις
+22596,shift1682,Derivation,2,ACCEPTED,?,monarch,696,european kingfisher (Alcedo atthis),3868,Modern Greek,239,Modern Greek,239,king,kingfisher,βασιλιάς,βασιλοπούλι
+22601,shift0993,Polysemy,2,ACCEPTED,?,to know,2826,to understand,3331,Ancient Greek,116,Ancient Greek,116,to know,to understand,γιγνώσκω,γιγνώσκω
+22617,shift3341,Polysemy,1,NEW,→,omen,4539,monster (abnormal creature),704,Ancient Greek,116,Ancient Greek,116,a miraculous sign,monster,τέρᾰς,τέρᾰς
+22705,shift3335,Polysemy,1,NEW,→,hand/arm,1550,group of men,851,Ancient Greek,116,Ancient Greek,116,hand,"handful (of people), group, detachment",χείρ,χείρ
+22807,shift0856,Polysemy,22,ACCEPTED,→,moon,708,month,706,Ancient Greek,116,Ancient Greek,116,moon,moon (poet.),σελήνη,σελήνη
+22814,shift0856,Polysemy,29,ACCEPTED,→,moon,708,month,706,Modern Greek,239,Modern Greek,239,moon,lunar month (about 28 days),φεγγάρι,φεγγάρι
+22995,shift0856,Derivation,210,NEW,—,moon,708,month,706,Ancient Greek,116,Ancient Greek,116,moon,month,μήνη,μήν
+23336,shift4372,Polysemy,1,ACCEPTED,→,iron,1806,anchor,1991,Modern Greek,239,Modern Greek,239,"iron, iron bar",anchor,σίδερο,σίδερο
+23433,shift5491,Derivation,5,ACCEPTED,→,red,1444,common redstart,1059,Modern Greek,239,Modern Greek,239,red,common redstart,κόκκινος,κοκκινούρης
+23458,shift8538,Polysemy,2,NEW,→,heart,1588,to desire,2511,Ancient Greek,116,Ancient Greek,116,heart,"intention, desire",καρδία,καρδία
+23464,shift0296,Polysemy,5,ACCEPTED,→,forehead,1347,front part,1389,Modern Greek,239,Modern Greek,239,forehead,front part,μέτωπο(ν),μέτωπο(ν)
+23519,shift0901,Polysemy,4,ACCEPTED,?,light (of weight),211,simple,4082,Ancient Greek,116,Ancient Greek,116,light (weight),easy,ἐλαφρός,ἐλαφρός
+23565,shift8178,Polysemy,2,ACCEPTED,→,&lt;fruit&gt;,1211,glans penis,790,Ancient Greek,116,Ancient Greek,116,acorn; date,glans penis,βάλανος,βάλανος
+23603,shift8073,Derivation,7,ACCEPTED,→,to burn (intr.),2384,fuel,1395,Modern Greek,239,Modern Greek,239,"to burn (intr., tr.)",fuel,καίω,καύσιμο
+23626,shift1171,Polysemy,15,ACCEPTED,→,heart,1588,location of emotions,239,Ancient Greek,116,Ancient Greek,116,heart,heart (the seat of emotion and will),καρδία,καρδία
+23668,shift1171,Polysemy,57,NEW,→,heart,1588,location of emotions,239,Modern Greek,239,Modern Greek,239,heart,location of emotions,καρδιά,καρδιά
+23796,shift7104,Polysemy,1,NEW,→,"board, plank",3638,picture,367,Ancient Greek,116,Ancient Greek,116,"board, plank","board for painting on, picture",πίναξ,πίναξ
+23860,shift6145,Derivation,4,ACCEPTED,→,shadow,4010,umbrella,504,Ancient Greek,116,Ancient Greek,116,shadow,"sunshade, parasol",σκιά,σκιάδειον
+23906,shift1986,Polysemy,5,ACCEPTED,→,greasy,838,fertile (soil),1263,Ancient Greek,116,Ancient Greek,116,fat,fertility (field),πῖαρ,πῖαρ
+23952,shift4686,Derivation,6,ACCEPTED,→,blind,3624,caecum (blind gut),871,Ancient Greek,116,Ancient Greek,116,blind,caecum (blind gut),τυφλός,τῠφλὸν ἔντερον
+23986,shift2152,Motivation,9,NEW,→,tail,2113,"horsetail, equisetum",1669,Ancient Greek,116,Ancient Greek,116,tail,"horsetail, equisetum",οὐρά,ἵππουρις
+24021,shift0849,Polysemy,6,ACCEPTED,—,heavy (of weight),1594,important,1746,Ancient Greek,116,Ancient Greek,116,"heaviness, weight","weight, significance, merit",βάρος,βάρος
+24042,shift3989,Polysemy,4,ACCEPTED,—,"steam, vapour",4251,smell (n.),4128,Modern Greek,239,Modern Greek,239,steam,smell,αναδοσιά,αναδοσιά
+24062,shift2203,Polysemy,2,NEW,→,camp,880,army,2030,Byzantine Greek,107,Byzantine Greek,107,camp,army,φοσσᾶτον,φοσσᾶτον
+24071,shift3287,Polysemy,2,ACCEPTED,→,yoke,2085,yoke (figuratively),2086,Ancient Greek,116,Ancient Greek,116,yoke,"yoke, burden (fig.)",ζῠγόν,ζῠγόν
+24118,shift1800,Polysemy,3,ACCEPTED,→,tail,2113,penis,343,Ancient Greek,116,Ancient Greek,116,tail,membrum virile,κέρκος,κέρκος
+24168,shift0971,Polysemy,7,ACCEPTED,→,tail,2113,queue,1907,Modern Greek,239,Modern Greek,239,tail,queue,οὐρά,οὐρά
+24218,shift0715,Polysemy,10,ACCEPTED,→,big,3588,elder,3819,Ancient Greek,116,Ancient Greek,116,"big, large",adult,μέγας,μέγας
+24334,shift6125,Derivation,2,ACCEPTED,→,fifth,1275,Thursday,2191,Modern Greek,239,Modern Greek,239,fifth,Thursday,πέμπτος,Πέμπτη
+24355,shift3503,Polysemy,5,ACCEPTED,→,to see/to look at,3121,to visit,3345,Ancient Greek,116,Ancient Greek,116,to look,to visit,ἐπισκοπέω,ἐπισκοπέω
+24475,shift4312,Polysemy,2,ACCEPTED,→,&lt;vessel&gt;,3742,volcanic crater,3779,Ancient Greek,116,Ancient Greek,116,"mixing vessel, esp. bowl, in which wine was mixed with water","mouth of a volcano, crater (Arist. Mu.400a33 (pl.), Plb.34.11.12 (pl.), Luc.Trag.23)",κρατήρ,κρατήρ
+24486,shift2219,Polysemy,2,NEW,→,dry,4491,"severe, harsh",4003,Ancient Greek,116,Ancient Greek,116,dry,(of persons) harsh,ξηρός,ξηρός
+24520,shift7343,Polysemy,1,ACCEPTED,→,to steer a vessel,3221,"to govern, control, rule",2716,Ancient Greek,116,Ancient Greek,116,"to steer, drive, pilot, to be a steersman","to guide, govern, direct",κυβερνάω,κυβερνάω
+24552,shift5051,Polysemy,25,ACCEPTED,→,grandfather,826,old man,4534,Modern Greek,239,Modern Greek,239,grandfather,old man,παππούς,παππούς
+24588,shift2366,Polysemy,2,ACCEPTED,—,fire,1286,inflammation,1773,Ancient Greek,116,Ancient Greek,116,fire,inflammation,φλέγμα,φλέγμα
+24620,shift0963,Polysemy,5,ACCEPTED,?,good,814,very,3761,Ancient Greek,116,Ancient Greek,116,good,"fully, completely, enough",εὖ,εὖ
+24702,shift0193,Polysemy,3,ACCEPTED,→,heel (of a foot),1596,"edge, border",3810,Ancient Greek,116,Ancient Greek,116,ankle,"end, edge, tip",σφῠρόν,σφῠρόν
+24776,shift5729,Polysemy,2,ACCEPTED,→,to emit smoke,2572,to smoke (meat or fish),3179,Modern Greek,239,Modern Greek,239,to smoke,to smoke (meat or fish),καπνίζω,καπνίζω
+24881,shift4331,Polysemy,5,ACCEPTED,→,mouse,733,computer mouse,1076,Modern Greek,239,Modern Greek,239,mouse,mouse (computer),ποντίκι,ποντίκι
+24952,shift6679,Derivation,9,ACCEPTED,→,sling (weapon),4115,slingshot,4116,Modern Greek,239,Modern Greek,239,sling (weapon),slingshot,σφενδόνη,σφεντόνα
+25019,shift1425,Polysemy,2,ACCEPTED,?,witness,103,martyr,600,Ancient Greek,116,Ancient Greek,116,witness,martyr,μάρτυς,μάρτυς
+25024,shift1069,Derivation,3,ACCEPTED,→,to see/to look at,3121,to know,2826,Ancient Greek,116,Ancient Greek,116,"to see, to look",to be informed,"εἶδον (aor. 2, 1sg)",οἶδα (pf. 1sg)
+25108,shift3133,Polysemy,1,ACCEPTED,→,to saw,3111,to bite,2347,Ancient Greek,116,Ancient Greek,116,to saw,to bite,πρίω,πρίω
+25112,shift2472,Derivation,4,ACCEPTED,→,to sit,3160,ambush,1986,Ancient Greek,116,Ancient Greek,116,seat,ambush,ἕδρα,ἐνέδρα
+25125,shift3080,Polysemy,12,ACCEPTED,→,&lt;animal&gt;,1916,cunning person,1157,Ancient Greek,116,Ancient Greek,116,"monkey, ape (Babrios)","flatterer, sycophant (Pindar)",πίθων,πίθων
+25144,shift1643,Polysemy,2,ACCEPTED,—,soul,4172,butterfly,3734,Ancient Greek,116,Ancient Greek,116,soul,moth,ψυχή,ψυχή
+25165,shift2256,Polysemy,8,ACCEPTED,—,navel,1833,centre,930,Ancient Greek,116,Ancient Greek,116,belly button,"center, focus",ὀμφαλός,ὀμφαλός
+25181,shift0956,Polysemy,5,ACCEPTED,?,to sink into,3159,"to set (of Moon, Sun)",3129,Ancient Greek,116,Ancient Greek,116,"to plunge, to go down","to go under (sun, stars, moon)",δύω,δύω
+25212,shift0009,Polysemy,6,ACCEPTED,—,"to search, look for",3120,"to try, to attempt",3318,Ancient Greek,116,Ancient Greek,116,"to seek, search after, look for","to strive for, desire, wish",ζητέω,ζητέω
+25214,shift0009,Polysemy,8,ACCEPTED,—,"to search, look for",3120,"to try, to attempt",3318,Modern Greek,239,Modern Greek,239,"to look for, to seek","to try, to make efforts",γυρεύω,γυρεύω
+25268,shift6124,Derivation,2,NEW,→,fourth,1359,Wednesday,39,Modern Greek,239,Modern Greek,239,fourth,Wednesday,τέταρτος,Τετάρτη
+25356,shift8090,Polysemy,8,ACCEPTED,→,to play (intr.),2981,"to play (theater, movie)",2982,Modern Greek,239,Modern Greek,239,to play (intr.),"to play (theater, movie)",παίζω,παίζω
+25437,shift5492,Derivation,7,ACCEPTED,→,tail,2113,common redstart,1059,Modern Greek,239,Modern Greek,239,tail,common redstart,ουρά,κοκκινούρης
+25460,shift3886,Polysemy,3,ACCEPTED,—,lot,257,plot of land,411,Ancient Greek,116,Ancient Greek,116,"lot, casting of lots, drawing of lots","that which is assigned by lot, allotment of land, generally, piece of land, farm, estate",κλῆρος,κλῆρος
+25506,shift0758,Polysemy,5,ACCEPTED,?,to fill (tr.),2626,to carry out,2402,Ancient Greek,116,Ancient Greek,116,to fill,to realize,ἐκ-πίμπλημι,ἐκ-πίμπλημι
+25511,shift0758,Polysemy,10,ACCEPTED,?,to fill (tr.),2626,to carry out,2402,Ancient Greek,116,Ancient Greek,116,to fill,"to fulfil, to realize",πληρόω,πληρόω
+25525,shift1684,Polysemy,1,NEW,?,wet,49,drunk,4488,Modern Greek,239,Modern Greek,239,damp,drunk,βρε(γ)μένος,βρε(γ)μένος
+25526,shift1684,Polysemy,2,NEW,—,wet,49,drunk,4488,Ancient Greek,116,Ancient Greek,116,wet,drunk,μεθύω,μεθύω
+25551,shift0962,Polysemy,1,NEW,?,other,4567,left,183,Ancient Greek,116,Ancient Greek,116,"other, different; one of the two","left (hand, horn)",ἕτερος,ἕτερος
+25581,shift1118,Polysemy,10,ACCEPTED,?,nail (body part),1816,claw,995,Ancient Greek,116,Ancient Greek,116,nail,claw,ὄνυξ,ὄνυξ
+25703,shift7773,Semantic evolution,1,ACCEPTED,→,breakfast,3679,"lunch, midday meal",271,Ancient Greek,116,Ancient Greek,116,"breakfast, morning meal (early usage, i.e. Homeric)","lunch, midday meal (later usage, replaced with ἀκράτισμα as word for breakfast)",ἄριστον,ἄριστον
+25714,shift0766,Polysemy,5,ACCEPTED,?,"brilliant, glaring",3692,white,62,Ancient Greek,116,Ancient Greek,116,"shining, glistening",white,λευκός,λευκός
+25734,shift1043,Polysemy,7,ACCEPTED,→,to drag,2548,to steal,3220,Ancient Greek,116,Ancient Greek,116,"draw, drag, with collat.notion of force or exertion",to steal,ἕλκω,ἕλκω
+25774,shift2866,Polysemy,1,ACCEPTED,→,left,183,bad luck,3495,Ancient Greek,116,Ancient Greek,116,left,"unlucky, ill-omened, mischievous",σκαιός,σκαιός
+25778,shift1141,Polysemy,1,ACCEPTED,?,nettle (Urtica),1849,"medusa, jellyfish",625,Ancient Greek,116,Ancient Greek,116,nettle,jelly fish (species),ἀκαλήφη,ἀκαλήφη
+25780,shift1141,Polysemy,3,ACCEPTED,→,nettle (Urtica),1849,"medusa, jellyfish",625,Ancient Greek,116,Ancient Greek,116,nettle,"""sea nettle"" (a specie of jelly fish with prey capturing thread)",κνίδη,κνίδη
+25807,shift6796,Polysemy,3,ACCEPTED,→,eye,3890,eye (of potato),3891,Modern Greek,239,Modern Greek,239,eye,eye (of potato),μάτι,μάτι
+25818,shift5612,Polysemy,6,ACCEPTED,→,red,1444,socialist or communist,4148,Modern Greek,239,Modern Greek,239,red,communist,κόκκινος,κόκκινος
+25842,shift0855,Polysemy,11,ACCEPTED,—,to feed,2611,to bring up (children),2381,Ancient Greek,116,Ancient Greek,116,to feed,to bring up,τρέφω,τρέφω
+25911,shift0468,Polysemy,6,NEW,→,eye,3890,eye of typhoon,3893,Modern Greek,239,Modern Greek,239,eye,eye of typhoon,μάτι,μάτι
+25931,shift1190,Derivation,1,NEW,?,goat,803,&lt;clothes&gt;,864,Ancient Greek,116,Ancient Greek,116,she goat,goat skin cloak,αἶξ,αἰγίς
+25954,shift3282,Polysemy,8,ACCEPTED,→,measure of weight,620,&lt;money&gt;,559,Ancient Greek,116,Ancient Greek,116,NA,NA,μνᾶ,μνᾶ
+25957,shift3282,Polysemy,11,ACCEPTED,—,measure of weight,620,&lt;money&gt;,559,Ancient Greek,116,Ancient Greek,116,weight unit,currency unit,τάλαντον,τάλαντον
+25959,shift3282,Polysemy,13,ACCEPTED,→,measure of weight,620,&lt;money&gt;,559,Ancient Greek,116,Ancient Greek,116,weight unit = 4.366 г,coin = 6 obols,δραχμή,δραχμή
+25963,shift4416,Polysemy,2,ACCEPTED,→,"grain, seed",823,testicle,2161,Ancient Greek,116,Ancient Greek,116,"grain, seed, as of the pomegranate","in pl., testicles",κόκκος,κόκκος
+25996,shift5000,Polysemy,1,ACCEPTED,—,sword,4369,reed (in loom),1448,Ancient Greek,116,Ancient Greek,116,broad blade of a sword,"flat wooden blade used by weavers in the upright loom (instead of the comb (κτείς) used in the horizontal), for striking the threads of the woof home, so as to make the web close",σπάθη,σπάθη
+26032,shift7995,Polysemy,1,NEW,→,fin,1281,blade,3620,Modern Greek,239,Modern Greek,239,"fin, flipper (of fish)",blade of a propeller,πτερύγιο,πτερύγιο
+26042,shift4391,Polysemy,1,ACCEPTED,→,crane (Grus),1129,lifting machine,208,Ancient Greek,116,Ancient Greek,116,"crane, Grus cinerea","crane for lifting weights, esp. used in the theatre",γέρανος,γέρανος
+26048,shift4391,Polysemy,7,ACCEPTED,→,crane (Grus),1129,lifting machine,208,Modern Greek,239,Modern Greek,239,crane (Grus),large lifting machine,γερανός,γερανός
+26152,shift7273,Polysemy,2,NEW,→,"watch, clock",15,meter (device),648,Modern Greek,239,Modern Greek,239,"watch, clock",meter (device),ρολόι,ρολόι
+26182,shift7042,Motivation,6,ACCEPTED,→,horse,1661,"horsetail, equisetum",1669,Ancient Greek,116,Ancient Greek,116,horse (Equus caballus),"horsetail, equisetum",ἵππος,ἵππουρις
+26220,shift1144,Polysemy,1,ACCEPTED,→,calm,877,dead (adj.),4394,Ancient Greek,116,Ancient Greek,116,"happy, blessed",to leave,μᾰκάριος,μᾰκάριος
+26267,shift2814,Polysemy,3,ACCEPTED,→,black cloud,3611,"many, much",584,Ancient Greek,116,Ancient Greek,116,cloud,abundance,νέφος,νέφος
+26268,shift3139,Polysemy,1,ACCEPTED,→,to throw,3296,to cast out,2405,Ancient Greek,116,Ancient Greek,116,"to throw, to cast",to cast out of house or land,ῥίπτω,ῥίπτω
+26274,shift2380,Polysemy,4,ACCEPTED,→,"lead, plumbum",173,bullet,3716,Modern Greek,239,Modern Greek,239,lead,lead bullet,μολύβι,μολύβι
+26409,shift3926,Polysemy,1,ACCEPTED,→,word,120,verb,3758,Ancient Greek,116,Ancient Greek,116,"that which is said or spoken, word, saying",verb,ῥῆμα,ῥῆμα
+26497,shift3078,Polysemy,1,ACCEPTED,→,grass,833,spring (season),4224,Ancient Greek,116,Ancient Greek,116,grass,"spring, summer (=year)",πόα,πόα
+26525,shift1975,Polysemy,2,ACCEPTED,→,to think,3293,"to care for, look after",2399,Ancient Greek,116,Ancient Greek,116,to think,to take care,φροντίζω,φροντίζω
+26643,shift5562,Derivation,2,ACCEPTED,→,gold,807,platinum,406,Modern Greek,239,Modern Greek,239,gold,platinum,χρυσός,λευκόχρυσος
+26697,shift0418,Polysemy,1,ACCEPTED,←,dark (adj.),4382,black cloud,3611,Ancient Greek,116,Ancient Greek,116,"gloom, darkness",cloud,νέφος,νέφος
+26753,shift8608,Polysemy,1,ACCEPTED,→,shadow,4010,&lt;headgear&gt;,1535,Ancient Greek,116,Ancient Greek,116,shadow,"a sort of broad-brimmed hat, like θολία",σκιά,σκιάδειον
+26772,shift8366,Polysemy,2,ACCEPTED,→,"lead, plumbum",173,(fishing) sinker,1205,Ancient Greek,116,Ancient Greek,116,"piece of lead, used as the sink of a fishing line, a sinker",(fishing) sinker,μόλυβδος,μολύβδαινα
+26827,shift1303,Polysemy,6,ACCEPTED,—,"to pull, to draw",3018,"to slow, linger",3175,Ancient Greek,116,Ancient Greek,116,"to draw, to drag",to linger,ἕλκω,ἕλκω
+26839,shift0887,Polysemy,2,ACCEPTED,→,sharp,4022,acute (of sound),1942,Ancient Greek,116,Ancient Greek,116,"sharp, sharp pointed","argute, screaming (cry)",πικρός,πικρός
+27015,shift2701,Polysemy,6,ACCEPTED,→,ram,1425,battering-ram,3532,Ancient Greek,116,Ancient Greek,116,ram,battering ram,κρῑός,κρῑός
+27029,shift1690,Polysemy,1,ACCEPTED,—,"to grasp, seize",2717,"to light, to kindle (the fire)",2851,Ancient Greek,116,Ancient Greek,116,to fasten to,"to kindle, set on fire, fasten fire to",ἅπτω,ἅπτω
+27111,shift1206,Polysemy,9,ACCEPTED,←,hand/arm,1550,"branch, twig",3672,Ancient Greek,116,Ancient Greek,116,fig. arm,branch (mostly broken),κλάδος,κλάδος
+27202,shift1629,Polysemy,3,ACCEPTED,—,long (size),246,"high (size), tall",1624,Ancient Greek,116,Ancient Greek,116,long,high,τᾰνᾰός,τᾰνᾰός
+27226,shift1632,Polysemy,1,ACCEPTED,→,to flow,2639,to run,3101,Ancient Greek,116,Ancient Greek,116,to flow,to rush,ῥέω,ῥέω
+27255,shift0522,Derivation,2,ACCEPTED,→,arm,2027,branch (of a river),3671,Modern Greek,239,Modern Greek,239,"arm, shoulder",armlet,βραχίονας,βραχίονας
+27292,shift0775,Polysemy,2,ACCEPTED,→,to cut,2484,to decide,2495,Ancient Greek,116,Ancient Greek,116,"to cut up, to cleave",to solve a problem,διαιρέω,διαιρέω
+27342,shift4478,Polysemy,3,ACCEPTED,→,spear,4191,sting (n.),4270,Ancient Greek,116,Ancient Greek,116,"missile, esp. arrow, dart",sting  of a scorpion; of the gad-fly,βέλος,βέλος
+27356,shift1010,Polysemy,10,ACCEPTED,→,vessel,3762,blood vessel,3631,Modern Greek,239,Modern Greek,239,"vessel, pot, urn, vase",blood vessel,αγγείο,αγγείο
+27368,shift5378,Polysemy,1,ACCEPTED,→,"sacred, holy",3909,sacrum (bone),3911,Ancient Greek,116,Ancient Greek,116,sacred,sacrum bone,ἱερός,ἱερὸν ὀστοῦν
+27379,shift5378,Polysemy,12,ACCEPTED,→,"sacred, holy",3909,sacrum (bone),3911,Modern Greek,239,Modern Greek,239,sacred,sacrum (bone),ιερός,ιερό οστό
+27431,shift5017,Polysemy,4,ACCEPTED,→,girl,786,wife,73,Ancient Greek,116,Ancient Greek,116,girl,"(rare) bride, Od.18.279; young wife, Il.6.247, E.Or.1438 (lyr.), Hdn.3.10.8",κόρη,κόρη
+27438,shift4157,Polysemy,1,ACCEPTED,—,to move away,2927,to kill,2820,Ancient Greek,116,Ancient Greek,116,to move away,to kill,αἴρω,αἴρω
+27439,shift4157,Polysemy,2,ACCEPTED,—,to move away,2927,to kill,2820,Ancient Greek,116,Ancient Greek,116,to move away,to kill,ἀναιρέω,ἀναιρέω
+27481,shift4375,Polysemy,11,ACCEPTED,→,to ask (for),2238,to pray,2996,Ancient Greek,116,Ancient Greek,116,"to beg, pray",to pray gods,λίσσομαι (λίτομαι),λίσσομαι (λίτομαι)
+27542,shift3356,Polysemy,1,ACCEPTED,→,to go down,2704,to stop doing smth.,3227,Ancient Greek,116,Ancient Greek,116,to descend,to stop,καταβαίνω,καταβαίνω
+27588,shift2547,Polysemy,2,ACCEPTED,→,fat (adj.)(of a person),1239,rich,1476,Ancient Greek,116,Ancient Greek,116,"fat, thick",rich,πίων,πίων
+27590,shift2547,Polysemy,4,ACCEPTED,→,fat (adj.)(of a person),1239,rich,1476,Ancient Greek,116,Ancient Greek,116,"corpulent, fat",rich,λῐπᾰρός,λῐπᾰρός
+27596,shift2734,Polysemy,1,ACCEPTED,→,busy,3728,"commerce, business",1046,Ancient Greek,116,Ancient Greek,116,"work, job, occupation",trade,ἀσχολία,ἀσχολία
+27617,shift2707,Polysemy,1,ACCEPTED,→,"table, desk",2107,meal (process),613,Ancient Greek,116,Ancient Greek,116,table,meal,τράπεζα,τράπεζα
+27708,shift1173,Polysemy,3,ACCEPTED,?,height (of a person),1599,age,1957,Ancient Greek,116,Ancient Greek,116,NA,NA,ἡλικία,ἡλικία
+27792,shift7728,Polysemy,4,ACCEPTED,—,grey,846,grey-haired,848,Ancient Greek,116,Ancient Greek,116,grey,grey (of human hair),πολιός,πολιός
+27813,shift7767,Derivation,5,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Ancient Greek,116,Ancient Greek,116,water,otter (Lutra lutra),ὕδωρ,ἔνυδρις
+27831,shift3385,Polysemy,1,NEW,→,circle,983,eye,3890,Ancient Greek,116,Ancient Greek,116,circle,"(in plural κύκλοι, rarely in sg.) eye-balls, eyes",κύκλος,κύκλος
+27844,shift0757,Polysemy,1,ACCEPTED,→,to lose one&#39;s way,2872,"to make a mistake, be wrong",2879,Ancient Greek,116,Ancient Greek,116,wandering,fallacy,πλάνη,πλάνη
+27867,shift4179,Polysemy,8,ACCEPTED,←,"to strike, hit",3234,strike of lightning,4302,Modern Greek,239,Modern Greek,239,to strike (of lightning),(metaphor) for a blow to the face,αστράφτω,αστράφτω
+27869,shift3379,Polysemy,1,NEW,→,black cloud,3611,sad,3912,Ancient Greek,116,Ancient Greek,116,cloud,gloom,νέφος,νέφος
+27878,shift1374,Derivation,4,ACCEPTED,→,&lt;thorny plant&gt;,2101,goldfinch (Carduelis),812,Ancient Greek,116,Ancient Greek,116,thorn,young goldfinch,ἄκανθα,"ἀκανθίς, ἀκανθυλλίς"
+27914,shift7983,Polysemy,1,NEW,→,club (a weapon),1013,spades (in cards),4183,Modern Greek,239,Modern Greek,239,"cane, walking stick",spades (in cards),μπαστούνι,μπαστούνι
+27951,shift1145,Polysemy,10,ACCEPTED,→,cold,1032,indifferent,1766,Ancient Greek,116,Ancient Greek,116,cold,"indifferent, impassible",ψυχρός,ψυχρός
+27987,shift0999,Polysemy,4,ACCEPTED,?,key (of a door),1705,clavicle,994,Ancient Greek,116,Ancient Greek,116,key,collar bone,κλείς,κλείς
+28003,shift0071,Polysemy,8,ACCEPTED,?,part,306,destiny,4419,Ancient Greek,116,Ancient Greek,116,"part, share","lot, destiny, fate",μοῖρα,μοῖρα
+28004,shift0071,Polysemy,9,ACCEPTED,—,part,306,destiny,4419,Ancient Greek,116,Ancient Greek,116,"part, share","destiny, fate, lot",αἶσα,αἶσα
+28008,shift0071,Polysemy,13,ACCEPTED,—,part,306,destiny,4419,Ancient Greek,116,Ancient Greek,116,part,"lot, fate",μερίς,μερίς
+28270,shift0016,Polysemy,4,ACCEPTED,—,sweet (taste),4358,"dear, darling",4397,Ancient Greek,116,Ancient Greek,116,sweet,"of persons, sweet, dear",γλυκύς,γλυκύς
+28271,shift0016,Polysemy,5,ACCEPTED,→,sweet (taste),4358,"dear, darling",4397,Ancient Greek,116,Ancient Greek,116,sweet,"dear, darling",ἡδύς,ἡδύς
+28279,shift0955,Polysemy,2,ACCEPTED,—,"country, land",1109,"people, nation",345,Ancient Greek,116,Ancient Greek,116,"earth, land, region, district",people,δῆμος,δῆμος
+28290,shift4708,Polysemy,1,NEW,→,drama (theatre),4477,distressing event,4452,Ancient Greek,116,Ancient Greek,116,"action represented on the stage, drama, play",tragical event,δρᾶμα,δρᾶμα
+28297,shift0785,Polysemy,2,ACCEPTED,→,to press,3002,to oppress,2952,Ancient Greek,116,Ancient Greek,116,"to press, to jam, to squeeze, to compress","to depress, to torment",θλίβω,θλίβω
+28308,shift0785,Polysemy,13,ACCEPTED,→,to press,3002,to oppress,2952,Ancient Greek,116,Ancient Greek,116,"to press, to tighten",to oppress,πιέζω,πιέζω
+28321,shift3333,Polysemy,1,ACCEPTED,→,to boil (intr.),2361,"to worry, be agitated",3382,Ancient Greek,116,Ancient Greek,116,to boil,to boil (of passion),ζέω,ζέω
+28370,shift5677,Derivation,1,ACCEPTED,→,vessel,3762,cell (in biology),924,Modern Greek,239,Modern Greek,239,"vessel (vase, jug, ewer, urn)",cell (in biology),κύτος,κύτταρο
+28394,shift0749,Polysemy,8,ACCEPTED,—,to blow,2355,to breathe,2373,Modern Greek,239,Modern Greek,239,to blow,to breathe,pneō,pneō
+28433,shift4741,Polysemy,1,NEW,→,"wizard, magician",105,fraudster,1367,Ancient Greek,116,Ancient Greek,116,"sorcerer, wizard","juggler, cheat",γόης,γόης
+28484,shift7526,Derivation,4,ACCEPTED,→,forty,1354,myriapod,757,Modern Greek,239,Modern Greek,239,forty,myriapod,σαράντα,σαρανταποδαρούσα
+28541,shift0909,Polysemy,2,NEW,?,left,183,South,4179,Ancient Greek,116,Ancient Greek,116,left,southern,ἕτερος,ἕτερος
+28636,shift1369,Polysemy,5,ACCEPTED,→,"step, pace",4257,unit of length,528,Ancient Greek,116,Ancient Greek,116,"step, pace",unit of length,βῆμα,βῆμα
+28739,shift5629,Derivation,2,NEW,→,Easter,3804,ladybird,145,Modern Greek,239,Modern Greek,239,Easter,ladybird,Πάσχα,πασχαλίτσα
+28757,shift0886,Polysemy,5,ACCEPTED,?,"bile, gall",3589,anger,1996,Ancient Greek,116,Ancient Greek,116,bile,"irritation, anger",χολή,χολή
+28773,shift1380,Polysemy,4,ACCEPTED,→,"to untie, unbind",3338,to set free,3133,Ancient Greek,116,Ancient Greek,116,untie,to set free,λύω,λύω
+28783,shift2700,Polysemy,2,ACCEPTED,→,"rope, cord",1504,unit of length,528,Ancient Greek,116,Ancient Greek,116,"(тростниковая) веревка, бечева, канат","Egyptian length unit = 30 stadia, i.e. About 5.5 km",σχοῖνος,σχοῖνος
+28798,shift7982,Polysemy,1,NEW,→,sword,4369,clubs (in cards),1015,Modern Greek,239,Modern Greek,239,sword,clubs (in cards),σπαθί,σπαθί
+28818,shift0691,Polysemy,10,ACCEPTED,?,"to strike, hit",3234,to shoot,3149,Modern Greek,239,Modern Greek,239,"to hit, to beat",to shoot (hunter),βαρῶ,βαρῶ
+28832,shift0996,Polysemy,1,ACCEPTED,?,to heat up,2760,to deceive,2494,Ancient Greek,116,Ancient Greek,116,"to heat, to warm up","to deceive, to cheat",θάλπω,θάλπω
+28890,shift1004,Derivation,5,ACCEPTED,?,mat,603,whore,67,Ancient Greek,116,Ancient Greek,116,"horsecloth, saddle-cloth",whore,κασᾶς,κασαλβάς
+28999,shift4991,Polysemy,1,NEW,—,strength,4301,price,459,Ancient Greek,116,Ancient Greek,116,strength,"price, value",δύναμις,δύναμις
+29013,shift1333,Polysemy,1,ACCEPTED,←,hare (Lepus),1562,coward,1123,Ancient Greek,116,Ancient Greek,116,hare,"timid, fearful",πτώξ,πτώξ
+29148,shift7495,Derivation,1,ACCEPTED,→,pig (Sus scrofa),369,porcupine,443,Ancient Greek,116,Ancient Greek,116,pig (Sus scrofa),porcupine,χοῖρος,ἀκανθόχοιρος
+29288,shift6004,Polysemy,5,ACCEPTED,←,fishbone,1301,awn,2069,Ancient Greek,116,Ancient Greek,116,spine or prickle of a fish,awn,ἀθήρ,ἀθήρ
+29315,shift3317,Polysemy,3,ACCEPTED,→,&lt;dish&gt;,4374,"disorder, mess",4446,Ancient Greek,116,Ancient Greek,116,"potion, posset, containing barleygroats, grated cheese, and Pramnian wine","mixture, medley",κυκεών,κυκεών
+29336,shift1211,Polysemy,5,ACCEPTED,→,to feel thirsty,2621,to want,3353,Ancient Greek,116,Ancient Greek,116,to feel thirsty,"to long for, to desire",dipsao,dipsao
+29396,shift1075,Derivation,1,ACCEPTED,?,to shine,3144,to seem,3122,Ancient Greek,116,Ancient Greek,116,to shine,"to seem, to appear",φαίνω,φαίνομαι
+29399,shift8224,Derivation,2,ACCEPTED,→,activity,1940,"commerce, business",1046,Ancient Greek,116,Ancient Greek,116,activity,trade,πρᾶξις,πρᾶξις
+29431,shift6904,Polysemy,2,ACCEPTED,→,monster (supernatural),705,whale,51,Ancient Greek,116,Ancient Greek,116,sea-monster or huge fish,spouting cetacea,κῆτος,κῆτος
+29468,shift3627,Polysemy,1,ACCEPTED,→,to sit,3160,to be situated,2299,Ancient Greek,116,Ancient Greek,116,to sit,"to be somewhere, to dwell",θακέω,θακέω
+29477,shift2029,Polysemy,3,ACCEPTED,→,to stand up,3216,to be resurrected,2295,Ancient Greek,116,Ancient Greek,116,to stand up,to rise from the dead,ἀνίστασθαι,ἀνίστασθαι
+29504,shift3351,Polysemy,1,NEW,→,muscle,747,strength,4301,Ancient Greek,116,Ancient Greek,116,muscle,"force, power",ἴς,ἴς
+29578,shift5222,Polysemy,1,ACCEPTED,→,sky,4106,bed canopy,3550,Modern Greek,239,Modern Greek,239,sky,bed canopy,ουρανός,ουρανός
+29710,shift5218,Derivation,8,NEW,→,head,1578,chapter (of a book),943,Ancient Greek,116,Ancient Greek,116,head,chapter (of a book),κεφαλή,κεφάλαιος
+29717,shift0032,Polysemy,1,ACCEPTED,—,"to get, obtain",2691,to wait,3347,Ancient Greek,116,Ancient Greek,116,"to get, to receive",to wait (for),δέχομαι,δέχομαι
+29784,shift3360,Polysemy,1,ACCEPTED,→,horn,1657,branch (of a river),3671,Ancient Greek,116,Ancient Greek,116,horn,armlet,κέρας,κέρας
+29825,shift1394,Polysemy,4,ACCEPTED,→,donkey,4463,fool,1336,Ancient Greek,116,Ancient Greek,116,baggage donkey,fool,κανθήλιος,κανθήλιος
+29876,shift2638,Polysemy,2,ACCEPTED,→,smoke,4130,arrogance,2031,Ancient Greek,116,Ancient Greek,116,smoke,arrogance,τῦφος,τῦφος
+29883,shift2651,Polysemy,1,ACCEPTED,→,to feel hunger,2616,to want,3353,Ancient Greek,116,Ancient Greek,116,to be hungry,"to desire, to long for",peinao,peinao
+29954,shift3388,Polysemy,1,NEW,→,"to pull, to draw",3018,to torture,3305,Ancient Greek,116,Ancient Greek,116,"to stretch, draw tight","to rack, torture",κατατείνω,κατατείνω
+29997,shift8464,Polysemy,2,ACCEPTED,→,draught animal,4478,husband / wife,1695,Ancient Greek,116,Ancient Greek,116,yoked together,spouse (husband or wife),σύζυγος,σύζυγος
+30041,shift4421,Derivation,14,ACCEPTED,→,almond,1973,tonsil,3401,Modern Greek,239,Modern Greek,239,almond,tonsil,αμύγδαλο,αμυγδαλή
+30053,shift0815,Derivation,2,ACCEPTED,→,white,62,poplar (Populus alba),440,Ancient Greek,116,Ancient Greek,116,white,poplar (Populus alba),λευκός,λεύκη
+30061,shift0674,Polysemy,8,ACCEPTED,→,&lt;artiodactyl (even-toed animal)&gt;,1917,woman,109,Modern Greek,239,Modern Greek,239,mare,large and ungraceful woman,φοράδα,φοράδα
+30073,shift1361,Polysemy,6,ACCEPTED,←,to change (tr.),2417,to change clothes,2418,Ancient Greek,116,Ancient Greek,116,to exchange (amth for amth),to change clothes (med.),μεταμφτιάζω,μεταμφτιάζω
+30075,shift6406,Derivation,1,ACCEPTED,→,hair,1541,comet,1043,Ancient Greek,116,Ancient Greek,116,hair,comet,κόμη,κομήτης
+30178,shift4017,Polysemy,1,ACCEPTED,→,white,62,bare (feet),3513,Ancient Greek,116,Ancient Greek,116,white,bare (feet),λευκός,λευκός
+30186,shift0489,Polysemy,5,ACCEPTED,→,mouth,735,speech,4193,Ancient Greek,116,Ancient Greek,116,mouth,"speech, utterance",στόμα,στόμα
+30322,shift4156,Polysemy,1,ACCEPTED,—,to move away,2927,to abolish,2209,Ancient Greek,116,Ancient Greek,116,to move away,to abolish,αἴρω,αἴρω
+30323,shift4156,Polysemy,2,ACCEPTED,—,to move away,2927,to abolish,2209,Ancient Greek,116,Ancient Greek,116,to move away,to abolish,ἀναιρέω,ἀναιρέω
+30386,shift1310,Polysemy,1,ACCEPTED,→,to press,3002,"to restrain, control one’s feelings",3077,Ancient Greek,116,Ancient Greek,116,to press,to restrain,πιέζω,πιέζω
+30528,shift6123,Derivation,2,ACCEPTED,→,third,2175,Tuesday,3458,Modern Greek,239,Modern Greek,239,third,Tuesday,τρίτος,Τρίτη
+30547,shift3382,Polysemy,1,NEW,→,sweat,4357,work (n.),121,Ancient Greek,116,Ancient Greek,116,"sweat, perspiration",hard work,ἱδρώς,ἱδρώς
+30574,shift4981,Polysemy,3,NEW,—,berry,3582,nipple (part of the breast),1868,Modern Greek,239,Modern Greek,239,berry of a grape,nipple (part of the breast),ράγα / ρώγα,ράγα / ρώγα
+30622,shift8611,Polysemy,3,NEW,→,ray,1438,lightning,215,Ancient Greek,116,Ancient Greek,116,ray,radius (geometry),ἀκτίς,ἀκτίς
+30675,shift4010,Derivation,1,ACCEPTED,→,father,1242,ancestor,1990,Ancient Greek,116,Ancient Greek,116,father,ancestor,πᾰτήρ,πατέρες (pl.)
+30695,shift4010,Derivation,21,ACCEPTED,→,father,1242,ancestor,1990,Modern Greek,239,Modern Greek,239,father,ancestors,πατέρας,πατέρες
+30719,shift0067,Polysemy,5,ACCEPTED,→,"light, bright, clear",212,comprehensible,1074,Ancient Greek,116,Ancient Greek,116,"clean (snow), clear (air)",clear,εὐαγής,εὐαγής
+30773,shift5782,Derivation,2,ACCEPTED,←,"shoulder-blade, scapula",4055,shoulder,4053,Ancient Greek,116,Ancient Greek,116,"shoulder-blade, scapula",shoulder,ὠμοπλάτη,ὦμος
+30788,shift3387,Polysemy,1,NEW,→,to play (a musical instrument),2980,to practice witchcraft,2994,Ancient Greek,116,Ancient Greek,116,to play on the flute,to charm by flute-playing (also metaphorical),καταυλέω,καταυλέω
+30800,shift3135,Polysemy,1,ACCEPTED,—,wing,92,feather,1250,Ancient Greek,116,Ancient Greek,116,wing,feather,πτερόν,πτερόν
+30836,shift2161,Derivation,6,ACCEPTED,→,"to strike, hit",3234,to attack,2243,Ancient Greek,116,Ancient Greek,116,"to hit, to beat, to flog",to attack,κρούω,προκρούω
+30871,shift3711,Polysemy,2,ACCEPTED,—,"to raise, lift (tr.)",3037,to discover game animals or birds (hunting),2528,Ancient Greek,116,Ancient Greek,116,"to raise, lift (tr.)",to discover game animals or birds (hunting),ἀνίστημι,ἀνίστημι
+31102,shift4437,Polysemy,1,ACCEPTED,→,sun,4333,sunflower,4337,Modern Greek,239,Modern Greek,239,sun,(colloquial) sunflower,ήλιος,ήλιος
+31121,shift4424,Derivation,5,ACCEPTED,→,quick,1908,soon,4167,Ancient Greek,116,Ancient Greek,116,"swift, quick, fast, rapid",soon,ταχύς,τάχα
+31133,shift3368,Polysemy,1,NEW,—,neck,1837,ravine,1434,Ancient Greek,116,Ancient Greek,116,neck,"gorge, ravine, mountain passage",αὐχήν,αὐχήν
+31256,shift5693,Derivation,4,ACCEPTED,→,&lt;bird&gt;,3478,kite (lightweight toy),1717,Modern Greek,239,Modern Greek,239,eagle,kite (lightweight toy),αετός,χαρταετός
+31265,shift0995,Polysemy,6,ACCEPTED,→,to blossom,2354,to succeed,3242,Ancient Greek,116,Ancient Greek,116,to blossom,"to be abundant, lush",θάλλω,θάλλω
+31267,shift0995,Polysemy,8,ACCEPTED,→,to blossom,2354,to succeed,3242,Ancient Greek,116,Ancient Greek,116,covered with flowers,prosperous,εὐανθής,εὐανθής
+31425,shift3416,Polysemy,2,ACCEPTED,—,to defend,2503,to act according to,2218,Ancient Greek,116,Ancient Greek,116,"to protect, guard",to act according to,ἐρύομαι,ἐρύομαι
+31426,shift3416,Polysemy,3,ACCEPTED,→,to defend,2503,to act according to,2218,Ancient Greek,116,Ancient Greek,116,"to guard, defend",to observe (a command etc.),"φυλάσσω, φυλάττω","φυλάσσω, φυλάττω"
+31480,shift2068,Polysemy,3,ACCEPTED,→,"to rise (of Moon, Sun)",3090,East,3803,Ancient Greek,116,Ancient Greek,116,"dawn, sunrise",east,ἕως,ἕως
+31489,shift0790,Polysemy,4,ACCEPTED,→,flat (adj),1312,simple,4082,Ancient Greek,116,Ancient Greek,116,"flat, smooth","simple, easy",afeles,afeles
+31492,shift5683,Polysemy,2,NEW,→,barrier,3520,diaphragm,4430,Ancient Greek,116,Ancient Greek,116,partition or barrier,"(anatomy) diaphragm, midriff",διάφραγμα,διάφραγμα
+31514,shift0099,Polysemy,15,ACCEPTED,—,"to search, look for",3120,to ask (for),2238,Modern Greek,239,Modern Greek,239,"to look for, to seek","to ask, to demand",γυρεύω,γυρεύω
+31572,shift3771,Derivation,1,ACCEPTED,—,to hear / to listen,2759,fame,1224,Modern Greek,239,Modern Greek,239,to hear,"fame, glory",kléo,kléos
+31582,shift0601,Polysemy,1,ACCEPTED,—,"wood, timber",114,forest,1351,Ancient Greek,116,Ancient Greek,116,timber,forest,ὕλη,ὕλη
+31624,shift3964,Polysemy,2,ACCEPTED,→,Saturday,3945,week,41,Ancient Greek,116,Ancient Greek,116,Sabbath,"period of seven days, week",Σάββατον,Σάββατον
+31645,shift3136,Polysemy,1,ACCEPTED,→,feather,1250,arrow,2033,Ancient Greek,116,Ancient Greek,116,feather,feathered arrow,πτερόν,πτερόν
+31728,shift3575,Polysemy,1,ACCEPTED,→,lap,155,womb,110,Ancient Greek,116,Ancient Greek,116,"bosom, lap",womb,kolpos,kolpos
+31764,shift8516,Derivation,5,ACCEPTED,→,sword,4369,gladiolus,789,Ancient Greek,116,Ancient Greek,116,sword,Gladiolus italicus (Gladiolus segetum),ξίφος,ξίφιον
+31765,shift8516,Derivation,6,ACCEPTED,→,sword,4369,gladiolus,789,Ancient Greek,116,Ancient Greek,116,"large knife, short sword, dirk, dagger",gladiolus,μάχαιρα,μαχαιρόφυλλον
+31782,shift7751,Polysemy,10,ACCEPTED,→,sheet of paper,4028,newspaper,1858,Modern Greek,239,Modern Greek,239,"newspaper, issue, number","newspaper, issue, number",φύλλο,φύλλο
+31858,shift3358,Polysemy,1,ACCEPTED,→,to sing,3157,to practice witchcraft,2994,Ancient Greek,116,Ancient Greek,116,to sing to,"to charm, appease by singing",κατᾴδω,κατᾴδω
+31876,shift1724,Polysemy,5,ACCEPTED,—,sharp,4022,quick,1908,Ancient Greek,116,Ancient Greek,116,sharp,"quick, fast",ὀξύς,ὀξύς
+31883,shift1117,Polysemy,2,ACCEPTED,→,root (of a plant),1499,basis,3524,Ancient Greek,116,Ancient Greek,116,root,"foundation, base, source, origin",ῥίζα,ῥίζα
+31902,shift1154,Derivation,1,ACCEPTED,→,salt,3930,sea,3970,Ancient Greek,116,Ancient Greek,116,salt (m.),sea (generally of shallow water near shore) (f.),ἅλς,ἅλς
+31934,shift5825,Polysemy,1,ACCEPTED,→,face,1214,"human, person",1683,Ancient Greek,116,Ancient Greek,116,face,person,πρόσωπον,πρόσωπον
+31936,shift5825,Polysemy,3,ACCEPTED,→,face,1214,"human, person",1683,Modern Greek,239,Modern Greek,239,face,person,πρόσωπο,πρόσωπο
+31945,shift5352,Polysemy,2,NEW,→,iron,1806,sword,4369,Ancient Greek,116,Ancient Greek,116,iron,sword,σίδηρος,σίδηρος

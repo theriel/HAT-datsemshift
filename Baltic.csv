@@ -1,0 +1,250 @@
+﻿ID,Shift_ID,Type,Realization,Status,Direction,Source_Concept,Source_Concept_ID,Target_Concept,Target_Concept_ID,Source_Language,Source_Language_ID,Target_Language,Target_Language_ID,Source_Meaning,Target_Meaning,Source_Word,Target_Word
+218,shift8108,Motivation,12,ACCEPTED,→,butterfly,3734,butterfly stroke,3736,Latvian,140,Latvian,140,butterfly,butterfly stroke,tauriņš,tauriņstils
+302,shift4986,Polysemy,10,ACCEPTED,—,sheath,4026,vagina,3745,Latvian,140,Latvian,140,sheath,vagina,maksts,maksts
+310,shift4986,Polysemy,18,ACCEPTED,—,sheath,4026,vagina,3745,Lithuanian,126,Lithuanian,126,sheath,vagina,makštis,makštis
+342,shift0975,Polysemy,15,ACCEPTED,—,to fall down,2605,to die,2517,Lithuanian,126,Lithuanian,126,to fall,to die (animals),krìsti,krìsti
+449,shift0065,Polysemy,12,ACCEPTED,?,noon,1875,South,4179,Lithuanian,126,Lithuanian,126,"noon, midday",South,piẽtūs,piẽtūs
+557,shift2092,Polysemy,1,NEW,?,&lt;insect&gt;,1727,"many, much",584,Lithuanian,126,Lithuanian,126,aphis,plenty,ãmaras,ãmaras
+624,shift0570,Polysemy,2,NEW,→,to go up,2713,to begin (tr.),2332,Latvian,140,Latvian,140,to go up,to begin,uznākt,uznākt
+780,shift4357,Derivation,2,NEW,→,resurrection,1465,Sunday,4335,Latvian,140,Latvian,140,resurrection,Sunday,sestais,Sestdiena
+848,shift8213,Polysemy,1,ACCEPTED,→,linden,218,July,1198,Lithuanian,126,Lithuanian,126,linden,July,liepa,liepa
+1157,shift3163,Derivation,2,ACCEPTED,→,&lt;bird&gt;,3478,freckle,1370,Lithuanian,126,Lithuanian,126,lapwing,freckled,pempė,pempėtas
+1158,shift3163,Derivation,3,ACCEPTED,→,&lt;bird&gt;,3478,freckle,1370,Lithuanian,126,Lithuanian,126,thrush,freckle,strãzdas,strãzdana
+1311,shift0354,Polysemy,12,ACCEPTED,—,to strew,3233,to pour,2993,Lithuanian,126,Lithuanian,126,to scatter,to pour,pìlti,pìlti
+1429,shift0851,Polysemy,21,ACCEPTED,—,heavy (of weight),1594,pregnant,456,Latvian,140,Latvian,140,heavy,pregnant,grutā,grutā
+1494,shift0888,Polysemy,13,ACCEPTED,—,back (body part),3485,"mountain ridge, edge",731,Lithuanian,126,Lithuanian,126,"back, scruff",hill,gubrỹs,gubrỹs
+1497,shift0888,Polysemy,16,ACCEPTED,—,back (body part),3485,"mountain ridge, edge",731,Lithuanian,126,Lithuanian,126,"hump, back",hill,kaũbre,kaũbre
+1501,shift0888,Polysemy,20,ACCEPTED,—,back (body part),3485,"mountain ridge, edge",731,Lithuanian,126,Lithuanian,126,"back, hunch","hill, mound",kupra,kupra
+1508,shift1728,Derivation,1,NEW,?,cucumber,1155,vegetable marrow,3750,Lithuanian,126,Lithuanian,126,cucumber,vegetable marrow,agur˜kas,aguro˜tis
+1671,shift0692,Polysemy,20,ACCEPTED,?,"to strike, hit",3234,to kill,2820,Lithuanian,126,Lithuanian,126,"to hit, to beat",to kill (with a heavy object),dóbti,dóbti
+2196,shift7889,Derivation,2,NEW,→,feather,1250,cirrus (clouds),985,Latvian,140,Latvian,140,feather,cirrus (clouds),spalva,spalvu mākonis
+2400,shift3233,Polysemy,1,ACCEPTED,→,white,62,sober,4147,Lithuanian,126,Lithuanian,126,whitish,sober,blaĩvas,blaĩvas
+2435,shift1169,Polysemy,1,ACCEPTED,—,to give,2692,to let,2842,Lithuanian,126,Lithuanian,126,to give,to permit,dúoti,dúoti
+2589,shift0462,Polysemy,1,ACCEPTED,→,eye,3890,loop,253,Lithuanian,126,Lithuanian,126,eye,loop,akís,akís
+2621,shift3318,Derivation,7,ACCEPTED,→,hand/arm,1550,handwriting,1553,Latvian,140,Latvian,140,hand/arm,handwriting,roka,rokraksts
+2812,shift4390,Polysemy,11,ACCEPTED,—,"spawn, roe",4189,calf of a leg,875,Lithuanian,126,Lithuanian,126,(anat.) calf,fish-egg,ìkras,ìkras
+2813,shift4390,Polysemy,12,ACCEPTED,—,"spawn, roe",4189,calf of a leg,875,Latvian,140,Latvian,140,(anat.) calves,"roe, spawn, caviar",ikri (pl.),ikri (pl.)
+2839,shift0463,Polysemy,4,ACCEPTED,—,eye,3890,bud (on a twig),3712,Latvian,140,Latvian,140,eye,sprout,acs,acs
+2846,shift0463,Polysemy,11,ACCEPTED,—,eye,3890,bud (on a twig),3712,Lithuanian,126,Lithuanian,126,eye,sprout,akís,akís
+2900,shift2110,Derivation,1,ACCEPTED,?,drunk,4488,great bilberry (Vaccinium uliginosum),840,Lithuanian,126,Lithuanian,126,drunk,blueberry,gìrtas,girtuõklė
+2974,shift0057,Polysemy,38,NEW,→,boy,3666,servant,3997,Lithuanian,126,Lithuanian,126,lad,servant,bérnas,bérnas
+3237,shift3596,Polysemy,8,ACCEPTED,→,tongue (body part),3400,cape,889,Latvian,140,Latvian,140,tongue (body part),tongue of land,mēle,mēle
+3354,shift7372,Derivation,1,NEW,→,luck,268,Sunday,4335,Lithuanian,126,Lithuanian,126,luck,Sunday,sėkmės,sekmadienis
+3408,shift8623,Polysemy,6,NEW,→,crawfish,1131,cancer (disease),884,Latvian,140,Latvian,140,crawfish,cancer (disease),vēzis,vēzis
+3409,shift8623,Polysemy,7,NEW,→,crawfish,1131,cancer (disease),884,Lithuanian,126,Lithuanian,126,crawfish,cancer (disease),vėžỹs,vėžỹs
+3448,shift2044,Polysemy,2,ACCEPTED,—,thick,2167,"dense, thick (liquid)",4414,Latvian,140,Latvian,140,thick (in dimension),thick (in density),biezs,biezs
+3768,shift0796,Derivation,4,ACCEPTED,→,to carry,2401,pregnant,456,Lithuanian,126,Lithuanian,126,carry,pregnant,nešti,neščia
+3872,shift5893,Derivation,4,ACCEPTED,→,milk,657,Milky Way,659,Latvian,140,Latvian,140,milk,Milky Way,piens,Piena Ceļš
+4092,shift2670,Polysemy,8,ACCEPTED,→,&lt;animal&gt;,1916,white caps (on sea waves),64,Lithuanian,126,Lithuanian,126,ewe lambs,"white horses (on the waves, lit. Sheep of the waves)",avelės,(bangų) avelės
+4100,shift2383,Derivation,2,ACCEPTED,→,summer,4330,South,4179,Lithuanian,126,Lithuanian,126,summer,southern,vasãris,vasãris
+4317,shift1191,Polysemy,4,ACCEPTED,→,circle,983,finger-ring,1284,Latvian,140,Latvian,140,circle,finger-ring,riņķis,riņķis
+4642,shift3610,Derivation,7,ACCEPTED,→,to forget,2653,forget-me-not (flower),1352,Latvian,140,Latvian,140,to forget,forget-me-not,aizmirst,neaizmirstule
+4667,shift1163,Derivation,6,ACCEPTED,→,to work,3380,to plough,2986,Latvian,140,Latvian,140,work,"cultivate, till",strādēt,apstrādāt
+4674,shift1163,Derivation,13,ACCEPTED,→,to work,3380,to plough,2986,Lithuanian,126,Lithuanian,126,to work,to plough,dirbti,apdirbti
+4832,shift2669,Polysemy,1,ACCEPTED,→,&lt;animal&gt;,1916,cloud,1007,Lithuanian,126,Lithuanian,126,ewe lambs,clouds (lit. sky sheep),avelės,(debesų) avelės
+4883,shift1064,Derivation,1,ACCEPTED,—,rooster,1497,cock (of a gun),1023,Lithuanian,126,Lithuanian,126,rooster,cock (of a gun),gaidy˜s,gaidùkas
+5026,shift3874,Polysemy,2,ACCEPTED,→,god,804,"&lt;exclamation of surprise, pain or sorrow&gt;",3787,Lithuanian,126,Lithuanian,126,god,"<exclamation of surprise, pain or sorrow>",dieve,dieve
+5770,shift1960,Polysemy,18,ACCEPTED,→,soldier,4154,pawn (in chess),320,Lithuanian,126,Lithuanian,126,foot soldier,pawn (in chess),pė́stininkas,pė́stininkas
+5784,shift2659,Derivation,5,ACCEPTED,→,forest,1351,to hunt,2776,Old Prussian,132,Old Prussian,132,forest,to hunt,median,medione
+5819,shift3164,Derivation,1,NEW,→,foot/leg,1340,hare (Lepus),1562,Lithuanian,126,Lithuanian,126,thigh,hare,kiškà,kìškis
+7039,shift4718,Polysemy,16,ACCEPTED,→,root (of a plant),1499,root (arithmetic),1498,Latvian,140,Latvian,140,root (of a plant),root (arithmetic),sakne,sakne
+7040,shift4718,Polysemy,17,ACCEPTED,→,root (of a plant),1499,root (arithmetic),1498,Lithuanian,126,Lithuanian,126,root (of a plant),root (arithmetic),šaknìs,šaknìs
+7246,shift6519,Derivation,20,ACCEPTED,→,horse,1661,hippopotamus,1630,Latvian,140,Latvian,140,horse (Equus caballus),hippopotamus,zirgs,nīlzirgs
+7364,shift3393,Derivation,1,NEW,→,"precipice, abyss",453,hell,1601,Lithuanian,126,Lithuanian,126,abyss,hell,pragarmė,prãgaras
+7976,shift2393,Derivation,3,ACCEPTED,→,"to strike, hit",3234,to fight (war),2624,Lithuanian,126,Lithuanian,126,to hit,battle,kauti,kova
+8121,shift2095,Derivation,1,NEW,?,sharp,4022,"soldier (plan, Stratiotes)",4155,Lithuanian,126,Lithuanian,126,NA,water soldier,aštrùs,aštry˜s
+8450,shift2367,Polysemy,5,ACCEPTED,→,&lt;animal&gt;,1916,spot of reflected light,4218,Lithuanian,126,Lithuanian,126,bunny,"light spot, gleam",zuikùtis,zuikùtis
+8536,shift0459,Polysemy,6,ACCEPTED,→,eye,3890,"spot, pip (on playing cards or dice)",4219,Lithuanian,126,Lithuanian,126,eye,pip,akís,akís
+8606,shift3872,Polysemy,9,ACCEPTED,→,father,1242,&lt;priest&gt;,279,Lithuanian,126,Lithuanian,126,father,priest,tėvas,tėvas
+8941,shift3195,Derivation,3,ACCEPTED,→,&lt;foot-wear&gt;,1208,lady&#39;s slipper (Cypripedium),144,Lithuanian,126,Lithuanian,126,wooden shoes,Cypripedium calceolus,klumpės,klumpaitė
+9251,shift1903,Derivation,13,ACCEPTED,→,"to do, act",2545,verb,3758,Lithuanian,126,Lithuanian,126,"act, action",verb,veĩksmas,veiksmãžodis
+9253,shift1903,Derivation,15,ACCEPTED,→,"to do, act",2545,verb,3758,Latvian,140,Latvian,140,"action, activity",verb,darbība,darbības vārds
+9417,shift2091,Polysemy,2,NEW,?,"to strike, hit",3234,"to walk, wander",3350,Lithuanian,126,Lithuanian,126,"to beat, to smite",to hang around,daužýtis,daužýtis
+9588,shift3262,Polysemy,14,NEW,→,star,4247,celebrity,922,Latvian,140,Latvian,140,star,celebrity,zvaigzne,zvaigzne
+9689,shift8025,Derivation,13,ACCEPTED,→,silver,4081,mercury,640,Lithuanian,126,Lithuanian,126,silver,mercury,sidãbras,gyvsidabris
+9690,shift8025,Derivation,14,ACCEPTED,→,silver,4081,mercury,640,Latvian,140,Latvian,140,silver,mercury,sudrabs,dzīvsudrabs
+9746,shift1673,Derivation,3,ACCEPTED,→,bitter,3607,bitterling,3608,Lithuanian,126,Lithuanian,126,bitter,bitterling,kartus,kartenė
+9933,shift5695,Polysemy,17,ACCEPTED,→,dragon,4475,kite (lightweight toy),1717,Lithuanian,126,Lithuanian,126,(mythology) Aitvaras; a dragon/rooster-like being in Baltic mythology that brings riches,kite (lightweight toy),áitvaras,áitvaras
+9934,shift5695,Polysemy,18,ACCEPTED,→,dragon,4475,kite (lightweight toy),1717,Latvian,140,Latvian,140,"(mythology, religion) in old Latvian mythology, a household spirit that could be bought, bred, or stolen, and protected the wealth of his owner; dragon, winged serpent (reptilian monster that spits fire and devours people and animals)",kite (lightweight toy),pūķis,pūķis
+9965,shift1704,Derivation,2,ACCEPTED,?,to run,3101,ram,1425,Lithuanian,126,Lithuanian,126,to run,ram,tekėti,tekis
+10030,shift3396,Polysemy,2,NEW,→,hell,1601,glutton,798,Lithuanian,126,Lithuanian,126,hell,glutton,prãgaras,prãgaras
+10145,shift2384,Derivation,1,ACCEPTED,→,morning,712,East,3803,Lithuanian,126,Lithuanian,126,morning,east,rýtas,rytaĩ
+10448,shift2359,Derivation,10,ACCEPTED,→,to give birth,2693,parents,302,Lithuanian,126,Lithuanian,126,"bear, beget",parents,gimdyti,gimdytojai
+10590,shift2477,Derivation,2,ACCEPTED,→,"country, land",1109,farmer,1235,Latvian,140,Latvian,140,"land, earth",farmer,zeme,zemnieks
+10636,shift2497,Polysemy,1,NEW,→,"firm, solid",1296,strong,4304,Lithuanian,126,Lithuanian,126,solid,strong,drutas,drutas
+10657,shift0951,Derivation,5,ACCEPTED,→,evening,3871,West,45,Lithuanian,126,Lithuanian,126,evening,west,vãkar,vakaraĩ
+10684,shift1040,Polysemy,5,ACCEPTED,→,"to spring, jump",3201,to dance,2489,Lithuanian,126,Lithuanian,126,"to jump, leap, hop",to dance,šokti,šokti
+11082,shift0840,Polysemy,1,ACCEPTED,—,mountain,728,forest,1351,Lithuanian,126,Lithuanian,126,"a dry hill, a dry hummock",small dry nice forest,trakaĩ,trakaĩ
+11083,shift0840,Polysemy,2,ACCEPTED,—,mountain,728,forest,1351,Lithuanian,126,Lithuanian,126,hill,immature wood growing insteat of cut wood,skýnimas,skýnimas
+11093,shift0840,Polysemy,12,ACCEPTED,—,mountain,728,forest,1351,Lithuanian,126,Lithuanian,126,small nice decidous forest,hill,gõjus,gõjus
+11299,shift2093,Polysemy,1,ACCEPTED,?,sharp,4022,dangerous,4381,Lithuanian,126,Lithuanian,126,sharp,NA,aštrùs,aštrùs
+11312,shift8621,Polysemy,4,NEW,→,crawfish,1131,Cancer (constellation),883,Latvian,140,Latvian,140,crawfish,Cancer (constellation),vēzis,Vēzis
+11316,shift8621,Polysemy,8,NEW,→,crawfish,1131,Cancer (constellation),883,Lithuanian,126,Lithuanian,126,crawfish,Cancer (constellation),vėžỹs,Vėžys
+11532,shift6508,Derivation,9,ACCEPTED,→,gold,807,rose chafer,1507,Lithuanian,126,Lithuanian,126,gold,rose chafer,auksas,auksavabalis
+11955,shift2709,Derivation,2,ACCEPTED,→,barley,3516,bread,3677,Latvian,140,Latvian,140,barley,bread,miezis,maize
+11970,shift0421,Polysemy,7,NEW,→,&lt;vessel&gt;,3742,pelvis,339,Lithuanian,126,Lithuanian,126,bowl; dish; basin,pelvis,dubuõ,dubuõ
+11979,shift4680,Polysemy,2,ACCEPTED,→,horse,1661,dragonfly,4476,Lithuanian,126,Lithuanian,126,"diminutive of žirgas 'steed, horse being ridden or available for riding'",dragonfly,žirgẽlis,žirgẽlis
+11992,shift3045,Semantic evolution,3,ACCEPTED,←,cloud,1007,sky,4106,Latvian,140,Latvian,140,cloud,(archaic) sky,debess,debess
+12082,shift2482,Polysemy,2,NEW,→,to shear,3141,to move ears (of animal),2929,Lithuanian,126,Lithuanian,126,"to cut, to clip",to jerk ears (animal),karpýti,karpýti
+12089,shift7275,Derivation,2,ACCEPTED,→,"sacred, holy",3909,Sunday,4335,Latvian,140,Latvian,140,"sacred, holy",Sunday,svēts,svētdiena
+12124,shift8517,Polysemy,1,NEW,→,bread,3677,bribe,3685,Latvian,140,Latvian,140,loaf,bribe,kukulis,kukulis
+12162,shift1391,Polysemy,13,ACCEPTED,→,to sing,3157,to glorify,2695,Lithuanian,126,Lithuanian,126,to sing,"to sing, to praise",dainúoti,dainúoti
+12175,shift8607,Polysemy,4,ACCEPTED,→,umbrella,504,umbel,503,Lithuanian,126,Lithuanian,126,umbrella,umbel,skėtis,skėtis
+12204,shift1732,Derivation,6,ACCEPTED,→,&lt;tree&gt;,2104,"&lt;mushroom, fungus&gt;",560,Lithuanian,126,Lithuanian,126,alder,a mushroom species,al˜ksnis,alksniãbudė
+12219,shift3193,Polysemy,4,ACCEPTED,→,&lt;foot-wear&gt;,1208,aconite,1935,Lithuanian,126,Lithuanian,126,"shoe, boot","bikh, aconite",kurpẽlė,kurpẽlė
+12495,shift2476,Derivation,1,NEW,→,to hide (tr.),2764,ambush,1986,Lithuanian,126,Lithuanian,126,to hide,ambush,slėpti,slaptynė
+12511,shift1078,Polysemy,6,ACCEPTED,→,lean,178,fatless,1245,Lithuanian,126,Lithuanian,126,lean,lean,líesas,líesas
+12583,shift3614,Derivation,4,ACCEPTED,→,to give,2692,to sell,3124,Lithuanian,126,Lithuanian,126,to give,to sell,dúoti,pardúoti
+12601,shift4722,Polysemy,1,ACCEPTED,→,to breathe heavily,2374,"sick, ill",4069,Lithuanian,126,Lithuanian,126,to breathe heavily; to puff,to be ill,dvasúoti,dvasúoti
+13124,shift6581,Derivation,16,ACCEPTED,→,sour,4175,acid,1934,Latvian,140,Latvian,140,to go sour,acid,skābt,skābe
+13125,shift6581,Polysemy,17,ACCEPTED,→,sour,4175,acid,1934,Lithuanian,126,Lithuanian,126,"acid (sour, sharp, or biting to the taste)",acid,rūgštis,rūgštis
+13143,shift0981,Polysemy,4,NEW,—,to hope,2772,to wait,3347,Lithuanian,126,Lithuanian,126,to hope,to wait,láukti,láukti
+13327,shift2668,Derivation,3,ACCEPTED,→,to know,2826,to practice witchcraft,2994,Lithuanian,126,Lithuanian,126,to know,sorcerer,žinoti,žynys
+13345,shift1024,Polysemy,3,NEW,→,tongue (body part),3400,captive,892,Latvian,140,Latvian,140,tongue (body part),"(figuratively) potential informant, source (prisoner who can talk, who has valuable information about the enemy)",mēle,mēle
+13356,shift1336,Derivation,2,ACCEPTED,?,to plough,2986,draught animal,4478,Lithuanian,126,Lithuanian,126,to plough,horse,árti,arklỹs
+13441,shift1730,Polysemy,1,ACCEPTED,—,to bark,2250,to tell lie,3291,Lithuanian,126,Lithuanian,126,"to bark, to bow-wow",to talk piffle,am̃bryti,am̃bryti
+13570,shift5637,Derivation,3,ACCEPTED,→,god,804,ladybird,145,Lithuanian,126,Lithuanian,126,god,ladybird,diẽvas,dievo karvytė
+13687,shift1498,Derivation,3,ACCEPTED,→,winter,94,North,1877,Latvian,140,Latvian,140,winter,North,ziema,ziemeļi
+13688,shift1498,Derivation,4,ACCEPTED,→,winter,94,North,1877,Lithuanian,126,Lithuanian,126,winter,(dialect) North,žiemà,žiemiaĩ
+13775,shift2409,Derivation,1,NEW,→,tooth,3404,sword,4369,Latvian,140,Latvian,140,tooth,sword,zuobs,zuobens
+13879,shift1101,Derivation,1,NEW,?,to change (tr.),2417,strange,4295,Lithuanian,126,Lithuanian,126,to change,strange,keĩsti,keĩstas
+13912,shift6741,Polysemy,30,ACCEPTED,→,man (male),574,male (animal),571,Latvian,140,Latvian,140,man,male (animal),tēviņš,tēviņš
+13969,shift6144,Derivation,1,ACCEPTED,→,squirrel (Sciurus),4237,chanterelle,942,Lithuanian,126,Lithuanian,126,squirrel (Sciurus),chanterelle,voverė̃,voveraitė
+13970,shift2358,Derivation,1,ACCEPTED,→,old (vs. young),4533,parents,302,Latvian,140,Latvian,140,old,parents,vecs,vecāki
+14056,shift4596,Polysemy,15,ACCEPTED,→,lentil,194,lens,192,Lithuanian,126,Lithuanian,126,lentil,lens,lęšis,lęšis
+14060,shift4596,Polysemy,19,ACCEPTED,→,lentil,194,lens,192,Latvian,140,Latvian,140,lentil,lens,lēca,lēca
+14083,shift6118,Derivation,6,ACCEPTED,→,fourth,1359,Thursday,2191,Latvian,140,Latvian,140,fourth,Thursday,ceturtais,сeturtdiena
+14092,shift6118,Derivation,15,ACCEPTED,→,fourth,1359,Thursday,2191,Lithuanian,126,Lithuanian,126,fourth,Thursday,ketvirta,ketvirtadienis
+14358,shift6223,Polysemy,3,NEW,→,"to gather, collect",2667,to read,3042,Latvian,140,Latvian,140,"to gather, collect",to read,lasīt,lasīt
+14633,shift3859,Polysemy,11,ACCEPTED,→,fire,1286,to shoot,3149,Lithuanian,126,Lithuanian,126,fire,shooting (of weapons),ugnìs,ugnìs
+14708,shift7387,Derivation,1,NEW,→,dry,4491,January,1176,Lithuanian,126,Lithuanian,126,dry,January,saũsas,sausis
+14739,shift1176,Derivation,3,ACCEPTED,?,to see/to look at,3121,envious,3848,Lithuanian,126,Lithuanian,126,to see,to envy,veizdėti,pavydeti
+14903,shift4700,Polysemy,1,NEW,→,long-armed,249,thief,2169,Lithuanian,126,Lithuanian,126,long-armed,prone to theft,ikg(a)rañkis,ikg(a)rañkis
+15129,shift6507,Derivation,3,ACCEPTED,→,bronze,3694,rose chafer,1507,Lithuanian,126,Lithuanian,126,bronze,rose chafer,bronza,bronzinukas
+15221,shift1733,Polysemy,2,ACCEPTED,→,blind,3624,horse-fly (Tabanidae),1663,Lithuanian,126,Lithuanian,126,blind,gadfly,akly˜s,akly˜s
+15420,shift0450,Polysemy,1,ACCEPTED,→,eye,3890,"opening, hole",4551,Lithuanian,126,Lithuanian,126,eye,mesh of a net,akís,akís
+15423,shift0450,Polysemy,4,ACCEPTED,?,eye,3890,"opening, hole",4551,Latvian,140,Latvian,140,eye,"eye (needle), eye, lugworm (techn.)",acs,acs
+15569,shift0794,Derivation,10,ACCEPTED,—,dry,4491,lean,178,Lithuanian,126,Lithuanian,126,"to dry, to wither","thin, lean (person)",džiùti,džiusnà
+16234,shift7575,Derivation,2,ACCEPTED,→,to grow (plants),2723,plant (biol.),398,Lithuanian,126,Lithuanian,126,to grow (plants),plant (biol.),áugti,áugalas
+16330,shift5224,Polysemy,18,ACCEPTED,—,child (son or daughter),958,child (young person),959,Latvian,140,Latvian,140,child (son or daughter),child (of age),bērns,bērns
+16502,shift0366,Polysemy,52,NEW,—,heavy (of weight),1594,difficult,4433,Lithuanian,126,Lithuanian,126,heavy (of weight),difficult,sunkùs,sunkùs
+16503,shift0366,Polysemy,53,NEW,→,heavy (of weight),1594,difficult,4433,Latvian,140,Latvian,140,heavy (of weight),difficult,smags,smags
+16548,shift2098,Polysemy,2,NEW,?,to hew,2763,to object,2944,Lithuanian,126,Lithuanian,126,to chop off,to object harshly,atkir˜sti,atkir˜sti
+16737,shift5613,Polysemy,8,ACCEPTED,→,left,183,left (political),184,Latvian,140,Latvian,140,left,"(politics) left, left-wing (politically progressive, in favor of social change; revolutionary)",kreiss,kreiss
+16812,shift0926,Polysemy,10,ACCEPTED,→,barley,3516,sty (on the eye),4313,Lithuanian,126,Lithuanian,126,barley,sty,miežis,miežis
+16825,shift7600,Polysemy,1,NEW,→,rook,1494,March,589,Lithuanian,126,Lithuanian,126,rook,March,kóvas,kóvas
+16835,shift6303,Derivation,10,ACCEPTED,→,earth,3798,strawberry (Fragaria moschata),4299,Lithuanian,126,Lithuanian,126,earth,strawberry,žẽmė,žémuogė
+16838,shift6303,Derivation,13,ACCEPTED,→,earth,3798,strawberry (Fragaria moschata),4299,Latvian,140,Latvian,140,earth,strawberry,zeme,zemene
+17034,shift2392,Derivation,1,NEW,?,cheerful,950,rainbow,1421,Lithuanian,126,Lithuanian,126,cheerful,rainbow,liñksmas,linksmỹnė
+17257,shift5627,Derivation,9,ACCEPTED,→,"Mary, mother of Jesus",601,ladybird,145,Latvian,140,Latvian,140,"from Mārīte, a diminutive of Māra, a form of Marija, ultimately a reference to the Virgin Mary",ladybird,Mārīte,mārīte
+17726,shift0160,Polysemy,19,ACCEPTED,→,salad,3927,lettuce,201,Latvian,140,Latvian,140,salad,lettuce,salāts,salāts
+17788,shift2379,Polysemy,4,ACCEPTED,→,arrow,2033,bullet,3716,Latvian,140,Latvian,140,arrow,"bullet, shell",streląˉ,streląˉ
+17879,shift8268,Polysemy,4,ACCEPTED,→,old man,4534,term of address to a man,2154,Latvian,140,Latvian,140,old man,"(colloquial) man, guy",vecis,vecis
+17944,shift2518,Polysemy,1,ACCEPTED,→,empty,3835,unmarried,533,Latvian,140,Latvian,140,NA,NA,tukšs,tukšs
+17959,shift0392,Polysemy,1,ACCEPTED,—,beautiful,3545,good,814,Lithuanian,126,Lithuanian,126,beautiful,good,gražùs,gražùs
+18232,shift7683,Derivation,1,NEW,→,"to rot, putrefy",3096,fallow,1220,Latvian,140,Latvian,140,to rot,fallow,pūt,papuve
+18301,shift0460,Derivation,2,ACCEPTED,→,eye,3890,spectacles,4192,Lithuanian,126,Lithuanian,126,eye,eye glasses,akís,akiniai˜
+18596,shift7472,Derivation,2,ACCEPTED,→,time,2200,verb,3758,Latvian,140,Latvian,140,time,(obsolete) verb,laiks,laika vārds
+18607,shift2370,Polysemy,5,ACCEPTED,—,to make noise,2891,to quarrel,3035,Latvian,140,Latvian,140,noise,quarrel,kalada,kalada
+18635,shift1631,Polysemy,1,ACCEPTED,?,to sprinkle,3202,to run,3101,Lithuanian,126,Lithuanian,126,"splash, sprinkle",to trot heavily,dribčióti,dribčióti
+18980,shift1731,Derivation,3,ACCEPTED,→,stone (piece of rock),4281,turnstone (Arenaria),3468,Lithuanian,126,Lithuanian,126,stone,turnstone,akmuõ,akme˜nė
+19383,shift0933,Derivation,140,NEW,←,man (male),574,husband,1694,Latvian,140,Latvian,140,man (male),husband,vīrietis,vīrs
+19494,shift0693,Polysemy,2,ACCEPTED,—,"to strike, hit",3234,to break (tr.),2370,Lithuanian,126,Lithuanian,126,"to beat, to hit",to break,daužýti,daužýti
+19750,shift5413,Polysemy,12,ACCEPTED,—,tongue (body part),3400,clapper of a bell,989,Latvian,140,Latvian,140,tongue (body part),clapper of a bell,mēle,mēle
+19878,shift0860,Polysemy,46,NEW,→,old man,4534,husband,1694,Latvian,140,Latvian,140,old man,husband,vecis,vecis
+19932,shift1160,Polysemy,40,ACCEPTED,→,&lt;foreigner&gt;,1210,cockroach,1025,Latvian,140,Latvian,140,Prussian,cockroach,prusaks,prusaks
+20052,shift1407,Derivation,7,ACCEPTED,→,hawk (Accipiter),1569,hawkweed (Hieracium),1570,Lithuanian,126,Lithuanian,126,hawk (Accipiter),hawkweed (Hieracium),vanagas,vanagė
+20143,shift5379,Derivation,16,ACCEPTED,→,cross (n.),1142,sacrum (bone),3911,Latvian,140,Latvian,140,cross (n.),sacrum (bone),krusts,krustu kauls
+20280,shift2517,Polysemy,1,ACCEPTED,→,empty,3835,"poor, needy",437,Latvian,140,Latvian,140,empty,poor,tukšs,tukšs
+20318,shift1758,Derivation,4,ACCEPTED,→,"can, to be able",882,"to defeat, win",2501,Lithuanian,126,Lithuanian,126,"to be able to; can, may; to be allowed","to overcome, to surmount; to defeat; (sports) to win",galė́ti,nugalė́ti
+20319,shift1758,Polysemy,5,ACCEPTED,→,"can, to be able",882,"to defeat, win",2501,Latvian,140,Latvian,140,can; to be able to,to win,varēt,uzvarēt
+20328,shift1179,Derivation,2,ACCEPTED,?,to burn (intr.),2384,distilled alcohol,4451,Latvian,140,Latvian,140,to burn,vodka,degti,degtinė
+20411,shift5029,Derivation,26,NEW,→,father,1242,motherland,724,Latvian,140,Latvian,140,father,motherland,tēvs,tēvija
+20412,shift5029,Derivation,27,NEW,→,father,1242,motherland,724,Lithuanian,126,Lithuanian,126,father,motherland,tėvas,tėvynė
+20463,shift3109,Polysemy,8,ACCEPTED,→,woman,109,sheaf,4025,Lithuanian,126,Lithuanian,126,woman; old woman,"(rare, dialectal) 'heap of bread', 'heap of overgrown rye grass', 'one, three or four bundled sheaves at the beginning of the heap'",bóba,bóba
+20501,shift7187,Polysemy,3,ACCEPTED,→,autumn fall of the leaves,2064,November,1888,Lithuanian,126,Lithuanian,126,autumn fall of the leaves,November,lãpkritis,lãpkritis
+20597,shift2705,Derivation,1,NEW,→,"to mix, stir",2920,dough,4470,Latvian,140,Latvian,140,"to knead, to mix",dough,mīcit,mīkla
+20637,shift6049,Polysemy,6,ACCEPTED,→,to forge,2652,to shoe (horses),3148,Latvian,140,Latvian,140,to forge,to shoe (horses),kalt,kalt
+20858,shift0034,Polysemy,126,ACCEPTED,→,to hear / to listen,2759,to obey,2943,Lithuanian,126,Lithuanian,126,to hear / to listen,to obey,klausýti,klausýti
+21111,shift2090,Polysemy,1,ACCEPTED,?,"to strike, hit",3234,to move quickly,2930,Lithuanian,126,Lithuanian,126,"to beat, to hit",to walk fast (colloq.),démžti,démžti
+21112,shift2090,Polysemy,2,ACCEPTED,?,"to strike, hit",3234,to move quickly,2930,Lithuanian,126,Lithuanian,126,"to whip, to flog",to walk fast,dýžti,dýžti
+21140,shift6662,Polysemy,8,ACCEPTED,→,sea,3970,"many, much",584,Latvian,140,Latvian,140,sea,very large quantity or amount (of something),jūra,jūra
+21326,shift1178,Derivation,5,ACCEPTED,?,crane (Grus),1129,cranberry (Oxycoccus),1128,Latvian,140,Latvian,140,crane,cranberry,dzërve,dzërvene
+21460,shift1116,Polysemy,5,ACCEPTED,→,to bark,2250,to quarrel,3035,Lithuanian,126,Lithuanian,126,to bark,to scold,lóti,lóti
+21532,shift5815,Polysemy,8,ACCEPTED,→,rainbow,1421,iris (anatomy),1805,Latvian,140,Latvian,140,rainbow,iris (anatomy),varavīksne,varavīksnene
+21706,shift0482,Polysemy,9,ACCEPTED,?,mouth,735,"opening, hole",4551,Latvian,140,Latvian,140,mouth,"mouth (stove), jointer plane opening",mute,mute
+21768,shift6119,Derivation,4,ACCEPTED,→,fifth,1275,Friday,1378,Latvian,140,Latvian,140,fifth,Friday,piektais,Piektdiena
+21775,shift6119,Derivation,11,ACCEPTED,→,fifth,1275,Friday,1378,Lithuanian,126,Lithuanian,126,fifth,Friday,penkta,penktadienis
+21791,shift2672,Derivation,4,ACCEPTED,→,plant (biol.),398,(gun)powder,758,Latvian,140,Latvian,140,"grass, plant",gunpowder,zāle,bi(s)zāles (pl.)
+22079,shift6467,Derivation,8,ACCEPTED,→,cricket (insect),1136,mole cricket (Gryllotalpa),695,Latvian,140,Latvian,140,cricket (insect),mole cricket (Gryllotalpa),circenis,racējcircenis
+22415,shift2089,Polysemy,2,ACCEPTED,?,dust,4503,pollen,433,Lithuanian,126,Lithuanian,126,dust,pollen,dùlkės,dùlkės
+22454,shift0923,Derivation,3,ACCEPTED,?,"naked, bare",1819,bald,3504,Lithuanian,126,Lithuanian,126,naked,"bald head, calvity",plikas,plei~ke
+22748,shift6038,Derivation,3,ACCEPTED,→,first,1297,Monday,698,Latvian,140,Latvian,140,first,Monday,pirmais,pirmdiena
+22752,shift6038,Derivation,7,ACCEPTED,→,first,1297,Monday,698,Lithuanian,126,Lithuanian,126,first,Monday,pirma,pirmadienis
+22765,shift1539,Polysemy,9,ACCEPTED,→,cross (n.),1142,clubs (in cards),1015,Latvian,140,Latvian,140,cross (n.),clubs (in cards),krusts,krusts
+22774,shift2730,Polysemy,6,ACCEPTED,—,to cut,2484,to mow grass,2934,Lithuanian,126,Lithuanian,126,to cut,to mow,pjauti,pjauti
+22781,shift2629,Derivation,1,ACCEPTED,→,field,1271,on the outside,4541,Lithuanian,126,Lithuanian,126,field,outside,laũkas,laukè
+22815,shift0856,Polysemy,30,ACCEPTED,→,moon,708,month,706,Lithuanian,126,Lithuanian,126,moon,month,mėnuo,mėnuo
+22979,shift0856,Cognates,194,NEW,→,moon,708,month,706,Latvian,140,Latvian,140,moon,month,mēness,mēnesis
+23266,shift2773,Derivation,1,NEW,→,to shoot,3149,shuttle (weaving instrument),4061,Lithuanian,126,Lithuanian,126,to shoot,shuttle,šádyti,šaudyklė
+23557,shift5806,Derivation,6,ACCEPTED,→,net (n.),1848,retina,1466,Latvian,140,Latvian,140,"net, toils, network",retina,tīkls,tīklene
+23633,shift1171,Polysemy,22,ACCEPTED,→,heart,1588,location of emotions,239,Lithuanian,126,Lithuanian,126,heart,location of emotions,širdis,širdis
+23822,shift7601,Polysemy,1,NEW,→,pigeon (Columba),370,April,2021,Lithuanian,126,Lithuanian,126,"pigeon, dove",April,balañdis,balañdis
+23945,shift7186,Motivation,5,ACCEPTED,→,substitution,4318,pronoun,475,Latvian,140,Latvian,140,"replacement, substitute",pronoun,vietnieks,vietniekvārds
+24070,shift3287,Polysemy,1,ACCEPTED,→,yoke,2085,yoke (figuratively),2086,Lithuanian,126,Lithuanian,126,yoke,NA,jùngas,jùngas
+24271,shift0055,Polysemy,13,ACCEPTED,?,sharp,4022,spicy,4198,Lithuanian,126,Lithuanian,126,sharp,spicy,aštrùs,aštrùs
+24376,shift5092,Polysemy,4,ACCEPTED,→,"idler, loafer",1736,sloth (South American mammal),4119,Latvian,140,Latvian,140,lazy person,sloth (South American mammal),sliņķis,sliņķis
+24394,shift5092,Polysemy,22,ACCEPTED,→,"idler, loafer",1736,sloth (South American mammal),4119,Lithuanian,126,Lithuanian,126,"laziness, lazy person, idler, loafer",sloth (South American mammal),tinginys,tinginys
+24576,shift5614,Derivation,7,ACCEPTED,→,right (vs. left),1481,right (political),1480,Latvian,140,Latvian,140,right (vs. left),"(politics) right-wing, conservative (opposed to progressive, left-wing politics)",labs,labējs
+25133,shift0005,Polysemy,1,ACCEPTED,—,"to go, walk",2715,to find,2627,Lithuanian,126,Lithuanian,126,to go round,to find,apeíti,apeíti
+25248,shift0875,Polysemy,5,ACCEPTED,→,black,3610,"vulgar, common",3784,Lithuanian,126,Lithuanian,126,dark,"mob, populace",tamsùs,tamsuõliai
+25312,shift3974,Polysemy,2,ACCEPTED,→,fisherman,1302,osprey (Pandion haliaёtus),4565,Lithuanian,126,Lithuanian,126,fisherman,osprey (Pandion haliaёtus),žuvininkas,žuvininkas
+25335,shift6120,Derivation,2,ACCEPTED,→,sixth,4094,Saturday,3945,Latvian,140,Latvian,140,sixth,Saturday,sestais,Sestdiena
+25336,shift6120,Derivation,3,ACCEPTED,→,sixth,4094,Saturday,3945,Lithuanian,126,Lithuanian,126,sixth,Saturday,šešta,šeštadienis
+25419,shift0241,Polysemy,3,ACCEPTED,?,"to present, gift",3001,to forgive,2654,Lithuanian,126,Lithuanian,126,"to give, to donate",to forgive,dovanóti,dovanóti
+25672,shift1143,Polysemy,4,ACCEPTED,—,round (adj.),1511,entire,3846,Lithuanian,126,Lithuanian,126,round,"whole, entire",ãpskritas,ãpskritas
+25678,shift2736,Polysemy,2,ACCEPTED,→,to rub,3100,to wash (clothes),3356,Lithuanian,126,Lithuanian,126,to rub,to wash,trìnti,trìnti
+26020,shift8174,Derivation,5,ACCEPTED,—,common jasmine,1055,mock-orange,687,Lithuanian,126,Lithuanian,126,common jasmine,mock-orange,jazmináitis,jazmìnas
+26172,shift2094,Polysemy,1,NEW,?,sharp,4022,severe (about pain),4002,Lithuanian,126,Lithuanian,126,NA,NA,aštrùs,aštrùs
+26382,shift6392,Derivation,3,ACCEPTED,→,sun,4333,moderlieschen,690,Lithuanian,126,Lithuanian,126,sun,moderlieschen,sáulė,saulažuvė
+26468,shift4263,Derivation,51,ACCEPTED,→,nameless,1821,ring finger,1483,Lithuanian,126,Lithuanian,126,nameless,ring finger,bevardis,bevardis pirštas
+26686,shift2419,Polysemy,1,NEW,→,elm,3829,beech,3557,Latvian,140,Latvian,140,elm tree,beech,vīksna,vīksna
+26776,shift1667,Derivation,3,ACCEPTED,→,rooster,1497,chanterelle,942,Lithuanian,126,Lithuanian,126,rooster,chanterelle,gaidy˜s,gaidùkas
+26782,shift1667,Derivation,9,NEW,→,rooster,1497,chanterelle,942,Latvian,140,Latvian,140,rooster,chanterelle,gailis,gailene
+26952,shift2357,Derivation,3,ACCEPTED,→,father,1242,parents,302,Lithuanian,126,Lithuanian,126,father,parents,tévas,tėvaĩ
+27048,shift1413,Polysemy,3,ACCEPTED,→,sharp,4022,"keen (of senses, mind)",1704,Lithuanian,126,Lithuanian,126,sharp,island,aštrùs,aštrùs
+27157,shift7163,Polysemy,2,NEW,→,cuckoo,1154,May,609,Lithuanian,126,Lithuanian,126,cuckoo,May,gegužė̃,gegužė̃
+27242,shift2375,Polysemy,1,NEW,→,"to spring, jump",3201,to copulate,2462,Lithuanian,126,Lithuanian,126,to jump,"to mate, to copulate",žáisti,žáisti
+27268,shift1398,Derivation,3,ACCEPTED,→,cat,905,catnip (Nepeta cataria),913,Lithuanian,126,Lithuanian,126,NA,Nepeta cataria,katė,katžolė
+27565,shift2097,Polysemy,2,ACCEPTED,?,to cut,2484,to blunt,2359,Lithuanian,126,Lithuanian,126,"to chop off, to clip",to abate (smth sharp),atkir˜sti,atkir˜sti
+27566,shift2097,Polysemy,3,ACCEPTED,?,to cut,2484,to blunt,2359,Lithuanian,126,Lithuanian,126,to cut (with a blunt knife),to abate (smth sharp),atbrìzinti,atbrìzinti
+27879,shift1374,Derivation,5,ACCEPTED,→,&lt;thorny plant&gt;,2101,goldfinch (Carduelis),812,Lithuanian,126,Lithuanian,126,thistle,goldfinch,dagy˜s,dagìlis
+27997,shift0071,Polysemy,2,ACCEPTED,—,part,306,destiny,4419,Lithuanian,126,Lithuanian,126,share,destiny,dalìs,dalìs
+28114,shift0068,Derivation,94,NEW,—,morning,712,tomorrow,3398,Latvian,140,Latvian,140,morning,tomorrow,rīts,rīt
+28115,shift0068,Derivation,95,NEW,—,morning,712,tomorrow,3398,Lithuanian,126,Lithuanian,126,morning,tomorrow,rýtas,rytoj
+28206,shift3401,Derivation,16,ACCEPTED,→,frog,1384,"tortoise, turtle",3414,Latvian,140,Latvian,140,frog,"tortoise, turtle",rupucis,bruņurupucis
+28414,shift8129,Internal cognates,1,ACCEPTED,→,birch,3592,June,1200,Lithuanian,126,Lithuanian,126,birch,June,beržas,biržẽlis
+28722,shift0633,Derivation,8,ACCEPTED,→,copper,1093,brass,3674,Lithuanian,126,Lithuanian,126,copper,brass,vãris,žalvaris
+28838,shift0513,Polysemy,4,ACCEPTED,?,mane,578,"mountain ridge, edge",731,Lithuanian,126,Lithuanian,126,nape,mountain range,keterà,keterà
+28970,shift8402,Polysemy,3,ACCEPTED,→,shive,4041,October,4521,Lithuanian,126,Lithuanian,126,shive,October,spãlis,spãlis
+29239,shift0411,Polysemy,5,ACCEPTED,—,wheel,54,vehicle,3753,Latvian,140,Latvian,140,wheel,carriage,rats,rats
+29407,shift2385,Derivation,1,ACCEPTED,→,to croak,2476,to predict misfortune,2998,Lithuanian,126,Lithuanian,126,to croak,"to croak, to draw down (trouble)",krañkti,iškrañkti (bėdą)
+29807,shift1865,Polysemy,2,NEW,?,to go around,2699,to deceive,2494,Lithuanian,126,Lithuanian,126,to wrap; to make a circle,to deceive,apsùkti,apsùkti
+30215,shift2731,Polysemy,2,ACCEPTED,—,"board, plank",3638,"table, desk",2107,Latvian,140,Latvian,140,piece of board,table,galds,galds
+30357,shift2111,Polysemy,4,ACCEPTED,?,rooster,1497,bully,3718,Lithuanian,126,Lithuanian,126,rooster,bully,gaidy˜s,gaidy˜s
+30469,shift1727,Derivation,2,ACCEPTED,?,cucumber,1155,bourrache (Borago),3658,Lithuanian,126,Lithuanian,126,cucumber,common borage,agur˜kas,agur˜klė
+30626,shift2480,Derivation,1,ACCEPTED,→,"firm, solid",1296,fortress,1353,Lithuanian,126,Lithuanian,126,firm,fortress,tvirtas,tvirtovė
+30629,shift2480,Derivation,4,ACCEPTED,→,"firm, solid",1296,fortress,1353,Latvian,140,Latvian,140,"hard, firm",fortress,ciets,cietuoksnis
+30715,shift0067,Polysemy,1,ACCEPTED,—,"light, bright, clear",212,comprehensible,1074,Lithuanian,126,Lithuanian,126,"light, clear",clear,áiškus,áiškus
+30747,shift1726,Derivation,4,ACCEPTED,→,eye,3890,eyebright (Euphrasia officinalis),3896,Lithuanian,126,Lithuanian,126,eye,eyebright,akís,akišveitė
+30856,shift7477,Derivation,5,ACCEPTED,→,fish,1300,osprey (Pandion haliaёtus),4565,Latvian,140,Latvian,140,fish,osprey (Pandion haliaёtus),zivs,zivjērglis
+30886,shift5625,Derivation,2,ACCEPTED,→,cow,1122,ladybird,145,Lithuanian,126,Lithuanian,126,cow,ladybird,karvytė,dievo karvytė
+31073,shift7448,Polysemy,23,ACCEPTED,→,knot,1723,unit of speed,529,Latvian,140,Latvian,140,knot,unit of speed,mezgls,mezgls
+31074,shift7448,Polysemy,24,ACCEPTED,→,knot,1723,unit of speed,529,Lithuanian,126,Lithuanian,126,knot,unit of speed,mazgas,mazgas
+31231,shift6903,Derivation,1,NEW,→,wave,26,whale,51,Lithuanian,126,Lithuanian,126,wave,whale,bangà,banginis
+31382,shift6117,Derivation,2,ACCEPTED,→,third,2175,Wednesday,39,Latvian,140,Latvian,140,third,Wednesday,trešo,trešdiena
+31387,shift6117,Derivation,7,ACCEPTED,→,third,2175,Wednesday,39,Lithuanian,126,Lithuanian,126,third,Wednesday,trečia,trečiadienis
+31411,shift6116,Derivation,5,ACCEPTED,→,second (num.),3979,Tuesday,3458,Latvian,140,Latvian,140,second (num.),Tuesday,ùotrs,uotrdiena
+31422,shift6116,Derivation,16,ACCEPTED,→,second (num.),3979,Tuesday,3458,Lithuanian,126,Lithuanian,126,second (num.),Tuesday,antra,antradienis
+31693,shift8432,Polysemy,6,ACCEPTED,→,ram,1425,Aries,2026,Latvian,140,Latvian,140,ram,Aries,auns,Auns
+31694,shift8432,Polysemy,7,ACCEPTED,→,ram,1425,Aries,2026,Lithuanian,126,Lithuanian,126,ram,Aries,ãvinas,ãvinas

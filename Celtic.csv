@@ -1,0 +1,278 @@
+﻿ID,Shift_ID,Type,Realization,Status,Direction,Source_Concept,Source_Concept_ID,Target_Concept,Target_Concept_ID,Source_Language,Source_Language_ID,Target_Language,Target_Language_ID,Source_Meaning,Target_Meaning,Source_Word,Target_Word
+44,shift2655,Derivation,1,NEW,—,grass,833,hair,1541,Welsh,208,Welsh,208,grass,hair,gwellt,gwallt
+63,shift4444,Polysemy,1,ACCEPTED,→,swallow (bird),4353,shuttle (weaving instrument),4061,Welsh,208,Welsh,208,"swallow, martin",weaver's shuttle,gwennol,gwennol
+100,shift4373,Polysemy,12,ACCEPTED,—,letter (character),199,letter (text),200,Irish Gaelic,210,Irish Gaelic,210,letter (character),"letter (missive, epistle)",litir,litir
+103,shift4373,Polysemy,15,ACCEPTED,—,letter (character),199,letter (text),200,Scottish Gaelic,863,Scottish Gaelic,863,letter (character),letter (text),litir,litir
+104,shift4373,Polysemy,16,ACCEPTED,—,letter (character),199,letter (text),200,Welsh,208,Welsh,208,"letter (in writing, printing, &c.), (graphic symbol representing) speech-sound, letter of the alphabet, character; piece of type (in printing)","letter, epistle, written or printed document",llythyr,llythyr
+116,shift7393,Polysemy,1,ACCEPTED,→,light (of weight),211,"light, bright, clear",212,Irish Gaelic,210,Irish Gaelic,210,light (of weight),"light, bright, clear",éadrom,éadrom
+306,shift4986,Polysemy,14,ACCEPTED,—,sheath,4026,vagina,3745,Welsh,208,Welsh,208,sheath,vagina,gwain,gwain
+309,shift4986,Polysemy,17,ACCEPTED,—,sheath,4026,vagina,3745,Scottish Gaelic,863,Scottish Gaelic,863,sheath,vagina,duille,duille
+408,shift4163,Polysemy,8,ACCEPTED,→,glass (material),791,spectacles,4192,Welsh,208,Welsh,208,glass (material),"reading-glass, spectacle lens, (in pl.) glasses, pair of spectacles",gwydr,gwydr
+447,shift0065,Polysemy,10,ACCEPTED,?,noon,1875,South,4179,Breton,209,Breton,209,"noon, midday",South,kreisteiz,kreisteiz
+748,shift6329,Polysemy,11,NEW,←,fame,1224,name,1820,Irish Gaelic,210,Irish Gaelic,210,"fame, reputation",name,ainm,ainm
+993,shift4804,Polysemy,2,ACCEPTED,—,member of a retinue,632,husband,1694,Breton,209,Breton,209,servant,husbond,gwaz,gwaz
+1018,shift0804,Derivation,3,ACCEPTED,→,grass,833,green,845,Welsh,208,Welsh,208,green,grass,glas,glasgwellt
+1154,shift0130,Polysemy,20,NEW,→,Jupiter,1203,Thursday,2191,Welsh,208,Welsh,208,Jupiter,Thursday,Iau,Iau
+1155,shift0130,Polysemy,21,NEW,→,Jupiter,1203,Thursday,2191,Welsh,208,Welsh,208,Jupiter,Thursday,Iau,Iau
+1262,shift3451,Polysemy,4,ACCEPTED,→,"naked, bare",1819,"only, just",4547,Irish Gaelic,210,Irish Gaelic,210,"naked, bare","only, just",lom,lom
+1291,shift8394,Derivation,2,ACCEPTED,→,old (vs. new),4532,historical tale,1631,Old Irish,229,Old Irish,229,old (vs. new),history,sen,senchas
+1375,shift2665,Derivation,5,ACCEPTED,→,pig (Sus scrofa),369,badger (Meles),3501,Welsh,208,Welsh,208,pigs,badgers,moch,daearfoch
+1428,shift0851,Derivation,20,ACCEPTED,→,heavy (of weight),1594,pregnant,456,Welsh,208,Welsh,208,"burden, load",pregnant,baich,beichiog
+1588,shift6858,Derivation,6,ACCEPTED,→,&lt;foreign country&gt;,1209,turkey,3465,Scottish Gaelic,863,Scottish Gaelic,863,French,turkey,Frangach,eun-Frangach
+1982,shift5552,Derivation,6,ACCEPTED,→,squirrel (Sciurus),4237,Siberian flying squirrel,4064,Irish Gaelic,210,Irish Gaelic,210,squirrel (Sciurus),Siberian flying squirrel,iora,iora eitilte
+2392,shift0261,Semantic evolution,2,ACCEPTED,—,thief,2169,adulterer,1946,Old Irish,229,Old Irish,229,thief,adulterer,taide,taide
+2620,shift3318,Polysemy,6,ACCEPTED,→,hand/arm,1550,handwriting,1553,Irish Gaelic,210,Irish Gaelic,210,hand,handwriting,lámh,lámh
+2698,shift5227,Polysemy,11,ACCEPTED,→,grandfather,826,ancestor,1990,Welsh,208,Welsh,208,grandfather,"forefather, ancestor",taid,taid
+3013,shift0677,Derivation,7,ACCEPTED,→,tailor&#39;s thimble,2116,foxglove (Digitalis L.),1361,Irish Gaelic,210,Irish Gaelic,210,tailor's thimble,purple foxglove,méaracán,méaracán dearg
+3032,shift0630,Polysemy,10,ACCEPTED,→,glass (material),791,window,89,Welsh,208,Welsh,208,glass (material),window,gwydr,gwydr
+3120,shift8637,Derivation,5,NEW,→,seven,3999,Pleiades,410,Scottish Gaelic,863,Scottish Gaelic,863,seven,Pleiades,seachd,Na Seachd-Reultan
+3263,shift0007,Semantic evolution,21,NEW,→,"to turn, rotate (intr.)",3327,to become,2312,Irish Gaelic,210,Irish Gaelic,210,"to turn, rotate (intr.)",to become,iompaigh,iompaigh
+3328,shift3854,Polysemy,1,ACCEPTED,→,to deprive,2509,to steal,3220,Old Irish,229,Old Irish,229,to deprive,to steal,gataid,gataid
+3453,shift2044,Polysemy,7,ACCEPTED,—,thick,2167,"dense, thick (liquid)",4414,Welsh,208,Welsh,208,thick (in dimension),thick (in density),tew,tew
+3638,shift0035,Semantic evolution,26,NEW,→,to see/to look at,3121,to have opinion,2752,Irish Gaelic,210,Irish Gaelic,210,to see/to look at,to have opinion,feic,feic
+3672,shift6859,Motivation,9,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea pig (Cavia porcellus),860,Irish Gaelic,210,Irish Gaelic,210,Guinea (a country in West Africa),guinea pig (Cavia porcellus),An Ghuine,muc ghuine
+3771,shift0796,Derivation,7,ACCEPTED,→,to carry,2401,pregnant,456,Breton,209,Breton,209,bear,pregnant,dougen,dougarez
+3874,shift5893,Derivation,6,ACCEPTED,→,milk,657,Milky Way,659,Welsh,208,Welsh,208,milk,Milky Way,llaeth,Llwybr Llaethog
+4153,shift4085,Polysemy,2,NEW,→,eyebrow,3897,"edge, border",3810,Welsh,208,Welsh,208,eyebrow,"edge, brow (of a hill)",ael,ael
+4402,shift0220,Polysemy,8,NEW,→,strong,4304,strong (of liquid or smell),4305,Irish Gaelic,210,Irish Gaelic,210,strong,strong (of liquid or smell),laidir,laidir
+4662,shift1163,Polysemy,1,ACCEPTED,—,to work,3380,to plough,2986,Irish Gaelic,210,Irish Gaelic,210,to work,to plough,oibrighim,oibrighim
+4666,shift1163,Polysemy,5,ACCEPTED,→,to work,3380,to plough,2986,Irish Gaelic,210,Irish Gaelic,210,"labor, toil",cultivate,saothraigh,saothraigh
+4751,shift0412,Derivation,1,ACCEPTED,→,to emit smoke,2572,to smoke (tobacco),3180,Welsh,208,Welsh,208,smoke,tobacco,myg,mygglys
+4814,shift7291,Motivation,1,ACCEPTED,→,dark (adj.),4382,December,4401,Scottish Gaelic,863,Scottish Gaelic,863,dark (adj.),December,dubh,an Dùbhlachd
+4815,shift7291,Polysemy,2,ACCEPTED,→,dark (adj.),4382,December,4401,Breton,209,Breton,209,very black,December,kerzu,Kerzu
+5003,shift1700,Derivation,5,ACCEPTED,→,"to live, be alive",2855,animal,1999,Irish Gaelic,210,Irish Gaelic,210,to live,animal,bēo,beathaidheach
+5043,shift0001,Semantic evolution,14,NEW,→,"to calculate, count",2393,to take into account,3272,Irish Gaelic,210,Irish Gaelic,210,"to calculate, count",to take into account,comhair,comhair
+5151,shift7305,Motivation,3,ACCEPTED,→,summer,4330,July,1198,Welsh,208,Welsh,208,summer,July,haf,Gorffennaf
+5252,shift0918,Polysemy,1,ACCEPTED,?,left,183,North,1877,Breton,209,Breton,209,left,northern,kleiz,kleiz
+5257,shift0918,Polysemy,6,ACCEPTED,—,left,183,North,1877,Old Irish,229,Old Irish,229,left,North,túath,túath
+5356,shift5915,Polysemy,4,ACCEPTED,—,lost,256,dead (adj.),4394,Irish Gaelic,210,Irish Gaelic,210,to lose,to die,caill,caill
+5487,shift1521,Polysemy,8,NEW,→,head,1578,one piece (at counting),4544,Irish Gaelic,210,Irish Gaelic,210,head,one piece (at counting),ceann,ceann
+5586,shift8106,Motivation,17,ACCEPTED,→,pig (Sus scrofa),369,guinea pig (Cavia porcellus),860,Irish Gaelic,210,Irish Gaelic,210,pig (Sus scrofa),guinea pig (Cavia porcellus),muc,muc ghuine
+5654,shift4012,Polysemy,9,ACCEPTED,→,glass (material),791,drinking vessel,4481,Welsh,208,Welsh,208,glass (material),"glass vessel, esp. drinking-glass, wineglass, goblet",gwydr,gwydr
+5768,shift1960,Polysemy,16,ACCEPTED,→,soldier,4154,pawn (in chess),320,Irish Gaelic,210,Irish Gaelic,210,"(hist.)  Foot-soldier, light-armed soldier",pawn (in chess),ceithearnach,ceithearnach
+5880,shift8302,Polysemy,2,ACCEPTED,→,&lt;religious festival&gt;,1408,August,2054,Old Irish,229,Old Irish,229,"Celtic holiday celebrated on the full moon nearest the midpoint between the summer solstice and autumnal equinox, during the time of the harvesting",August,Lugnasad,Lugnasad
+5891,shift6724,Polysemy,8,ACCEPTED,→,bridge,3689,bridge (of musical imstrument),3690,Irish Gaelic,210,Irish Gaelic,210,bridge,bridge (of musical imstrument),droichead,droichead
+5930,shift2465,Polysemy,3,ACCEPTED,→,tree,3432,spear,4191,Old Irish,229,Old Irish,229,tree,spear,crann,crann
+6001,shift8170,Motivation,2,NEW,→,fire (accident),1287,willowherb,87,Irish Gaelic,210,Irish Gaelic,210,fire (accident),willowherb,tine,lus tine
+6730,shift7286,Motivation,1,ACCEPTED,→,short (size),4048,December,4401,Welsh,208,Welsh,208,"short (of a person, of comparatively little height); brief, concise",December,byr,Rhagfyr
+6816,shift5676,Polysemy,5,ACCEPTED,→,room,1496,cell (in biology),924,Irish Gaelic,210,Irish Gaelic,210,room (of monastery),cell (in biology),cill,cill
+6818,shift5676,Derivation,7,ACCEPTED,—,room,1496,cell (in biology),924,Manx,895,Manx,895,room (of monastery),cell (in biology),keeill,killag
+6960,shift6469,Derivation,1,ACCEPTED,→,cat,905,mole cricket (Gryllotalpa),695,Breton,209,Breton,209,cat,mole cricket (Gryllotalpa),kazh,kazh-prad
+7086,shift8453,Derivation,10,ACCEPTED,→,whip,57,flagellum,1309,Irish Gaelic,210,Irish Gaelic,210,whip,flagellum,lasc,"lascghéagán, lascnaid"
+7249,shift6519,Derivation,23,ACCEPTED,→,horse,1661,hippopotamus,1630,Welsh,208,Welsh,208,horse (Equus caballus),hippopotamus,march,afonfarch
+7250,shift6519,Derivation,24,ACCEPTED,→,horse,1661,hippopotamus,1630,Irish Gaelic,210,Irish Gaelic,210,(archaic) horse,hippopotamus,each,dobhareach
+7324,shift5558,Polysemy,8,ACCEPTED,→,"wild, untamed",82,very,3761,Welsh,208,Welsh,208,"living in its natural state (of animal, bird, &c.), wild, as opposed to tame; easily frightened, timid; untamed, not domesticated, not broken in, unmanageable (of horse, &c.); angry, furious, fierce","acute (of pain, &c.), malignant, violent, in full swing, ‘furious’ (of trouble, war, &c.), rampant, raging, rife (of disease)",gwyllt,gwyllt
+7325,shift5558,Polysemy,9,ACCEPTED,→,"wild, untamed",82,very,3761,Old Irish,229,Old Irish,229,"wild, untamed",very,baeth,baeth
+7346,shift2394,Polysemy,1,NEW,?,to kill,2820,to fight (war),2624,Welsh,208,Welsh,208,"kill, slay",to fight,llad,ymllad
+7381,shift3303,Polysemy,12,ACCEPTED,→,"lead, plumbum",173,pencil,341,Manx,895,Manx,895,"lead, plumbum",pencil,leoaie,penn leoaie
+7382,shift3303,Derivation,13,ACCEPTED,→,"lead, plumbum",173,pencil,341,Irish Gaelic,210,Irish Gaelic,210,"lead, plumbum",pencil,luaidhe,peann luaidhe
+7507,shift1635,Derivation,1,ACCEPTED,→,belly,3572,pregnant,456,Irish Gaelic,210,Irish Gaelic,210,"rear part, belly",pregnant,tarr,torrach
+7627,shift0008,Semantic evolution,16,NEW,→,to know,2826,to know how,2827,Irish Gaelic,210,Irish Gaelic,210,to know,to know how,eolas,eolas
+7968,shift5012,Derivation,11,ACCEPTED,→,place,392,instead of,1790,Irish Gaelic,210,Irish Gaelic,210,place,instead of,ionad,in ionad
+7971,shift5012,Derivation,14,ACCEPTED,→,place,392,instead of,1790,Welsh,208,Welsh,208,"place, location",instead of,lle,yn lle
+7978,shift2393,Derivation,5,ACCEPTED,→,"to strike, hit",3234,to fight (war),2624,Breton,209,Breton,209,to hit,to fight,kanna,en em ganna
+7999,shift0061,Borrowing,16,NEW,→,straight,4292,correct (adj.),1105,Irish Gaelic,210,Irish Gaelic,210,straight,correct (adj.),direach,direach
+8250,shift5794,Polysemy,2,ACCEPTED,—,pearl,329,cataract (of the eye),909,Welsh,208,Welsh,208,pearl,cataract (of the eye),perl,perl
+8298,shift0878,Polysemy,2,ACCEPTED,—,cattle,914,"property, possessions",478,Welsh,208,Welsh,208,cattle,goods,da,da
+8300,shift0878,Polysemy,4,ACCEPTED,—,cattle,914,"property, possessions",478,Irish Gaelic,210,Irish Gaelic,210,cattle,"goods, possessions, furniture",airnēis,airnēis
+8312,shift0878,Polysemy,16,ACCEPTED,—,cattle,914,"property, possessions",478,Old Irish,229,Old Irish,229,cattle,possessions,indile,indile
+8313,shift0878,Derivation,17,ACCEPTED,—,cattle,914,"property, possessions",478,Welsh,208,Welsh,208,cattle,"worth, value",gwartheg,gwerth
+8557,shift6799,Derivation,4,ACCEPTED,→,short (size),4048,February,1252,Scottish Gaelic,863,Scottish Gaelic,863,short (size),February,gearr,an Gearran
+8607,shift3872,Polysemy,10,ACCEPTED,→,father,1242,&lt;priest&gt;,279,Irish Gaelic,210,Irish Gaelic,210,father,priest,athair,athair
+8818,shift0919,Polysemy,9,ACCEPTED,→,"to raise, lift (tr.)",3037,to build,2383,Irish Gaelic,210,Irish Gaelic,210,"to lift, raise; take up, take",to build,tóg,tóg
+8824,shift0919,Polysemy,15,ACCEPTED,→,"to raise, lift (tr.)",3037,to build,2383,Breton,209,Breton,209,to raise,to build,sevel,sevel
+9479,shift5020,Polysemy,3,NEW,→,"human, person",1683,husband,1694,Breton,209,Breton,209,person,husband,den,den
+9499,shift8230,Motivation,2,ACCEPTED,→,mallow,573,hollyhock,1638,Breton,209,Breton,209,mallow,(non-standard) hollyhock,malv,roz-malv
+9617,shift5480,Polysemy,15,ACCEPTED,→,to gnaw,2696,to cause moral suffering,2411,Welsh,208,Welsh,208,"to bite, gnaw, chew","to torment, worry, fret, vex (of guilty conscience or remorse, of envy, malice, &c.)",cnoaf,cnoaf
+9618,shift5480,Polysemy,16,ACCEPTED,→,to gnaw,2696,to cause moral suffering,2411,Irish Gaelic,210,Irish Gaelic,210,to gnaw,to cause moral suffering,creim,creim
+9680,shift8025,Derivation,4,ACCEPTED,→,silver,4081,mercury,640,Breton,209,Breton,209,silver,mercury,arc&#39;hant,arc&#39;hant-bev
+9758,shift5556,Derivation,9,ACCEPTED,→,squirrel (Sciurus),4237,common chipmunk,1051,Scottish Gaelic,863,Scottish Gaelic,863,squirrel (Sciurus),common chipmunk,feòrag,feòrag-stiallach
+9964,shift1704,Derivation,1,ACCEPTED,?,to run,3101,ram,1425,Old Irish,229,Old Irish,229,to run,ram,reithe,rethim
+10065,shift7811,Derivation,6,ACCEPTED,→,gold,807,pyrite,500,Irish Gaelic,210,Irish Gaelic,210,gold,pyrite,ór,bréagór
+10103,shift8153,Motivation,1,ACCEPTED,→,young,2089,June,1200,Scottish Gaelic,863,Scottish Gaelic,863,young,June,òg,Ògmhios
+10314,shift0437,Polysemy,9,ACCEPTED,—,horn,1657,corner,1100,Breton,209,Breton,209,horn,corner,korn,korn
+10438,shift0233,Derivation,2,ACCEPTED,—,long (period of time),245,long ago,248,Irish Gaelic,210,Irish Gaelic,210,long,long ago,fada,fadó
+10442,shift2359,Derivation,4,ACCEPTED,→,to give birth,2693,parents,302,Old Irish,229,Old Irish,229,"bear, beget",parents,do-fuismim,tuistidi
+10447,shift2359,Derivation,9,ACCEPTED,→,to give birth,2693,parents,302,Welsh,208,Welsh,208,be born,parents,geni,rhieni
+10591,shift2477,Derivation,3,ACCEPTED,→,"country, land",1109,farmer,1235,Old Irish,229,Old Irish,229,"inhabited land, country, district","landowner, farmer, yeoman",bruig,briugu
+10640,shift2108,Polysemy,1,ACCEPTED,→,amber,1984,electricity,3826,Welsh,208,Welsh,208,amber,electricity,gwefr,gwefr
+10817,shift1382,Polysemy,7,NEW,→,"edge, border",3810,"country, land",1109,Irish Gaelic,210,Irish Gaelic,210,"edge, border, end","country, land",crioch,crioch
+10825,shift2404,Polysemy,1,ACCEPTED,→,autumn,2063,harvest,1565,Irish Gaelic,210,Irish Gaelic,210,autumn,harvest,fómhar,fómhar
+10826,shift2404,Semantic evolution,2,ACCEPTED,→,autumn,2063,harvest,1565,Welsh,208,Welsh,208,autumn,harvest,cynhaeaf,cynhaeaf
+10912,shift2475,Derivation,1,ACCEPTED,→,to lie (posture),2848,ambush,1986,Irish Gaelic,210,Irish Gaelic,210,act of lying,ambush,luighe,luigheachān
+10947,shift3753,Polysemy,6,ACCEPTED,—,breathing,3683,smell (n.),4128,Breton,209,Breton,209,breath,smell,c’hwez,c’hwez
+11404,shift3962,Semantic evolution,1,ACCEPTED,→,old woman,4536,"witch, sorceress",100,Cornish,542,Cornish,542,old woman,witch,gwragh,gwragh
+11406,shift3962,Polysemy,3,ACCEPTED,→,old woman,4536,"witch, sorceress",100,Irish Gaelic,210,Irish Gaelic,210,"nun, old woman, hag; midwife",witch,cailleach,cailleach
+11448,shift8457,Derivation,1,ACCEPTED,—,yoke,2085,marriage,595,Old Irish,229,Old Irish,229,yoke,marriage,mam,com-mam
+11525,shift6508,Derivation,2,ACCEPTED,→,gold,807,rose chafer,1507,Breton,209,Breton,209,gold,rose chafer,aour,c&#39;hwil-aour
+11579,shift8503,Polysemy,1,ACCEPTED,→,black,3610,November,1888,Breton,209,Breton,209,black,November,du,Du
+11649,shift0133,Polysemy,20,NEW,→,Mercury,639,Wednesday,39,Welsh,208,Welsh,208,Mercury,Wednesday,Mercher,Mercher
+11659,shift4007,Polysemy,7,ACCEPTED,→,father,1242,male (animal),571,Irish Gaelic,210,Irish Gaelic,210,father,sire (breed),athair,athair
+11717,shift2398,Polysemy,1,NEW,→,"miserable, unhappy",680,"dear, darling",4397,Breton,209,Breton,209,"unfortunate, miserable",dear (= beloved),kaez,kaez
+11732,shift6133,Derivation,8,ACCEPTED,→,rain,1420,umbrella,504,Irish Gaelic,210,Irish Gaelic,210,rain,umbrella,fearthainn,scáth fearthainne
+11749,shift2648,Polysemy,5,ACCEPTED,→,chaff,934,useless thing,550,Irish Gaelic,210,Irish Gaelic,210,chaff,"worthless matter, dross",lóchán,lóchán
+11800,shift5778,Polysemy,1,ACCEPTED,→,"mist, fog",683,cataract (of the eye),909,Welsh,208,Welsh,208,patch of mist or haze,cataract (of the eye),niwlen,niwlen
+12274,shift7188,Polysemy,2,ACCEPTED,→,slaughter,4110,November,1888,Welsh,208,Welsh,208,slaughtering,November,tachwedd,Tachwedd
+12488,shift0203,Polysemy,8,NEW,—,jealous,1180,envious,3848,Irish Gaelic,210,Irish Gaelic,210,to be jealous,to envy,ead a bheith ar duine,ead a bheith ar duine
+13128,shift6581,Derivation,20,ACCEPTED,→,sour,4175,acid,1934,Scottish Gaelic,863,Scottish Gaelic,863,"sour, tart",acid,searbh,searbhag
+13342,shift3774,Polysemy,1,ACCEPTED,—,monk,702,osprey (Pandion haliaёtus),4565,Irish Gaelic,210,Irish Gaelic,210,monk,osprey (Pandion haliaёtus),coirneach,coirneach
+13513,shift5523,Polysemy,1,NEW,→,piper (musician),387,siskin,4090,Irish Gaelic,210,Irish Gaelic,210,piper (musician),siskin,píobaire,píobaire
+13573,shift5637,Derivation,6,ACCEPTED,→,god,804,ladybird,145,Irish Gaelic,210,Irish Gaelic,210,genitive singular of Dia 'God',ladybird,Dé,bóín Dé
+13792,shift1108,Semantic evolution,5,NEW,→,"light, bright, clear",212,glad,788,Irish Gaelic,210,Irish Gaelic,210,"light, bright, clear",glad,geal,geal
+13849,shift2981,Derivation,14,ACCEPTED,→,"little, small",232,little finger,231,Irish Gaelic,210,Irish Gaelic,210,"little, small",little finger,beag,méar bheag
+13859,shift2981,Derivation,24,ACCEPTED,→,"little, small",232,little finger,231,Breton,209,Breton,209,"little, small",little finger,bihan,biz-bihan
+13860,shift2981,Derivation,25,ACCEPTED,→,"little, small",232,little finger,231,Welsh,208,Welsh,208,"short, small, brief, concise, condensed",little finger,byr,byrfys
+13955,shift4344,Polysemy,8,ACCEPTED,→,Mercury,639,mercury,640,Irish Gaelic,210,Irish Gaelic,210,Mercury,mercury,Mearcair,Mearcair
+13957,shift4344,Cognates,10,ACCEPTED,→,Mercury,639,mercury,640,Welsh,208,Welsh,208,Mercury,mercury,Mercher,mercwri
+14032,shift8620,Derivation,8,NEW,→,crab,1125,Cancer (constellation),883,Irish Gaelic,210,Irish Gaelic,210,crab,Cancer (constellation),portán,an Portán
+14128,shift8233,Motivation,3,ACCEPTED,→,rose,1505,hollyhock,1638,Breton,209,Breton,209,rose,hollyhock,roz,roz-malv
+14223,shift6296,Polysemy,2,ACCEPTED,—,plate (a serving dish),404,"table, desk",2107,Old Irish,229,Old Irish,229,a flat dish or platter,"a table in general sense, esp. for food",mías,mías
+14254,shift4124,Polysemy,3,ACCEPTED,—,blue,3634,red,1444,Old Irish,229,Old Irish,229,blue,red,gorm,gorm
+14264,shift6502,Derivation,3,ACCEPTED,→,rose,1505,rose chafer,1507,Irish Gaelic,210,Irish Gaelic,210,rose,rose chafer,rós,chiaróg dheá an róis
+15180,shift6368,Derivation,1,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Irish Gaelic,210,Irish Gaelic,210,dog,otter (Lutra lutra),madra,madra uisce
+15181,shift6368,Derivation,2,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Old Irish,229,Old Irish,229,hound,otter (Lutra lutra),cú,doburchú
+15182,shift6368,Derivation,3,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Breton,209,Breton,209,dog,otter (Lutra lutra),ki,dourgi
+15183,shift6368,Derivation,4,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Cornish,542,Cornish,542,dog,otter (Lutra lutra),ki,dowrgi
+15184,shift6368,Derivation,5,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Welsh,208,Welsh,208,dog,otter (Lutra lutra),ci,dyfrgi
+15185,shift6368,Derivation,6,ACCEPTED,→,dog,4458,otter (Lutra lutra),4569,Manx,895,Manx,895,dog,otter (Lutra lutra),moddey,moddey ushtey
+15200,shift7476,Derivation,1,NEW,→,to wait,3347,pregnant,456,Irish Gaelic,210,Irish Gaelic,210,expectation,pregnant,súil,ag súil
+15245,shift3367,Polysemy,7,NEW,→,brave,3675,insolent,1788,Irish Gaelic,210,Irish Gaelic,210,brave,insolent,dana,dana
+15451,shift5835,Polysemy,4,ACCEPTED,→,"pellicle, membrane",338,"film, movie",1280,Irish Gaelic,210,Irish Gaelic,210,"(anatomy) pellicle, membrane","film, movie",scannán,scannán
+15481,shift2473,Derivation,2,NEW,→,forest,1351,ambush,1986,Welsh,208,Welsh,208,"grove, bush",ambush,llwyn,cynllwyn
+15487,shift7537,Derivation,6,ACCEPTED,→,to sleep,3169,dormouse,4469,Irish Gaelic,210,Irish Gaelic,210,sleep,dormouse,codladh,luch chodlamáin
+15530,shift0002,Polysemy,9,ACCEPTED,—,"to calculate, count",2393,to respect,3075,Old Irish,229,Old Irish,229,to calculate,to estimate,fo-midethar,fo-midethar
+15635,shift7480,Derivation,1,ACCEPTED,→,water,16,osprey (Pandion haliaёtus),4565,Scottish Gaelic,863,Scottish Gaelic,863,water,osprey (Pandion haliaёtus),uisge,iolair-uisge
+15854,shift0144,Semantic evolution,4,NEW,→,to be tied,2308,to feel affection,2614,Irish Gaelic,210,Irish Gaelic,210,to be tied,to feel affection,ceangail,ceangail
+15889,shift1003,Derivation,3,ACCEPTED,→,light (of weight),211,lung,272,Breton,209,Breton,209,light,lung,skañv,skevent
+15890,shift1003,Derivation,4,ACCEPTED,→,light (of weight),211,lung,272,Welsh,208,Welsh,208,light,lungs,ysgafn,ysgyfaint
+15996,shift1985,Semantic evolution,37,NEW,—,silver,4081,money,700,Irish Gaelic,210,Irish Gaelic,210,silver,money,airgead,airgead
+16277,shift3855,Semantic evolution,1,NEW,→,"stranger, foreign",4296,to deprive,2509,Old Irish,229,Old Irish,229,stranger,to deprive,*gasto-,gataid
+16306,shift8330,Derivation,1,ACCEPTED,→,man (male),574,woman,109,Welsh,208,Welsh,208,man (male),woman,gwyr,gwraig
+16369,shift5224,Polysemy,57,ACCEPTED,—,child (son or daughter),958,child (young person),959,Welsh,208,Welsh,208,child (son or daughter),child (of age),plentyn,plentyn
+16426,shift3391,Syncretism,2,ACCEPTED,→,light (of weight),211,not strong (of liquid or smell),1882,Irish Gaelic,210,Irish Gaelic,210,light (of weight),not strong (of liquid or smell),éadrom,éadrom
+16501,shift0366,Polysemy,51,NEW,→,heavy (of weight),1594,difficult,4433,Manx,895,Manx,895,heavy (of weight),difficult,trome,trome
+16546,shift4557,Semantic evolution,1,NEW,→,"footprint, track",1342,descendant,4417,Old Irish,229,Old Irish,229,"footprint, track","семья, род, племя, отпрыск, потомок","slicht, sliocht",sliocht
+16598,shift3221,Polysemy,7,ACCEPTED,→,"lord, master",254,god,804,Old Irish,229,Old Irish,229,"lord, master",god,coimdiu,coimdiu
+16623,shift3875,Polysemy,1,ACCEPTED,→,fast (n.),1237,Friday,1378,Irish Gaelic,210,Irish Gaelic,210,fast (n.),Friday,aoine,Aoine
+16636,shift6008,Polysemy,1,NEW,→,sword,4369,awn,2069,Old Irish,229,Old Irish,229,sword,"awn of barley, wheat etc.",colg,colg
+16712,shift1776,Polysemy,5,NEW,→,female calf,1256,girl,786,Old Irish,229,Old Irish,229,"female calf, heifer",girl,samaisc,samaisc
+16719,shift3925,Polysemy,1,ACCEPTED,→,stone (piece of rock),4281,testicle,2161,Irish Gaelic,210,Irish Gaelic,210,"stone, rock",testicle,cloch,cloch
+16720,shift3925,Polysemy,2,ACCEPTED,→,stone (piece of rock),4281,testicle,2161,Irish Gaelic,210,Irish Gaelic,210,"stone, rock",testicle,caid,caid
+16782,shift5745,Derivation,9,ACCEPTED,→,"to calculate, count",2393,computer,1075,Irish Gaelic,210,Irish Gaelic,210,"to count, enumerate; reckon, calculate, compute",computer,ríomh,ríomhaire
+16784,shift5745,Derivation,11,ACCEPTED,→,"to calculate, count",2393,computer,1075,Welsh,208,Welsh,208,"to calculate, count",computer,cyfrif,cyfrifiadur
+16833,shift6303,Derivation,8,ACCEPTED,→,earth,3798,strawberry (Fragaria moschata),4299,Scottish Gaelic,863,Scottish Gaelic,863,earth,strawberry (Fragaria moschata),làr,sùbh-làir
+16841,shift6303,Derivation,16,ACCEPTED,→,earth,3798,strawberry (Fragaria moschata),4299,Irish Gaelic,210,Irish Gaelic,210,earth,strawberry,talamh,sú talún
+16947,shift6015,Polysemy,8,ACCEPTED,→,foot/leg,1340,leg (furniture),186,Irish Gaelic,210,Irish Gaelic,210,foot/leg,leg (furniture),cos,cos
+16982,shift6514,Derivation,1,NEW,→,cow,1122,cockchafer,1024,Breton,209,Breton,209,cow,cockchafer,buoc&#39;h,buoc&#39;h-derv
+17169,shift2360,Derivation,2,ACCEPTED,→,"to shine, glitter",3145,star,4247,Old Irish,229,Old Irish,229,"pure, bright",star,glan,retglu
+17239,shift3946,Polysemy,5,ACCEPTED,→,standart-bearer,4246,&lt;military rank&gt;,558,Irish Gaelic,210,Irish Gaelic,210,standart-bearer,ensign (in Irish Naval Service),meirgire,meirgire
+17295,shift0128,Polysemy,22,NEW,→,Venus,3757,Friday,1378,Welsh,208,Welsh,208,Venus,Friday,Gwener,Gwener
+17379,shift8505,Polysemy,1,ACCEPTED,→,Samhain,3932,November,1888,Irish Gaelic,210,Irish Gaelic,210,Samhain (Celtic festival),November,Samhain,Samhain
+17380,shift8505,Polysemy,2,ACCEPTED,→,Samhain,3932,November,1888,Scottish Gaelic,863,Scottish Gaelic,863,Samhain,November,Samhain,an t-Samhain
+17464,shift5775,Polysemy,8,ACCEPTED,→,bow (weapon),3659,"bow, fiddlestick",3660,Irish Gaelic,210,Irish Gaelic,210,bow (weapon),"bow, fiddlestick",bogha,bogha
+17920,shift2087,Polysemy,1,NEW,?,star,4247,North,1877,Breton,209,Breton,209,star,North,sterenn,sterenn
+18050,shift2424,Polysemy,5,ACCEPTED,—,pine-tree,382,spruce (Picea),4228,Irish Gaelic,210,Irish Gaelic,210,pine tree,fir tree,giúis,giúis
+18070,shift8251,Derivation,12,ACCEPTED,→,bed,3549,sexual partner,4004,Manx,895,Manx,895,bed,concubine,lhiabbee,colhiabbagh
+18667,shift6911,Derivation,6,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea fowl,859,Breton,209,Breton,209,Spain,guinea fowl,Spagn,klujar-Spagn
+18669,shift6911,Derivation,8,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea fowl,859,Irish Gaelic,210,Irish Gaelic,210,Guinea,guinea fowl (female),An Ghuine,cearc ghuine
+18672,shift6911,Derivation,11,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea fowl,859,Manx,895,Manx,895,Indian,guinea fowl,Injinagh,eeanlee injinagh
+18673,shift6911,Derivation,12,ACCEPTED,→,&lt;foreign country&gt;,1209,guinea fowl,859,Scottish Gaelic,863,Scottish Gaelic,863,Indian,guinea fowl (female),Innseanach,cearc Innseanach
+18681,shift4295,Polysemy,4,ACCEPTED,—,story,4290,history,1632,Irish Gaelic,210,Irish Gaelic,210,story,history,stair,stair
+19358,shift0933,Polysemy,115,NEW,—,man (male),574,husband,1694,Irish Gaelic,210,Irish Gaelic,210,man (male),husband,fear,fear
+19361,shift0933,Polysemy,118,NEW,—,man (male),574,husband,1694,Breton,209,Breton,209,man (male),husband,gwaz,gwaz
+19613,shift1048,Polysemy,3,ACCEPTED,—,midnight,655,North,1877,Breton,209,Breton,209,midnight,North,kreiznoz,kreiznoz
+19683,shift7517,Polysemy,1,NEW,→,"crook, hooked stick",1140,comma,1045,Irish Gaelic,210,Irish Gaelic,210,crook (specialized staff used by shepherds); (generally) any hooked stick,comma,camóg,camóg
+20013,shift0474,Derivation,11,NEW,→,eye,3890,evil eye,3875,Irish Gaelic,210,Irish Gaelic,210,eye,evil eye,súil,drochshúil
+20137,shift5379,Derivation,10,ACCEPTED,→,cross (n.),1142,sacrum (bone),3911,Breton,209,Breton,209,cross (n.),sacrum (bone),kroaz,askorn kroazell
+20312,shift3719,Derivation,4,ACCEPTED,→,to go up,2713,"to revolt, rebel",3085,Irish Gaelic,210,Irish Gaelic,210,rise,"rise out, rise in revolt",éirigh,éirigh amach
+20346,shift1084,Polysemy,3,ACCEPTED,—,beaver (Castor fiber),3547,otter (Lutra lutra),4569,Old Irish,229,Old Irish,229,beaver (Castor fiber),otter (Lutra lutra),dobrán,dobrán
+20428,shift5029,Polysemy,43,NEW,→,father,1242,motherland,724,Irish Gaelic,210,Irish Gaelic,210,father,motherland,athair,athartha
+20577,shift7475,Polysemy,1,NEW,→,eye,3890,"hope, expectation",1655,Old Irish,229,Old Irish,229,eye,"hope, expectation",súil,súil
+20578,shift7475,Polysemy,2,NEW,→,eye,3890,"hope, expectation",1655,Irish Gaelic,210,Irish Gaelic,210,eye,"hope, expectation",súil,súil
+20579,shift4757,Derivation,1,NEW,→,horse,1661,western capercaillie (Tetrao urogallus),46,Scottish Gaelic,863,Scottish Gaelic,863,horse (Equus caballus),western capercaillie (Tetrao urogallus),capall,capallcoille
+21332,shift8175,Motivation,2,NEW,→,orange (plant),4556,mock-orange,687,Welsh,208,Welsh,208,orange (plant),mock-orange (Philadelphus coronarius),oren,ffug-oren
+21889,shift3769,Polysemy,2,ACCEPTED,—,alike,1969,probably,468,Welsh,208,Welsh,208,alike,likely,tebyg,tebyg
+21907,shift7904,Polysemy,2,ACCEPTED,—,"textile, cloth",2162,sail (n.),3920,Old Irish,229,Old Irish,229,wave,sail (n.),seol,seol
+22025,shift6454,Derivation,2,NEW,→,wolf,107,mole cricket (Gryllotalpa),695,Breton,209,Breton,209,wolf,mole cricket (Gryllotalpa),bleiz,bleizig-teil
+22041,shift3981,Polysemy,9,ACCEPTED,→,mirror,675,spectacles,4192,Welsh,208,Welsh,208,"looking-glass, mirror","reading-glass, spectacle lens, (in pl.) glasses, pair of spectacles",gwydr,gwydr
+22080,shift6467,Derivation,9,ACCEPTED,→,cricket (insect),1136,mole cricket (Gryllotalpa),695,Irish Gaelic,210,Irish Gaelic,210,cricket (insect),mole cricket (Gryllotalpa),chriogar,caoch-chriogar
+22242,shift0132,Polysemy,24,NEW,→,moon,708,Monday,698,Old Irish,229,Old Irish,229,moon,Monday,luan,luan
+22251,shift0132,Derivation,33,NEW,→,moon,708,Monday,698,Welsh,208,Welsh,208,moon,Monday,Lleuad,dydd Llun
+22519,shift3817,Polysemy,2,ACCEPTED,→,"horseman, rider",1666,knight (chess),1722,Irish Gaelic,210,Irish Gaelic,210,"horseman, rider",knight (chess),ridire,ridire
+22701,shift0131,Derivation,22,NEW,→,Mars,597,Tuesday,3458,Welsh,208,Welsh,208,Mars,Tuesday,Mawrth,dydd Mawrth
+22785,shift2629,Semantic evolution,5,NEW,→,field,1271,on the outside,4541,Irish Gaelic,210,Irish Gaelic,210,field,on the outside,mag,amach
+23231,shift8232,Polysemy,1,ACCEPTED,→,hollyhock,1638,marsh mallow,598,Welsh,208,Welsh,208,hollyhock,marsh mallow,holihoc,holihoc
+23414,shift2405,Polysemy,2,ACCEPTED,→,August,2054,harvest,1565,Breton,209,Breton,209,august,harvest,eost,eost
+23579,shift8403,Polysemy,3,ACCEPTED,→,rut,1531,October,4521,Scottish Gaelic,863,Scottish Gaelic,863,rutting,October,dàmhair,an Dàmhair
+23580,shift8403,Polysemy,4,ACCEPTED,→,rut,1531,October,4521,Welsh,208,Welsh,208,stag call,October,hydref,Hydref
+23696,shift1171,Polysemy,85,NEW,—,heart,1588,location of emotions,239,Irish Gaelic,210,Irish Gaelic,210,heart,location of emotions,croí,croí
+23776,shift7395,Polysemy,3,NEW,→,stone (piece of rock),4281,measure of weight,620,Irish Gaelic,210,Irish Gaelic,210,stone (piece of rock),measure of weight,cloch,cloch
+23858,shift6145,Derivation,2,ACCEPTED,→,shadow,4010,umbrella,504,Irish Gaelic,210,Irish Gaelic,210,shadow,umbrella,scáth,scáth fearthainne
+23859,shift6145,Derivation,3,ACCEPTED,→,shadow,4010,umbrella,504,Scottish Gaelic,863,Scottish Gaelic,863,"shadow, shade",umbrella,sgàile,sgàilean
+23923,shift4133,Polysemy,3,ACCEPTED,—,insect,1786,fly (n.),1327,Welsh,208,Welsh,208,iinsect,(house)fly,pryf,pryf
+23968,shift4686,Derivation,22,ACCEPTED,→,blind,3624,caecum (blind gut),871,Irish Gaelic,210,Irish Gaelic,210,blind,caecum (blind gut),caoch,caochán
+23987,shift2152,Motivation,10,NEW,→,tail,2113,"horsetail, equisetum",1669,Irish Gaelic,210,Irish Gaelic,210,tail,"horsetail, equisetum",eireaball,eireaball capaill
+24276,shift2204,Polysemy,2,ACCEPTED,→,young person,2093,soldier,4154,Irish Gaelic,210,Irish Gaelic,210,young man,warrior,ōc,ōc
+24405,shift5092,Polysemy,33,ACCEPTED,→,"idler, loafer",1736,sloth (South American mammal),4119,Welsh,208,Welsh,208,"lazy person, sluggard, idler","sloth, one of the Bradypodidæ",diogyn,diogyn
+24417,shift2703,Derivation,3,ACCEPTED,→,to lick,2847,spoon,4217,Old Irish,229,Old Irish,229,to lick,spoon,ligim,liag
+24514,shift0213,Polysemy,4,ACCEPTED,→,clean (adj.),998,"totally, absolutely",3415,Irish Gaelic,210,Irish Gaelic,210,clean (adj.),"totally, absolutely",glan,glan
+24841,shift6036,Polysemy,1,NEW,→,thumb,2188,claw (of a crustacean),996,Irish Gaelic,210,Irish Gaelic,210,"thumb, big toe",claw (of a crustacean),ordóg,ordóg
+24901,shift4331,Polysemy,25,ACCEPTED,→,mouse,733,computer mouse,1076,Breton,209,Breton,209,mouse,mouse (computer),logodenn,logodenn
+24936,shift4677,Derivation,1,NEW,→,needle,1841,dragonfly,4476,Irish Gaelic,210,Irish Gaelic,210,needle,dragonfly,snáthaid,snáthaid mhór
+25013,shift8171,Motivation,2,ACCEPTED,→,willow,85,willowherb,87,Welsh,208,Welsh,208,willow,willowherb,helyg,helyglys
+25318,shift3974,Derivation,8,ACCEPTED,→,fisherman,1302,osprey (Pandion haliaёtus),4565,Scottish Gaelic,863,Scottish Gaelic,863,fishing,osprey (Pandion haliaёtus),iasgaich,iolair-iasgaich
+25363,shift1705,Derivation,1,ACCEPTED,?,to push,3024,ram,1425,Welsh,208,Welsh,208,to push,ram,hwrrd,hwrrd
+25571,shift7794,Polysemy,2,NEW,—,ankle,2002,fetlock,1264,Irish Gaelic,210,Irish Gaelic,210,ankle,fetlock,rúitín,rúitín
+25735,shift1043,Polysemy,8,ACCEPTED,→,to drag,2548,to steal,3220,Welsh,208,Welsh,208,to drag (away),to steal,dygaf,dygaf
+25761,shift2652,Derivation,1,NEW,→,heat (n.),1590,to feel hunger,2616,Old Irish,229,Old Irish,229,heat,hunger,gorim,gorte
+25851,shift1551,Polysemy,2,NEW,→,one (unit),4542,ace (playing card),1933,Scottish Gaelic,863,Scottish Gaelic,863,one,ace (playing card),aon,aon
+25852,shift1551,Polysemy,3,NEW,→,one (unit),4542,ace (playing card),1933,Manx,895,Manx,895,one,ace (playing card),"unnane (&#39;nane, nane)","unnane (&#39;nane, nane)"
+26003,shift7373,Polysemy,1,ACCEPTED,→,"lattice, grid",165,harrow,1564,Irish Gaelic,210,Irish Gaelic,210,"wattled, latticed, frame; hurdle",harrow,cliath,cliath
+26183,shift7042,Motivation,7,ACCEPTED,→,horse,1661,"horsetail, equisetum",1669,Irish Gaelic,210,Irish Gaelic,210,horse (Equus caballus),"horsetail, equisetum",capall,eireaball capaill
+26240,shift8599,Polysemy,1,ACCEPTED,—,mirror,675,lens,192,Welsh,208,Welsh,208,mirror,lens,gwydryn,gwydryn
+26314,shift7148,Polysemy,1,NEW,→,&lt;tree&gt;,2104,destiny,4419,Old Irish,229,Old Irish,229,<tree>,destiny,crann,crann
+26415,shift3926,Polysemy,7,ACCEPTED,→,word,120,verb,3758,Irish Gaelic,210,Irish Gaelic,210,word,verb,briathar,briathar
+26679,shift7289,Motivation,6,ACCEPTED,→,Christmas,975,December,4401,Irish Gaelic,210,Irish Gaelic,210,Christmas,December,Nollaig,Mí na Nollag
+27622,shift8130,Polysemy,2,ACCEPTED,→,"summer solstice, St John&#39;s Day",4331,June,1200,Old Irish,229,Old Irish,229,midsummer,June,mithem,mithem
+27647,shift7481,Derivation,1,NEW,→,to dive,2540,osprey (Pandion haliaёtus),4565,Breton,209,Breton,209,diving,osprey (Pandion haliaёtus),spluj,erer-spluj
+27752,shift0908,Polysemy,3,ACCEPTED,—,right (vs. left),1481,South,4179,Breton,209,Breton,209,the right side,southern,"dehou, dehow","dehou, dehow"
+27753,shift0908,Polysemy,4,ACCEPTED,—,right (vs. left),1481,South,4179,Old Irish,229,Old Irish,229,right (vs. left),south,dess,dess
+27754,shift0908,Polysemy,5,ACCEPTED,→,right (vs. left),1481,South,4179,Old Welsh,448,Old Welsh,448,right (vs. left),south,"dehau, deheu","dehau, deheu"
+27755,shift0908,Polysemy,6,ACCEPTED,→,right (vs. left),1481,South,4179,Cornish,542,Cornish,542,right (vs. left),south,"dehow, dyghow","dehow, dyghow"
+27758,shift0908,Polysemy,9,ACCEPTED,→,right (vs. left),1481,South,4179,Scottish Gaelic,863,Scottish Gaelic,863,right (side),"South, southern",deas,deas
+27769,shift0129,Derivation,11,NEW,—,Saturn,3946,Saturday,3945,Welsh,208,Welsh,208,Saturn,Saturday,Sadwrn,dydd Sadwrn
+27810,shift7767,Derivation,2,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Manx,895,Manx,895,water,otter (Lutra lutra),ushtey,moddey ushtey
+27814,shift7767,Derivation,6,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Breton,209,Breton,209,water,otter (Lutra lutra),dour,dourgi
+27819,shift7767,Derivation,11,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Welsh,208,Welsh,208,water,otter (Lutra lutra),dwfr,dyfrgi
+27822,shift7767,Derivation,14,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Irish Gaelic,210,Irish Gaelic,210,water,otter (Lutra lutra),uisce,madra uisce
+27823,shift7767,Derivation,15,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Old Irish,229,Old Irish,229,water,otter (Lutra lutra),dobur,doburchú
+27824,shift7767,Derivation,16,ACCEPTED,→,water,16,otter (Lutra lutra),4569,Cornish,542,Cornish,542,water,otter (Lutra lutra),dowr,dowrgi
+28275,shift0016,Semantic evolution,9,NEW,→,sweet (taste),4358,"dear, darling",4397,Irish Gaelic,210,Irish Gaelic,210,sweet (taste),"dear, darling",milis,milis
+28419,shift8382,Polysemy,2,ACCEPTED,→,to ripen,3089,September,3996,Welsh,208,Welsh,208,to ripe,September,medi,Medi
+28505,shift2526,Derivation,1,ACCEPTED,→,white,62,wheat,53,Welsh,208,Welsh,208,white,wheat,gwynn,gwenith
+28507,shift2526,Derivation,3,ACCEPTED,→,white,62,wheat,53,Breton,209,Breton,209,white,wheat,gwenn,gwiniz
+28513,shift2526,Derivation,9,ACCEPTED,→,white,62,wheat,53,Cornish,542,Cornish,542,white,wheat,"gwynn, gwydn",gwaneth
+28607,shift6018,Derivation,30,ACCEPTED,→,to gnaw,2696,rodent,1490,Welsh,208,Welsh,208,to gnaw,rodent,cnoi,cnofil
+28635,shift1369,Polysemy,4,ACCEPTED,→,"step, pace",4257,unit of length,528,Welsh,208,Welsh,208,"step, pace",unit of length,cam,cam
+29177,shift6513,Derivation,1,NEW,→,oak,4510,cockchafer,1024,Breton,209,Breton,209,oak,cockchafer,derv,c&#39;hwil-derv
+29183,shift2481,Derivation,1,NEW,→,strong,4304,fortress,1353,Breton,209,Breton,209,strong,fortress,krenv,krenvlec&#39;h
+29550,shift0339,Derivation,3,ACCEPTED,→,hand/arm,1550,"skilful, dexterous",4097,Irish Gaelic,210,Irish Gaelic,210,hand/arm,"skill in handling, in casting; dexterity",lámh,lámhach
+29864,shift6503,Derivation,14,ACCEPTED,→,May,609,cockchafer,1024,Breton,209,Breton,209,May,cockchafer,Mae,c&#39;hwil-Mae
+29884,shift2651,Derivation,2,ACCEPTED,←,to feel hunger,2616,to want,3353,Irish Gaelic,210,Irish Gaelic,210,hunger,"love, desire",ocras,caraim
+30063,shift0674,Polysemy,10,ACCEPTED,→,&lt;artiodactyl (even-toed animal)&gt;,1917,woman,109,Scottish Gaelic,863,Scottish Gaelic,863,mare,"(slang) woman, when regarded as a sexual object",làir,làir
+30168,shift7431,Polysemy,12,ACCEPTED,→,"below, down, bottom part",3575,North,1877,Irish Gaelic,210,Irish Gaelic,210,bottom,North,thios,thios
+30247,shift8392,Semantic evolution,1,NEW,→,Mid-Autumn,651,September,3996,Irish Gaelic,210,Irish Gaelic,210,Mid-Autumn,September,meadon Fomhair,meanfhomhair
+30282,shift3816,Polysemy,2,ACCEPTED,→,bishop,3601,bishop (chess),3602,Irish Gaelic,210,Irish Gaelic,210,bishop,bishop (chess),easpag,easpag
+30692,shift4010,Polysemy,18,ACCEPTED,→,father,1242,ancestor,1990,Irish Gaelic,210,Irish Gaelic,210,father,ancestor,athair,athair
+30859,shift7477,Derivation,8,ACCEPTED,→,fish,1300,osprey (Pandion haliaёtus),4565,Welsh,208,Welsh,208,fish,osprey (Pandion haliaёtus),pysgod,gwalch y pysgod
+30889,shift5625,Derivation,5,ACCEPTED,→,cow,1122,ladybird,145,Irish Gaelic,210,Irish Gaelic,210,cow,ladybird,bó,bóín Dé
+30890,shift5625,Derivation,6,ACCEPTED,→,cow,1122,ladybird,145,Welsh,208,Welsh,208,cow,ladybird,buwch,buwch goch gota
+31245,shift5776,Polysemy,2,ACCEPTED,→,cloud,1007,cataract (of the eye),909,Scottish Gaelic,863,Scottish Gaelic,863,cloud,cataract (of the eye),neul,neul-sùla
+31283,shift3775,Polysemy,1,ACCEPTED,→,crown (n.),1149,tonsure (of monk),3402,Old Irish,229,Old Irish,229,crown (n.),tonsure (of monk),corann,corann
+31497,shift7055,Semantic evolution,1,NEW,—,strength,4301,"many, much",584,Irish Gaelic,210,Irish Gaelic,210,strength,"many, much",neart,neart
+31612,shift0557,Semantic evolution,8,ACCEPTED,→,history,1632,"event, occurrence",3872,Old Irish,229,Old Irish,229,history,"event, occurrence",scel,scel
+31630,shift8320,Derivation,1,ACCEPTED,→,"human, person",1683,woman,109,Welsh,208,Welsh,208,person,woman,dyn,dynes
+31644,shift7854,Derivation,1,NEW,→,"rock, crag, cliff",1489,echo,3807,Middle Irish,1529,Middle Irish,1529,cliff,echo,alla,mac alla
+31860,shift3358,Polysemy,3,ACCEPTED,→,to sing,3157,to practice witchcraft,2994,Old Irish,229,Old Irish,229,"song, singing","spell, incantation",cétal,cétal
+31874,shift1724,Derivation,3,ACCEPTED,→,sharp,4022,quick,1908,Welsh,208,Welsh,208,sharp,"quick, fast",llym,cuflym
+31981,shift4825,Polysemy,4,ACCEPTED,→,bed,3549,garden bed,767,Irish Gaelic,210,Irish Gaelic,210,bed,garden bed,leaba,leaba
