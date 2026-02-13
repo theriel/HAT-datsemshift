@@ -1,6 +1,6 @@
 # HAT-datsemshift
 
-This is a derived dataset originating from Zalizniak et al. (2024)'s Database of Semantic Shifts.
+This is a derived dataset originating from Zalizniak et al. (2024)'s Database of Semantic Shifts, funded by the HAT research group (https://blogs.helsinki.fi/hatresearch/). 
 
 ### Dataset Characteristics
 Tabular
